@@ -20,6 +20,7 @@
 		p.s: А русский и без них все разберет ;D
 	***
 	
+	Project in github: https://github.com/georJik/SEGMS
 	 
 */
 
