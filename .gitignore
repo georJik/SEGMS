@@ -1,0 +1,7 @@
+*.exe
+*.dll
+*.txt
+filtersctipts
+pawno
+*.amx
+scriptfiles
