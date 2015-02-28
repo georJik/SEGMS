@@ -1,0 +1,5326 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[20:48:45] 
+[20:48:45] Server Plugins
+[20:48:45] --------------
+[20:48:45]  Loading plugin: mysql
+[20:48:45]  >> plugin.mysql: R39-2 successfully loaded.
+[20:48:45]   Loaded.
+[20:48:45]  Loading plugin: sscanf
+[20:48:45] 
+
+[20:48:45]  ===============================
+
+[20:48:45]       sscanf plugin loaded.     
+
+[20:48:45]          Version:  2.8.1        
+
+[20:48:45]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:48:45]  ===============================
+
+[20:48:45]   Loaded.
+[20:48:45]  Loading plugin: streamer
+[20:48:45] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[20:48:45]   Loaded.
+[20:48:45]  Loaded 3 plugins.
+
+[20:48:45] 
+[20:48:45] Filterscripts
+[20:48:45] ---------------
+[20:48:45]   Loading filterscript 'TD.amx'...
+[20:48:45] 
+--------------------------------------
+[20:48:45]  Text Draw Editor 1.0RC2 by Zamaroht for SA-MP 0.3 Loaded.
+[20:48:45] --------------------------------------
+
+[20:48:45]   Loaded 1 filterscripts.
+
+[20:48:45] Number of vehicle models: 0
+[20:49:21] Incoming connection: 127.0.0.1:61371
+[20:49:21] [join] George_Houser has joined the server (0:127.0.0.1)
+[21:36:17] [part] George_Houser has left the server (0:1)
+[21:37:29] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[23:37:48] 
+[23:37:48] Server Plugins
+[23:37:48] --------------
+[23:37:48]  Loading plugin: mysql
+[23:37:48]  >> plugin.mysql: R39-2 successfully loaded.
+[23:37:48]   Loaded.
+[23:37:48]  Loading plugin: sscanf
+[23:37:48] 
+
+[23:37:48]  ===============================
+
+[23:37:48]       sscanf plugin loaded.     
+
+[23:37:48]          Version:  2.8.1        
+
+[23:37:48]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:37:48]  ===============================
+
+[23:37:48]   Loaded.
+[23:37:48]  Loading plugin: streamer
+[23:37:48] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[23:37:48]   Loaded.
+[23:37:48]  Loaded 3 plugins.
+
+[23:37:48] 
+[23:37:48] Filterscripts
+[23:37:48] ---------------
+[23:37:48]   Loading filterscript 'TD.amx'...
+[23:37:48] 
+--------------------------------------
+[23:37:48]  Text Draw Editor 1.0RC2 by Zamaroht for SA-MP 0.3 Loaded.
+[23:37:48] --------------------------------------
+
+[23:37:48]   Loaded 1 filterscripts.
+
+[23:37:48] Number of vehicle models: 0
+[23:38:30] Incoming connection: 127.0.0.1:51705
+[23:38:30] [join] George_Houser has joined the server (0:127.0.0.1)
+[23:40:46] RCON (In-Game): Player #0 (George_Houser) has logged in.
+[23:40:49] RCON (In-Game): Player [George_Houser] sent command: gmx
+[23:41:01] Number of vehicle models: 0
+[23:54:03] RCON (In-Game): Player [George_Houser] sent command: gmc
+[23:54:04] RCON (In-Game): Player [George_Houser] sent command: gmx
+[23:54:17] Number of vehicle models: 0
+[23:55:09] RCON (In-Game): Player [George_Houser] sent command: gmx
+[23:55:21] Number of vehicle models: 0
+[23:56:02] RCON (In-Game): Player [George_Houser] sent command: gmx
+[23:56:14] Number of vehicle models: 0
+[00:00:42] RCON (In-Game): Player [George_Houser] sent command: gmx
+[00:00:54] Number of vehicle models: 0
+[00:01:21] RCON (In-Game): Player [George_Houser] sent command: gmx
+[00:01:33] Number of vehicle models: 0
+[00:14:40] RCON (In-Game): Player [George_Houser] sent command: gmx
+[00:14:52] Number of vehicle models: 0
+[00:17:10] [part] George_Houser has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[00:27:49] 
+[00:27:49] Server Plugins
+[00:27:49] --------------
+[00:27:49]  Loading plugin: mysql
+[00:27:50]  >> plugin.mysql: R39-2 successfully loaded.
+[00:27:50]   Loaded.
+[00:27:50]  Loading plugin: sscanf
+[00:27:50] 
+
+[00:27:50]  ===============================
+
+[00:27:50]       sscanf plugin loaded.     
+
+[00:27:50]          Version:  2.8.1        
+
+[00:27:50]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:27:50]  ===============================
+
+[00:27:50]   Loaded.
+[00:27:50]  Loading plugin: streamer
+[00:27:50] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[00:27:50]   Loaded.
+[00:27:50]  Loaded 3 plugins.
+
+[00:27:50] 
+[00:27:50] Filterscripts
+[00:27:50] ---------------
+[00:27:50]   Loading filterscript 'TD.amx'...
+[00:27:50] 
+--------------------------------------
+[00:27:50]  Text Draw Editor 1.0RC2 by Zamaroht for SA-MP 0.3 Loaded.
+[00:27:50] --------------------------------------
+
+[00:27:50]   Loaded 1 filterscripts.
+
+[00:27:50] Number of vehicle models: 0
+[00:28:16] Incoming connection: 127.0.0.1:54943
+[00:28:16] [join] George_Houser has joined the server (0:127.0.0.1)
+[00:28:59] [part] George_Houser has left the server (0:0)
+[00:29:56] Incoming connection: 127.0.0.1:60992
+[00:29:56] [join] George_Houser has joined the server (0:127.0.0.1)
+[00:45:02] RCON (In-Game): Player #0 (George_Houser) has logged in.
+[00:45:03] RCON (In-Game): Player [George_Houser] sent command: gmx
+[00:45:15] Number of vehicle models: 0
+[00:47:27] RCON (In-Game): Player [George_Houser] sent command: gmx
+[00:47:39] Number of vehicle models: 0
+[00:48:25] RCON (In-Game): Player [George_Houser] sent command: gmx
+[00:48:37] Number of vehicle models: 0
+[00:51:12] RCON (In-Game): Player [George_Houser] sent command: gmx
+[00:51:24] Number of vehicle models: 0
+[00:53:11] RCON (In-Game): Player [George_Houser] sent command: gmx
+[00:53:23] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[12:00:26] 
+[12:00:26] Server Plugins
+[12:00:26] --------------
+[12:00:26]  Loading plugin: mysql
+[12:00:26]  >> plugin.mysql: R39-2 successfully loaded.
+[12:00:26]   Loaded.
+[12:00:26]  Loading plugin: sscanf
+[12:00:26] 
+
+[12:00:26]  ===============================
+
+[12:00:26]       sscanf plugin loaded.     
+
+[12:00:26]          Version:  2.8.1        
+
+[12:00:26]    (c) 2012 Alex "Y_Less" Cole  
+
+[12:00:26]  ===============================
+
+[12:00:26]   Loaded.
+[12:00:26]  Loading plugin: streamer
+[12:00:26] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[12:00:26]   Loaded.
+[12:00:26]  Loaded 3 plugins.
+
+[12:00:27] 
+[12:00:27] Filterscripts
+[12:00:27] ---------------
+[12:00:27]   Loading filterscript 'TD.amx'...
+[12:00:27] 
+--------------------------------------
+[12:00:27]  Text Draw Editor 1.0RC2 by Zamaroht for SA-MP 0.3 Loaded.
+[12:00:27] --------------------------------------
+
+[12:00:27]   Loaded 1 filterscripts.
+
+[12:00:27] Number of vehicle models: 0
+[12:00:34] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[12:00:42] filterscripts = ""  (string)
+[12:00:42] 
+[12:00:42] Server Plugins
+[12:00:42] --------------
+[12:00:42]  Loading plugin: mysql
+[12:00:42]  >> plugin.mysql: R39-2 successfully loaded.
+[12:00:42]   Loaded.
+[12:00:42]  Loading plugin: sscanf
+[12:00:42] 
+
+[12:00:42]  ===============================
+
+[12:00:42]       sscanf plugin loaded.     
+
+[12:00:42]          Version:  2.8.1        
+
+[12:00:42]    (c) 2012 Alex "Y_Less" Cole  
+
+[12:00:42]  ===============================
+
+[12:00:42]   Loaded.
+[12:00:42]  Loading plugin: streamer
+[12:00:42] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[12:00:42]   Loaded.
+[12:00:42]  Loaded 3 plugins.
+
+[12:00:43] 
+[12:00:43] Filterscripts
+[12:00:43] ---------------
+[12:00:43]   Loaded 0 filterscripts.
+
+[12:00:43] Number of vehicle models: 0
+[12:01:15] Incoming connection: 95.67.145.228:54824
+[12:01:15] [join] Rich_Exe has joined the server (0:95.67.145.228)
+[12:01:20] Incoming connection: 127.0.0.1:54505
+[12:01:20] [join] George_Houser has joined the server (1:127.0.0.1)
+[12:01:30] Incoming connection: 178.45.42.141:59042
+[12:01:31] [join] Makroy_Diman has joined the server (2:178.45.42.141)
+[12:01:44] [chat] [George_Houser]: За терров
+[12:01:47] [chat] [George_Houser]: Пока заходите
+[12:01:51] [chat] [George_Houser]: Так
+[12:01:52] [chat] [Rich_Exe]: чё так
+[12:02:01] [chat] [George_Houser]: Короче вчера вечерком
+[12:02:03] [chat] [George_Houser]: Решил
+[12:02:10] [chat] [George_Houser]: сделать для паба модик
+[12:02:13] [chat] [George_Houser]: за денек
+[12:02:16] [chat] [George_Houser]: контер
+[12:02:21] [chat] [George_Houser]: две команды
+[12:02:23] [chat] [George_Houser]: пока одна карта
+[12:02:30] [chat] [George_Houser]: щас проверим цвета на карте
+[12:02:37] [chat] [Rich_Exe]: давай
+[12:02:42] [chat] [George_Houser]: и наверное вечерком тестовый матч
+[12:02:58] [chat] [George_Houser]: Афк 10 сек
+[12:03:01] [chat] [Rich_Exe]: оке
+[12:04:06] [part] Makroy_Diman has left the server (2:1)
+[12:04:28] Incoming connection: 178.45.42.141:61518
+[12:04:29] [join] Makroy_Diman has joined the server (2:178.45.42.141)
+[12:04:43] RCON (In-Game): Player #1 (George_Houser) has logged in.
+[12:04:45] RCON (In-Game): Player [George_Houser] sent command: gmx
+[12:04:57] Number of vehicle models: 0
+[12:05:07] [chat] [George_Houser]: Я какого цвета?
+[12:05:09] [part] Makroy_Diman has left the server (2:1)
+[12:05:11] [chat] [Rich_Exe]: белого
+[12:05:17] [chat] [George_Houser]: а ты голубого да?
+[12:05:18] [chat] [Rich_Exe]: ток меня показывает
+[12:05:22] [chat] [Rich_Exe]: ну да
+[12:05:23] [chat] [George_Houser]: угу сек
+[12:05:24] [chat] [Rich_Exe]: синий такой
+[12:05:25] [chat] [George_Houser]: 20 сек
+[12:05:28] [chat] [Rich_Exe]: оке
+[12:05:29] Incoming connection: 178.45.42.141:61519
+[12:05:29] [join] Makroy_Diman has joined the server (2:178.45.42.141)
+[12:06:34] [chat] [George_Houser]: nfr tcnm
+[12:06:35] [chat] [George_Houser]: Такс
+[12:06:36] [chat] [George_Houser]: сек
+[12:06:40] [chat] [George_Houser]: спавн для кт поставлю
+[12:09:50] [chat] [Rich_Exe]: ждём
+[12:11:15] RCON (In-Game): Player [George_Houser] sent command: gmx
+[12:11:27] Number of vehicle models: 0
+[12:11:41] [chat] [George_Houser]: вы взяли кт?
+[12:11:43] [chat] [Rich_Exe]: axax
+[12:11:45] [chat] [Makroy_Diman]: :D
+[12:11:46] [chat] [Rich_Exe]: сча перезайду
+[12:11:46] [chat] [George_Houser]: или т
+[12:11:49] [chat] [George_Houser]: стой
+[12:11:50] [chat] [Rich_Exe]: кт
+[12:11:52] [chat] [George_Houser]: я сделаю рестарт
+[12:11:54] [chat] [George_Houser]: вы кт взяли?
+[12:11:57] [chat] [Rich_Exe]: да
+[12:12:01] [part] Makroy_Diman has left the server (2:1)
+[12:12:06] [chat] [George_Houser]: я рестарт мог сделать
+[12:12:09] [chat] [George_Houser]: :D 
+[12:12:10] [chat] [Rich_Exe]: похуй
+[12:12:12] [chat] [Rich_Exe]: :D
+[12:12:12] [chat] [George_Houser]: так надо цвета
+[12:12:16] [chat] [George_Houser]: регулировать
+[12:12:31] Incoming connection: 178.45.42.141:52283
+[12:12:32] [join] Makroy_Diman has joined the server (2:178.45.42.141)
+[12:13:03] [kill] George_Houser killed Makroy_Diman Silenced Pistol
+[12:13:08] [chat] [Rich_Exe]: У МЕЯН ПМС
+[12:13:18] [chat] [Makroy_Diman]: я прыгаю опять
+[12:13:21] [chat] [George_Houser]: ты где
+[12:13:21] [chat] [Makroy_Diman]: с неба
+[12:13:26] [chat] [Rich_Exe]: лол
+[12:13:27] [chat] [Makroy_Diman]: ласточка ёптэ
+[12:13:29] [chat] [Rich_Exe]: т выбрал
+[12:13:31] [chat] [George_Houser]: Заспавнился
+[12:13:33] [chat] [Rich_Exe]: и с неба летит
+[12:13:38] [chat] [George_Houser]: а лол
+[12:13:41] [chat] [Rich_Exe]: :D
+[12:13:48] [chat] [Rich_Exe]: видишь пмс?
+[12:14:01] [chat] [George_Houser]: стой на месте
+[12:14:02] [death] Makroy_Diman died 54
+[12:14:09] [part] Makroy_Diman has left the server (2:1)
+[12:14:13] [chat] [Rich_Exe]: лул
+[12:14:20] [chat] [George_Houser]: тут?в
+[12:14:25] [chat] [Rich_Exe]: да
+[12:14:28] [chat] [Rich_Exe]: он кароч чёт
+[12:14:30] [chat] [George_Houser]: лол ты у меня в афк В
+[12:14:30] Incoming connection: 178.45.42.141:57654
+[12:14:30] [join] Makroy_Diman has joined the server (2:178.45.42.141)
+[12:14:33] [chat] [Rich_Exe]: т выбрал
+[12:14:36] [chat] [George_Houser]: сядь в мопед
+[12:14:45] [chat] [Rich_Exe]: :D
+[12:14:56] [chat] [George_Houser]: убей 
+[12:14:56] [chat] [George_Houser]: меня
+[12:14:58] [kill] Makroy_Diman killed George_Houser Colt 45
+[12:15:08] [chat] [George_Houser]: да с неба
+[12:15:09] [chat] [George_Houser]: ща пофикну
+[12:15:10] [chat] [George_Houser]: ш
+[12:15:11] [chat] [George_Houser]: у
+[12:15:15] [kill] Rich_Exe killed Makroy_Diman Silenced Pistol
+[12:15:18] [chat] [Rich_Exe]: давай
+[12:15:21] [chat] [Rich_Exe]: я в дотку пока что
+[12:15:22] [part] Makroy_Diman has left the server (2:1)
+[12:15:24] [chat] [Rich_Exe]: оке7
+[12:15:43] Incoming connection: 178.45.42.141:57656
+[12:15:43] [join] Makroy_Diman has joined the server (2:178.45.42.141)
+[12:16:27] RCON (In-Game): Player [George_Houser] sent command: gmx
+[12:16:39] Number of vehicle models: 0
+[12:17:03] [chat] [George_Houser]: меня нет у тебя на карте да?
+[12:17:11] [chat] [George_Houser]: нормас 
+[12:17:11] [chat] [Rich_Exe]: нет
+[12:17:16] [chat] [George_Houser]: убей ка меня
+[12:17:19] [chat] [Rich_Exe]: кароч цвет только для тебя твой видно
+[12:17:36] [kill] Makroy_Diman killed George_Houser Colt 45
+[12:17:45] [kill] Makroy_Diman killed Rich_Exe Colt 45
+[12:17:51] [chat] [George_Houser]: норм 
+[12:17:52] [chat] [Rich_Exe]: кароч пакеты теряются что ли
+[12:17:57] [chat] [Rich_Exe]: я в него стреляю
+[12:17:57] [chat] [George_Houser]: да
+[12:18:00] [chat] [Rich_Exe]: он как бы афк
+[12:18:05] [chat] [Rich_Exe]: потом норм
+[12:18:10] [chat] [Rich_Exe]: но пули не оппадают
+[12:18:12] [chat] [George_Houser]: с компа жи я :D
+[12:18:13] [death] George_Houser died 54
+[12:18:16] [chat] [Rich_Exe]: ахаха
+[12:18:17] [death] Rich_Exe died 54
+[12:18:18] [chat] [Rich_Exe]: :D
+[12:18:20] [chat] [Rich_Exe]: чё
+[12:18:22] [chat] [Rich_Exe]: я дотку
+[12:18:24] [chat] [George_Houser]: запустил
+[12:18:26] [chat] [George_Houser]: лан давай
+[12:18:26] [chat] [Rich_Exe]: идшь?
+[12:18:29] [chat] [George_Houser]: пока нет
+[12:18:32] [chat] [Rich_Exe]: о
+[12:18:33] [chat] [Rich_Exe]: сча
+[12:18:37] [chat] [Rich_Exe]: у тебя цветной ник
+[12:18:39] [chat] [Rich_Exe]: и видно
+[12:18:40] [chat] [George_Houser]: да
+[12:18:52] [chat] [Rich_Exe]: давай, черканёшь есм чё
+[12:18:54] [chat] [George_Houser]: ок
+[12:18:56] [part] Rich_Exe has left the server (0:1)
+[12:18:59] [part] George_Houser has left the server (1:1)
+[12:19:08] [part] Makroy_Diman has left the server (2:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[13:17:45] filterscripts = ""  (string)
+[13:17:45] 
+[13:17:45] Server Plugins
+[13:17:45] --------------
+[13:17:45]  Loading plugin: mysql
+[13:17:45]  >> plugin.mysql: R39-2 successfully loaded.
+[13:17:45]   Loaded.
+[13:17:45]  Loading plugin: sscanf
+[13:17:45] 
+
+[13:17:45]  ===============================
+
+[13:17:45]       sscanf plugin loaded.     
+
+[13:17:45]          Version:  2.8.1        
+
+[13:17:45]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:17:45]  ===============================
+
+[13:17:45]   Loaded.
+[13:17:45]  Loading plugin: streamer
+[13:17:45] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[13:17:45]   Loaded.
+[13:17:45]  Loaded 3 plugins.
+
+[13:17:45] 
+[13:17:45] Filterscripts
+[13:17:45] ---------------
+[13:17:45]   Loaded 0 filterscripts.
+
+[13:17:45] Number of vehicle models: 0
+[13:18:21] Incoming connection: 127.0.0.1:53943
+[13:18:21] [join] George_Houser has joined the server (0:127.0.0.1)
+[13:18:35] [death] George_Houser died 54
+Console input: gmx
+[13:36:45] Number of vehicle models: 0
+[13:37:03] [chat] [George_Houser]: s
+[13:37:10] [death] George_Houser died 54
+[13:43:31] RCON (In-Game): Player #0 (George_Houser) has logged in.
+[13:43:33] RCON (In-Game): Player [George_Houser] sent command: gmx
+[13:43:45] Number of vehicle models: 0
+[13:43:57] [death] George_Houser died 54
+[13:44:42] Number of vehicle models: 0
+[13:44:50] [death] George_Houser died 54
+[13:46:08] Number of vehicle models: 0
+[13:46:19] [death] George_Houser died 54
+[13:47:06] RCON (In-Game): Player [George_Houser] sent command: gmx
+[13:47:18] Number of vehicle models: 0
+Console input: gmx
+[13:47:50] Number of vehicle models: 0
+[14:03:53] Number of vehicle models: 0
+[14:04:03] 255
+[14:04:15] [death] George_Houser died 54
+[14:04:18] 255
+[14:06:45] Number of vehicle models: 0
+[14:06:48] 255
+[14:14:44] RCON (In-Game): Player [George_Houser] sent command: gmx
+[14:14:56] Number of vehicle models: 0
+[14:16:46] Number of vehicle models: 0
+[14:17:27] [death] George_Houser died 54
+[14:17:32] 255
+[14:17:46] Number of vehicle models: 0
+[14:17:46] 255
+[14:17:48] 1
+[14:17:57] [death] George_Houser died 54
+[14:18:03] 255
+[14:18:24] [chat] [George_Houser]: d
+[14:19:10] RCON (In-Game): Player [George_Houser] sent command: gmx
+[14:19:22] Number of vehicle models: 0
+[14:19:24] --- Server Shutting Down.
+[14:19:24] [part] George_Houser has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[14:19:29] filterscripts = ""  (string)
+[14:19:29] 
+[14:19:29] Server Plugins
+[14:19:29] --------------
+[14:19:29]  Loading plugin: mysql
+[14:19:29]  >> plugin.mysql: R39-2 successfully loaded.
+[14:19:29]   Loaded.
+[14:19:29]  Loading plugin: sscanf
+[14:19:29] 
+
+[14:19:29]  ===============================
+
+[14:19:29]       sscanf plugin loaded.     
+
+[14:19:29]          Version:  2.8.1        
+
+[14:19:29]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:19:29]  ===============================
+
+[14:19:29]   Loaded.
+[14:19:29]  Loading plugin: streamer
+[14:19:29] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[14:19:29]   Loaded.
+[14:19:29]  Loaded 3 plugins.
+
+[14:19:29] 
+[14:19:29] Filterscripts
+[14:19:29] ---------------
+[14:19:29]   Loaded 0 filterscripts.
+
+[14:19:29] Number of vehicle models: 0
+[14:19:52] Incoming connection: 127.0.0.1:64537
+[14:19:53] [join] George_Houser has joined the server (0:127.0.0.1)
+[14:19:53] 255
+[14:27:43] 1
+[14:27:54] [death] George_Houser died 54
+[14:27:58] 0
+[14:29:05] Number of vehicle models: 0
+[14:29:09] 2
+[14:29:15] [death] George_Houser died 54
+[14:29:19] 2
+[14:30:42] Number of vehicle models: 0
+[14:30:44] 1
+[14:30:50] [death] George_Houser died 54
+[14:30:53] 1
+[14:31:07] RCON (In-Game): Player #0 (George_Houser) has logged in.
+[14:31:10] RCON (In-Game): Player [George_Houser] sent command: loadfs TD
+[14:31:10] 
+--------------------------------------
+[14:31:10]  Text Draw Editor 1.0RC2 by Zamaroht for SA-MP 0.3 Loaded.
+[14:31:10] --------------------------------------
+
+[14:31:10]   Filterscript 'TD.amx' loaded.
+[14:58:25] [part] George_Houser has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[21:26:09] filterscripts = ""  (string)
+[21:26:09] 
+[21:26:09] Server Plugins
+[21:26:09] --------------
+[21:26:09]  Loading plugin: mysql
+[21:26:09]  >> plugin.mysql: R39-2 successfully loaded.
+[21:26:09]   Loaded.
+[21:26:09]  Loading plugin: sscanf
+[21:26:09] 
+
+[21:26:09]  ===============================
+
+[21:26:09]       sscanf plugin loaded.     
+
+[21:26:09]          Version:  2.8.1        
+
+[21:26:09]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:26:09]  ===============================
+
+[21:26:09]   Loaded.
+[21:26:09]  Loading plugin: streamer
+[21:26:09] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[21:26:09]   Loaded.
+[21:26:09]  Loaded 3 plugins.
+
+[21:26:10] 
+[21:26:10] Filterscripts
+[21:26:10] ---------------
+[21:26:10]   Loaded 0 filterscripts.
+
+[21:26:10] Number of vehicle models: 0
+[21:57:15] Incoming connection: 127.0.0.1:54154
+[21:57:15] [join] georJik has joined the server (0:127.0.0.1)
+[21:57:19] 0
+[21:57:20] 2
+[21:58:38] Incoming connection: 127.0.0.1:58955
+[21:58:38] [join] test has joined the server (1:127.0.0.1)
+[21:58:46] 2
+[22:05:21] Number of vehicle models: 0
+[22:05:24] 0
+[22:05:26] 1
+[22:05:34] 1
+[22:05:52] [death] georJik died 54
+[22:05:56] 1
+[22:06:12] [death] test died 54
+[22:06:16] 1
+[22:30:37] Number of vehicle models: 0
+[22:35:22] Number of vehicle models: 0
+[22:41:18] Number of vehicle models: 0
+[22:43:32] Number of vehicle models: 0
+[22:47:29] Number of vehicle models: 0
+[22:48:10] Number of vehicle models: 0
+[22:49:56] Number of vehicle models: 0
+[22:57:03] RCON (In-Game): Player #1 (test) has logged in.
+[22:57:09] RCON (In-Game): Player #0 (georJik) has logged in.
+[22:57:13] RCON (In-Game): Player [georJik] sent command: loadfs TD
+[22:57:13] 
+--------------------------------------
+[22:57:13]  Text Draw Editor 1.0RC2 by Zamaroht for SA-MP 0.3 Loaded.
+[22:57:13] --------------------------------------
+
+[22:57:13]   Filterscript 'TD.amx' loaded.
+[23:01:40] Number of vehicle models: 0
+[23:02:47] Number of vehicle models: 0
+[23:15:34] [part] test has left the server (1:1)
+[23:56:24] [part] georJik has left the server (0:1)
+[23:58:37] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[14:11:51] filterscripts = ""  (string)
+[14:11:51] 
+[14:11:51] Server Plugins
+[14:11:51] --------------
+[14:11:51]  Loading plugin: mysql
+[14:11:52]  >> plugin.mysql: R39-2 successfully loaded.
+[14:11:52]   Loaded.
+[14:11:52]  Loading plugin: sscanf
+[14:11:52] 
+
+[14:11:52]  ===============================
+
+[14:11:52]       sscanf plugin loaded.     
+
+[14:11:52]          Version:  2.8.1        
+
+[14:11:52]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:11:52]  ===============================
+
+[14:11:52]   Loaded.
+[14:11:52]  Loading plugin: streamer
+[14:11:53] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[14:11:53]   Loaded.
+[14:11:53]  Loaded 3 plugins.
+
+[14:11:53] 
+[14:11:53] Filterscripts
+[14:11:53] ---------------
+[14:11:53]   Loaded 0 filterscripts.
+
+[14:11:53] Number of vehicle models: 0
+[14:13:27] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[15:52:54] filterscripts = ""  (string)
+[15:52:54] 
+[15:52:54] Server Plugins
+[15:52:54] --------------
+[15:52:54]  Loading plugin: mysql
+[15:52:55]  >> plugin.mysql: R39-2 successfully loaded.
+[15:52:55]   Loaded.
+[15:52:55]  Loading plugin: sscanf
+[15:52:55] 
+
+[15:52:55]  ===============================
+
+[15:52:55]       sscanf plugin loaded.     
+
+[15:52:55]          Version:  2.8.1        
+
+[15:52:55]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:52:55]  ===============================
+
+[15:52:55]   Loaded.
+[15:52:55]  Loading plugin: streamer
+[15:52:55] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[15:52:55]   Loaded.
+[15:52:55]  Loaded 3 plugins.
+
+[15:52:55] 
+[15:52:55] Filterscripts
+[15:52:55] ---------------
+[15:52:55]   Loaded 0 filterscripts.
+
+[15:52:55] Number of vehicle models: 0
+[15:53:41] Incoming connection: 127.0.0.1:63330
+[15:53:41] [join] georJik has joined the server (0:127.0.0.1)
+[15:56:11] Number of vehicle models: 0
+[15:58:22] Number of vehicle models: 0
+[15:58:56] [chat] [georJik]: sa
+[16:00:43] Number of vehicle models: 0
+[16:16:43] Number of vehicle models: 0
+[16:23:37] Number of vehicle models: 0
+[16:27:55] Number of vehicle models: 0
+[16:27:55] slot 0 weap 0
+[16:27:55] slot 1 weap 0
+[16:27:55] slot 2 weap 0
+[16:27:55] slot 3 weap 0
+[16:27:55] slot 4 weap 0
+[16:27:55] slot 5 weap 0
+[16:27:55] slot 6 weap 0
+[16:27:55] slot 7 weap 0
+[16:27:55] slot 8 weap 0
+[16:27:55] slot 9 weap 0
+[16:27:55] slot 10 weap 0
+[16:27:55] slot 11 weap 0
+[16:27:55] slot 12 weap 0
+[16:27:55] slot 0 weap 0
+[16:27:55] slot 1 weap 0
+[16:27:55] slot 2 weap 0
+[16:27:55] slot 3 weap 0
+[16:27:55] slot 4 weap 0
+[16:27:55] slot 5 weap 0
+[16:27:55] slot 6 weap 0
+[16:27:55] slot 7 weap 0
+[16:27:55] slot 8 weap 0
+[16:27:55] slot 9 weap 0
+[16:27:55] slot 10 weap 0
+[16:27:55] slot 11 weap 0
+[16:27:55] slot 12 weap 0
+[16:27:56] slot 0 weap 0
+[16:27:56] slot 1 weap 0
+[16:27:56] slot 2 weap 0
+[16:27:56] slot 3 weap 0
+[16:27:56] slot 4 weap 0
+[16:27:56] slot 5 weap 0
+[16:27:56] slot 6 weap 0
+[16:27:56] slot 7 weap 0
+[16:27:56] slot 8 weap 0
+[16:27:56] slot 9 weap 0
+[16:27:56] slot 10 weap 0
+[16:27:56] slot 11 weap 0
+[16:27:56] slot 12 weap 0
+[16:27:56] slot 0 weap 0
+[16:27:56] slot 1 weap 0
+[16:27:56] slot 2 weap 0
+[16:27:56] slot 3 weap 0
+[16:27:56] slot 4 weap 0
+[16:27:56] slot 5 weap 0
+[16:27:56] slot 6 weap 0
+[16:27:56] slot 7 weap 0
+[16:27:56] slot 8 weap 0
+[16:27:56] slot 9 weap 0
+[16:27:56] slot 10 weap 0
+[16:27:56] slot 11 weap 0
+[16:27:56] slot 12 weap 0
+[16:27:56] slot 0 weap 0
+[16:27:56] slot 1 weap 0
+[16:27:56] slot 2 weap 0
+[16:27:56] slot 3 weap 0
+[16:27:56] slot 4 weap 0
+[16:27:56] slot 5 weap 0
+[16:27:56] slot 6 weap 0
+[16:27:56] slot 7 weap 0
+[16:27:56] slot 8 weap 0
+[16:27:56] slot 9 weap 0
+[16:27:56] slot 10 weap 0
+[16:27:56] slot 11 weap 0
+[16:27:56] slot 12 weap 0
+[16:27:56] slot 0 weap 0
+[16:27:56] slot 1 weap 0
+[16:27:56] slot 2 weap 0
+[16:27:56] slot 3 weap 0
+[16:27:56] slot 4 weap 0
+[16:27:56] slot 5 weap 0
+[16:27:56] slot 6 weap 0
+[16:27:56] slot 7 weap 0
+[16:27:56] slot 8 weap 0
+[16:27:56] slot 9 weap 0
+[16:27:56] slot 10 weap 0
+[16:27:56] slot 11 weap 0
+[16:27:56] slot 12 weap 0
+[16:27:56] slot 0 weap 0
+[16:27:56] slot 1 weap 0
+[16:27:56] slot 2 weap 0
+[16:27:56] slot 3 weap 0
+[16:27:56] slot 4 weap 0
+[16:27:56] slot 5 weap 0
+[16:27:56] slot 6 weap 0
+[16:27:56] slot 7 weap 0
+[16:27:56] slot 8 weap 0
+[16:27:56] slot 9 weap 0
+[16:27:56] slot 10 weap 0
+[16:27:56] slot 11 weap 0
+[16:27:56] slot 12 weap 0
+[16:27:56] slot 0 weap 0
+[16:27:56] slot 1 weap 0
+[16:27:56] slot 2 weap 0
+[16:27:56] slot 3 weap 0
+[16:27:56] slot 4 weap 0
+[16:27:56] slot 5 weap 0
+[16:27:56] slot 6 weap 0
+[16:27:56] slot 7 weap 0
+[16:27:56] slot 8 weap 0
+[16:27:56] slot 9 weap 0
+[16:27:56] slot 10 weap 0
+[16:27:56] slot 11 weap 0
+[16:27:56] slot 12 weap 0
+[16:27:56] slot 0 weap 0
+[16:27:56] slot 1 weap 0
+[16:27:56] slot 2 weap 0
+[16:27:56] slot 3 weap 0
+[16:27:56] slot 4 weap 0
+[16:27:56] slot 5 weap 0
+[16:27:56] slot 6 weap 0
+[16:27:56] slot 7 weap 0
+[16:27:56] slot 8 weap 0
+[16:27:56] slot 9 weap 0
+[16:27:56] slot 10 weap 0
+[16:27:56] slot 11 weap 0
+[16:27:56] slot 12 weap 0
+[16:27:56] slot 0 weap 0
+[16:27:56] slot 1 weap 0
+[16:27:56] slot 2 weap 0
+[16:27:56] slot 3 weap 0
+[16:27:56] slot 4 weap 0
+[16:27:56] slot 5 weap 0
+[16:27:56] slot 6 weap 0
+[16:27:56] slot 7 weap 0
+[16:27:56] slot 8 weap 0
+[16:27:56] slot 9 weap 0
+[16:27:56] slot 10 weap 0
+[16:27:56] slot 11 weap 0
+[16:27:56] slot 12 weap 0
+[16:27:57] slot 0 weap 0
+[16:27:57] slot 1 weap 0
+[16:27:57] slot 2 weap 0
+[16:27:57] slot 3 weap 0
+[16:27:57] slot 4 weap 0
+[16:27:57] slot 5 weap 0
+[16:27:57] slot 6 weap 0
+[16:27:57] slot 7 weap 0
+[16:27:57] slot 8 weap 0
+[16:27:57] slot 9 weap 0
+[16:27:57] slot 10 weap 0
+[16:27:57] slot 11 weap 0
+[16:27:57] slot 12 weap 0
+[16:27:57] slot 0 weap 0
+[16:27:57] slot 1 weap 0
+[16:27:57] slot 2 weap 0
+[16:27:57] slot 3 weap 0
+[16:27:57] slot 4 weap 0
+[16:27:57] slot 5 weap 0
+[16:27:57] slot 6 weap 0
+[16:27:57] slot 7 weap 0
+[16:27:57] slot 8 weap 0
+[16:27:57] slot 9 weap 0
+[16:27:57] slot 10 weap 0
+[16:27:57] slot 11 weap 0
+[16:27:57] slot 12 weap 0
+[16:27:57] slot 0 weap 0
+[16:27:57] slot 1 weap 4
+[16:27:57] slot 2 weap 23
+[16:27:57] slot 3 weap 0
+[16:27:57] slot 4 weap 0
+[16:27:57] slot 5 weap 0
+[16:27:57] slot 6 weap 0
+[16:27:57] slot 7 weap 0
+[16:27:57] slot 8 weap 0
+[16:27:57] slot 9 weap 0
+[16:27:57] slot 10 weap 0
+[16:27:57] slot 11 weap 0
+[16:27:57] slot 12 weap 0
+[16:27:57] slot 0 weap 0
+[16:27:57] slot 1 weap 4
+[16:27:57] slot 2 weap 23
+[16:27:57] slot 3 weap 0
+[16:27:57] slot 4 weap 0
+[16:27:57] slot 5 weap 0
+[16:27:57] slot 6 weap 0
+[16:27:57] slot 7 weap 0
+[16:27:57] slot 8 weap 0
+[16:27:57] slot 9 weap 0
+[16:27:57] slot 10 weap 0
+[16:27:57] slot 11 weap 0
+[16:27:57] slot 12 weap 0
+[16:27:57] slot 0 weap 0
+[16:27:57] slot 1 weap 4
+[16:27:57] slot 2 weap 23
+[16:27:57] slot 3 weap 0
+[16:27:57] slot 4 weap 0
+[16:27:57] slot 5 weap 0
+[16:27:57] slot 6 weap 0
+[16:27:57] slot 7 weap 0
+[16:27:57] slot 8 weap 0
+[16:27:57] slot 9 weap 0
+[16:27:57] slot 10 weap 0
+[16:27:57] slot 11 weap 0
+[16:27:57] slot 12 weap 0
+[16:27:57] slot 0 weap 0
+[16:27:57] slot 1 weap 4
+[16:27:57] slot 2 weap 23
+[16:27:57] slot 3 weap 0
+[16:27:57] slot 4 weap 0
+[16:27:57] slot 5 weap 0
+[16:27:57] slot 6 weap 0
+[16:27:57] slot 7 weap 0
+[16:27:57] slot 8 weap 0
+[16:27:57] slot 9 weap 0
+[16:27:57] slot 10 weap 0
+[16:27:57] slot 11 weap 0
+[16:27:57] slot 12 weap 0
+[16:27:57] slot 0 weap 0
+[16:27:57] slot 1 weap 4
+[16:27:57] slot 2 weap 23
+[16:27:57] slot 3 weap 0
+[16:27:57] slot 4 weap 0
+[16:27:57] slot 5 weap 0
+[16:27:57] slot 6 weap 0
+[16:27:57] slot 7 weap 0
+[16:27:57] slot 8 weap 0
+[16:27:57] slot 9 weap 0
+[16:27:57] slot 10 weap 0
+[16:27:57] slot 11 weap 0
+[16:27:57] slot 12 weap 0
+[16:27:57] slot 0 weap 0
+[16:27:57] slot 1 weap 4
+[16:27:57] slot 2 weap 23
+[16:27:57] slot 3 weap 0
+[16:27:57] slot 4 weap 0
+[16:27:57] slot 5 weap 0
+[16:27:57] slot 6 weap 0
+[16:27:57] slot 7 weap 0
+[16:27:57] slot 8 weap 0
+[16:27:57] slot 9 weap 0
+[16:27:57] slot 10 weap 0
+[16:27:57] slot 11 weap 0
+[16:27:57] slot 12 weap 0
+[16:27:58] slot 0 weap 0
+[16:27:58] slot 1 weap 4
+[16:27:58] slot 2 weap 23
+[16:27:58] slot 3 weap 0
+[16:27:58] slot 4 weap 0
+[16:27:58] slot 5 weap 0
+[16:27:58] slot 6 weap 0
+[16:27:58] slot 7 weap 0
+[16:27:58] slot 8 weap 0
+[16:27:58] slot 9 weap 0
+[16:27:58] slot 10 weap 0
+[16:27:58] slot 11 weap 0
+[16:27:58] slot 12 weap 0
+[16:27:58] slot 0 weap 0
+[16:27:58] slot 1 weap 4
+[16:27:58] slot 2 weap 23
+[16:27:58] slot 3 weap 0
+[16:27:58] slot 4 weap 0
+[16:27:58] slot 5 weap 0
+[16:27:58] slot 6 weap 0
+[16:27:58] slot 7 weap 0
+[16:27:58] slot 8 weap 0
+[16:27:58] slot 9 weap 0
+[16:27:58] slot 10 weap 0
+[16:27:58] slot 11 weap 0
+[16:27:58] slot 12 weap 0
+[16:27:58] slot 0 weap 0
+[16:27:58] slot 1 weap 4
+[16:27:58] slot 2 weap 23
+[16:27:58] slot 3 weap 0
+[16:27:58] slot 4 weap 0
+[16:27:58] slot 5 weap 0
+[16:27:58] slot 6 weap 0
+[16:27:58] slot 7 weap 0
+[16:27:58] slot 8 weap 0
+[16:27:58] slot 9 weap 0
+[16:27:58] slot 10 weap 0
+[16:27:58] slot 11 weap 0
+[16:27:58] slot 12 weap 0
+[16:27:58] slot 0 weap 0
+[16:27:58] slot 1 weap 4
+[16:27:58] slot 2 weap 23
+[16:27:58] slot 3 weap 0
+[16:27:58] slot 4 weap 0
+[16:27:58] slot 5 weap 0
+[16:27:58] slot 6 weap 0
+[16:27:58] slot 7 weap 0
+[16:27:58] slot 8 weap 0
+[16:27:58] slot 9 weap 0
+[16:27:58] slot 10 weap 0
+[16:27:58] slot 11 weap 0
+[16:27:58] slot 12 weap 0
+[16:27:58] slot 0 weap 0
+[16:27:58] slot 1 weap 4
+[16:27:58] slot 2 weap 23
+[16:27:58] slot 3 weap 0
+[16:27:58] slot 4 weap 0
+[16:27:58] slot 5 weap 0
+[16:27:58] slot 6 weap 0
+[16:27:58] slot 7 weap 0
+[16:27:58] slot 8 weap 0
+[16:27:58] slot 9 weap 0
+[16:27:58] slot 10 weap 0
+[16:27:58] slot 11 weap 0
+[16:27:58] slot 12 weap 0
+[16:27:58] slot 0 weap 0
+[16:27:58] slot 1 weap 4
+[16:27:58] slot 2 weap 23
+[16:27:58] slot 3 weap 0
+[16:27:58] slot 4 weap 0
+[16:27:58] slot 5 weap 0
+[16:27:58] slot 6 weap 0
+[16:27:58] slot 7 weap 0
+[16:27:58] slot 8 weap 0
+[16:27:58] slot 9 weap 0
+[16:27:58] slot 10 weap 0
+[16:27:58] slot 11 weap 0
+[16:27:58] slot 12 weap 0
+[16:27:59] slot 0 weap 0
+[16:27:59] slot 1 weap 4
+[16:27:59] slot 2 weap 23
+[16:27:59] slot 3 weap 0
+[16:27:59] slot 4 weap 0
+[16:27:59] slot 5 weap 0
+[16:27:59] slot 6 weap 0
+[16:27:59] slot 7 weap 0
+[16:27:59] slot 8 weap 0
+[16:27:59] slot 9 weap 0
+[16:27:59] slot 10 weap 0
+[16:27:59] slot 11 weap 0
+[16:27:59] slot 12 weap 0
+[16:27:59] slot 0 weap 0
+[16:27:59] slot 1 weap 4
+[16:27:59] slot 2 weap 23
+[16:27:59] slot 3 weap 0
+[16:27:59] slot 4 weap 0
+[16:27:59] slot 5 weap 0
+[16:27:59] slot 6 weap 0
+[16:27:59] slot 7 weap 0
+[16:27:59] slot 8 weap 0
+[16:27:59] slot 9 weap 0
+[16:27:59] slot 10 weap 0
+[16:27:59] slot 11 weap 0
+[16:27:59] slot 12 weap 0
+[16:27:59] slot 0 weap 0
+[16:27:59] slot 1 weap 4
+[16:27:59] slot 2 weap 23
+[16:27:59] slot 3 weap 0
+[16:27:59] slot 4 weap 0
+[16:27:59] slot 5 weap 0
+[16:27:59] slot 6 weap 0
+[16:27:59] slot 7 weap 0
+[16:27:59] slot 8 weap 0
+[16:27:59] slot 9 weap 0
+[16:27:59] slot 10 weap 0
+[16:27:59] slot 11 weap 0
+[16:27:59] slot 12 weap 0
+[16:27:59] slot 0 weap 0
+[16:27:59] slot 1 weap 4
+[16:27:59] slot 2 weap 23
+[16:27:59] slot 3 weap 0
+[16:27:59] slot 4 weap 0
+[16:27:59] slot 5 weap 0
+[16:27:59] slot 6 weap 0
+[16:27:59] slot 7 weap 0
+[16:27:59] slot 8 weap 0
+[16:27:59] slot 9 weap 0
+[16:27:59] slot 10 weap 0
+[16:27:59] slot 11 weap 0
+[16:27:59] slot 12 weap 0
+[16:27:59] slot 0 weap 0
+[16:27:59] slot 1 weap 4
+[16:27:59] slot 2 weap 23
+[16:27:59] slot 3 weap 0
+[16:27:59] slot 4 weap 0
+[16:27:59] slot 5 weap 0
+[16:27:59] slot 6 weap 0
+[16:27:59] slot 7 weap 0
+[16:27:59] slot 8 weap 0
+[16:27:59] slot 9 weap 0
+[16:27:59] slot 10 weap 0
+[16:27:59] slot 11 weap 0
+[16:27:59] slot 12 weap 0
+[16:27:59] slot 0 weap 0
+[16:27:59] slot 1 weap 4
+[16:27:59] slot 2 weap 23
+[16:27:59] slot 3 weap 0
+[16:27:59] slot 4 weap 0
+[16:27:59] slot 5 weap 0
+[16:27:59] slot 6 weap 0
+[16:27:59] slot 7 weap 0
+[16:27:59] slot 8 weap 0
+[16:27:59] slot 9 weap 0
+[16:27:59] slot 10 weap 0
+[16:27:59] slot 11 weap 0
+[16:27:59] slot 12 weap 0
+[16:27:59] slot 0 weap 0
+[16:27:59] slot 1 weap 4
+[16:27:59] slot 2 weap 23
+[16:27:59] slot 3 weap 0
+[16:27:59] slot 4 weap 0
+[16:27:59] slot 5 weap 0
+[16:27:59] slot 6 weap 0
+[16:27:59] slot 7 weap 0
+[16:27:59] slot 8 weap 0
+[16:27:59] slot 9 weap 0
+[16:27:59] slot 10 weap 0
+[16:27:59] slot 11 weap 0
+[16:27:59] slot 12 weap 0
+[16:27:59] slot 0 weap 0
+[16:27:59] slot 1 weap 4
+[16:27:59] slot 2 weap 23
+[16:27:59] slot 3 weap 0
+[16:27:59] slot 4 weap 0
+[16:27:59] slot 5 weap 0
+[16:27:59] slot 6 weap 0
+[16:27:59] slot 7 weap 0
+[16:27:59] slot 8 weap 0
+[16:27:59] slot 9 weap 0
+[16:27:59] slot 10 weap 0
+[16:27:59] slot 11 weap 0
+[16:27:59] slot 12 weap 0
+[16:28:00] slot 0 weap 0
+[16:28:00] slot 1 weap 4
+[16:28:00] slot 2 weap 23
+[16:28:00] slot 3 weap 0
+[16:28:00] slot 4 weap 0
+[16:28:00] slot 5 weap 0
+[16:28:00] slot 6 weap 0
+[16:28:00] slot 7 weap 0
+[16:28:00] slot 8 weap 0
+[16:28:00] slot 9 weap 0
+[16:28:00] slot 10 weap 0
+[16:28:00] slot 11 weap 0
+[16:28:00] slot 12 weap 0
+[16:28:00] slot 0 weap 0
+[16:28:00] slot 1 weap 4
+[16:28:00] slot 2 weap 23
+[16:28:00] slot 3 weap 0
+[16:28:00] slot 4 weap 0
+[16:28:00] slot 5 weap 0
+[16:28:00] slot 6 weap 0
+[16:28:00] slot 7 weap 0
+[16:28:00] slot 8 weap 0
+[16:28:00] slot 9 weap 0
+[16:28:00] slot 10 weap 0
+[16:28:00] slot 11 weap 0
+[16:28:00] slot 12 weap 0
+[16:28:00] slot 0 weap 0
+[16:28:00] slot 1 weap 4
+[16:28:00] slot 2 weap 23
+[16:28:00] slot 3 weap 0
+[16:28:00] slot 4 weap 0
+[16:28:00] slot 5 weap 0
+[16:28:00] slot 6 weap 0
+[16:28:00] slot 7 weap 0
+[16:28:00] slot 8 weap 0
+[16:28:00] slot 9 weap 0
+[16:28:00] slot 10 weap 0
+[16:28:00] slot 11 weap 0
+[16:28:00] slot 12 weap 0
+[16:28:00] slot 0 weap 0
+[16:28:00] slot 1 weap 4
+[16:28:00] slot 2 weap 23
+[16:28:00] slot 3 weap 0
+[16:28:00] slot 4 weap 0
+[16:28:00] slot 5 weap 0
+[16:28:00] slot 6 weap 0
+[16:28:00] slot 7 weap 0
+[16:28:00] slot 8 weap 0
+[16:28:00] slot 9 weap 0
+[16:28:00] slot 10 weap 0
+[16:28:00] slot 11 weap 0
+[16:28:00] slot 12 weap 0
+[16:28:00] slot 0 weap 0
+[16:28:00] slot 1 weap 4
+[16:28:00] slot 2 weap 23
+[16:28:00] slot 3 weap 0
+[16:28:00] slot 4 weap 0
+[16:28:00] slot 5 weap 0
+[16:28:00] slot 6 weap 0
+[16:28:00] slot 7 weap 0
+[16:28:00] slot 8 weap 0
+[16:28:00] slot 9 weap 0
+[16:28:00] slot 10 weap 0
+[16:28:00] slot 11 weap 0
+[16:28:00] slot 12 weap 0
+[16:28:00] slot 0 weap 0
+[16:28:00] slot 1 weap 4
+[16:28:00] slot 2 weap 23
+[16:28:00] slot 3 weap 0
+[16:28:00] slot 4 weap 0
+[16:28:00] slot 5 weap 0
+[16:28:00] slot 6 weap 0
+[16:28:00] slot 7 weap 0
+[16:28:00] slot 8 weap 0
+[16:28:00] slot 9 weap 0
+[16:28:00] slot 10 weap 0
+[16:28:00] slot 11 weap 0
+[16:28:00] slot 12 weap 0
+[16:28:01] slot 0 weap 0
+[16:28:01] slot 1 weap 4
+[16:28:01] slot 2 weap 23
+[16:28:01] slot 3 weap 0
+[16:28:01] slot 4 weap 0
+[16:28:01] slot 5 weap 0
+[16:28:01] slot 6 weap 0
+[16:28:01] slot 7 weap 0
+[16:28:01] slot 8 weap 0
+[16:28:01] slot 9 weap 0
+[16:28:01] slot 10 weap 0
+[16:28:01] slot 11 weap 0
+[16:28:01] slot 12 weap 0
+[16:28:01] slot 0 weap 0
+[16:28:01] slot 1 weap 4
+[16:28:01] slot 2 weap 23
+[16:28:01] slot 3 weap 0
+[16:28:01] slot 4 weap 0
+[16:28:01] slot 5 weap 0
+[16:28:01] slot 6 weap 0
+[16:28:01] slot 7 weap 0
+[16:28:01] slot 8 weap 0
+[16:28:01] slot 9 weap 0
+[16:28:01] slot 10 weap 0
+[16:28:01] slot 11 weap 0
+[16:28:01] slot 12 weap 0
+[16:28:01] slot 0 weap 0
+[16:28:01] slot 1 weap 4
+[16:28:01] slot 2 weap 23
+[16:28:01] slot 3 weap 0
+[16:28:01] slot 4 weap 0
+[16:28:01] slot 5 weap 0
+[16:28:01] slot 6 weap 0
+[16:28:01] slot 7 weap 0
+[16:28:01] slot 8 weap 0
+[16:28:01] slot 9 weap 0
+[16:28:01] slot 10 weap 0
+[16:28:01] slot 11 weap 0
+[16:28:01] slot 12 weap 0
+[16:28:01] slot 0 weap 0
+[16:28:01] slot 1 weap 4
+[16:28:01] slot 2 weap 23
+[16:28:01] slot 3 weap 0
+[16:28:01] slot 4 weap 0
+[16:28:01] slot 5 weap 0
+[16:28:01] slot 6 weap 0
+[16:28:01] slot 7 weap 0
+[16:28:01] slot 8 weap 0
+[16:28:01] slot 9 weap 0
+[16:28:01] slot 10 weap 0
+[16:28:01] slot 11 weap 0
+[16:28:01] slot 12 weap 0
+[16:28:01] slot 0 weap 0
+[16:28:01] slot 1 weap 4
+[16:28:01] slot 2 weap 23
+[16:28:01] slot 3 weap 0
+[16:28:01] slot 4 weap 0
+[16:28:01] slot 5 weap 0
+[16:28:01] slot 6 weap 0
+[16:28:01] slot 7 weap 0
+[16:28:01] slot 8 weap 0
+[16:28:01] slot 9 weap 0
+[16:28:01] slot 10 weap 0
+[16:28:01] slot 11 weap 0
+[16:28:01] slot 12 weap 0
+[16:28:01] slot 0 weap 0
+[16:28:01] slot 1 weap 4
+[16:28:01] slot 2 weap 23
+[16:28:01] slot 3 weap 0
+[16:28:01] slot 4 weap 0
+[16:28:01] slot 5 weap 0
+[16:28:01] slot 6 weap 0
+[16:28:01] slot 7 weap 0
+[16:28:01] slot 8 weap 0
+[16:28:01] slot 9 weap 0
+[16:28:01] slot 10 weap 0
+[16:28:01] slot 11 weap 0
+[16:28:01] slot 12 weap 0
+[16:28:01] slot 0 weap 0
+[16:28:01] slot 1 weap 4
+[16:28:01] slot 2 weap 23
+[16:28:01] slot 3 weap 0
+[16:28:01] slot 4 weap 0
+[16:28:01] slot 5 weap 0
+[16:28:01] slot 6 weap 0
+[16:28:01] slot 7 weap 0
+[16:28:01] slot 8 weap 0
+[16:28:01] slot 9 weap 0
+[16:28:01] slot 10 weap 0
+[16:28:01] slot 11 weap 0
+[16:28:01] slot 12 weap 0
+[16:28:01] slot 0 weap 0
+[16:28:01] slot 1 weap 4
+[16:28:01] slot 2 weap 23
+[16:28:01] slot 3 weap 0
+[16:28:01] slot 4 weap 0
+[16:28:01] slot 5 weap 0
+[16:28:01] slot 6 weap 0
+[16:28:01] slot 7 weap 0
+[16:28:01] slot 8 weap 0
+[16:28:01] slot 9 weap 0
+[16:28:01] slot 10 weap 0
+[16:28:01] slot 11 weap 0
+[16:28:01] slot 12 weap 0
+[16:28:02] slot 0 weap 0
+[16:28:02] slot 1 weap 4
+[16:28:02] slot 2 weap 23
+[16:28:02] slot 3 weap 0
+[16:28:02] slot 4 weap 0
+[16:28:02] slot 5 weap 0
+[16:28:02] slot 6 weap 0
+[16:28:02] slot 7 weap 0
+[16:28:02] slot 8 weap 0
+[16:28:02] slot 9 weap 0
+[16:28:02] slot 10 weap 0
+[16:28:02] slot 11 weap 0
+[16:28:02] slot 12 weap 0
+[16:28:02] slot 0 weap 0
+[16:28:02] slot 1 weap 4
+[16:28:02] slot 2 weap 23
+[16:28:02] slot 3 weap 0
+[16:28:02] slot 4 weap 0
+[16:28:02] slot 5 weap 0
+[16:28:02] slot 6 weap 0
+[16:28:02] slot 7 weap 0
+[16:28:02] slot 8 weap 0
+[16:28:02] slot 9 weap 0
+[16:28:02] slot 10 weap 0
+[16:28:02] slot 11 weap 0
+[16:28:02] slot 12 weap 0
+[16:28:02] slot 0 weap 0
+[16:28:02] slot 1 weap 4
+[16:28:02] slot 2 weap 23
+[16:28:02] slot 3 weap 0
+[16:28:02] slot 4 weap 0
+[16:28:02] slot 5 weap 0
+[16:28:02] slot 6 weap 0
+[16:28:02] slot 7 weap 0
+[16:28:02] slot 8 weap 0
+[16:28:02] slot 9 weap 0
+[16:28:02] slot 10 weap 0
+[16:28:02] slot 11 weap 0
+[16:28:02] slot 12 weap 0
+[16:28:02] slot 0 weap 0
+[16:28:02] slot 1 weap 4
+[16:28:02] slot 2 weap 23
+[16:28:02] slot 3 weap 0
+[16:28:02] slot 4 weap 0
+[16:28:02] slot 5 weap 0
+[16:28:02] slot 6 weap 0
+[16:28:02] slot 7 weap 0
+[16:28:02] slot 8 weap 0
+[16:28:02] slot 9 weap 0
+[16:28:02] slot 10 weap 0
+[16:28:02] slot 11 weap 0
+[16:28:02] slot 12 weap 0
+[16:28:02] slot 0 weap 0
+[16:28:02] slot 1 weap 4
+[16:28:02] slot 2 weap 23
+[16:28:02] slot 3 weap 0
+[16:28:02] slot 4 weap 0
+[16:28:02] slot 5 weap 0
+[16:28:02] slot 6 weap 0
+[16:28:02] slot 7 weap 0
+[16:28:02] slot 8 weap 0
+[16:28:02] slot 9 weap 0
+[16:28:02] slot 10 weap 0
+[16:28:02] slot 11 weap 0
+[16:28:02] slot 12 weap 0
+[16:28:02] slot 0 weap 0
+[16:28:02] slot 1 weap 4
+[16:28:02] slot 2 weap 23
+[16:28:02] slot 3 weap 0
+[16:28:02] slot 4 weap 0
+[16:28:02] slot 5 weap 0
+[16:28:02] slot 6 weap 0
+[16:28:02] slot 7 weap 0
+[16:28:02] slot 8 weap 0
+[16:28:02] slot 9 weap 0
+[16:28:02] slot 10 weap 0
+[16:28:02] slot 11 weap 0
+[16:28:02] slot 12 weap 0
+[16:28:03] slot 0 weap 0
+[16:28:03] slot 1 weap 4
+[16:28:03] slot 2 weap 23
+[16:28:03] slot 3 weap 0
+[16:28:03] slot 4 weap 0
+[16:28:03] slot 5 weap 0
+[16:28:03] slot 6 weap 0
+[16:28:03] slot 7 weap 0
+[16:28:03] slot 8 weap 0
+[16:28:03] slot 9 weap 0
+[16:28:03] slot 10 weap 0
+[16:28:03] slot 11 weap 0
+[16:28:03] slot 12 weap 0
+[16:28:03] slot 0 weap 0
+[16:28:03] slot 1 weap 4
+[16:28:03] slot 2 weap 23
+[16:28:03] slot 3 weap 0
+[16:28:03] slot 4 weap 0
+[16:28:03] slot 5 weap 0
+[16:28:03] slot 6 weap 0
+[16:28:03] slot 7 weap 0
+[16:28:03] slot 8 weap 0
+[16:28:03] slot 9 weap 0
+[16:28:03] slot 10 weap 0
+[16:28:03] slot 11 weap 0
+[16:28:03] slot 12 weap 0
+[16:28:03] slot 0 weap 0
+[16:28:03] slot 1 weap 4
+[16:28:03] slot 2 weap 23
+[16:28:03] slot 3 weap 0
+[16:28:03] slot 4 weap 0
+[16:28:03] slot 5 weap 0
+[16:28:03] slot 6 weap 0
+[16:28:03] slot 7 weap 0
+[16:28:03] slot 8 weap 0
+[16:28:03] slot 9 weap 0
+[16:28:03] slot 10 weap 0
+[16:28:03] slot 11 weap 0
+[16:28:03] slot 12 weap 0
+[16:28:03] slot 0 weap 0
+[16:28:03] slot 1 weap 4
+[16:28:03] slot 2 weap 23
+[16:28:03] slot 3 weap 0
+[16:28:03] slot 4 weap 0
+[16:28:03] slot 5 weap 0
+[16:28:03] slot 6 weap 0
+[16:28:03] slot 7 weap 0
+[16:28:03] slot 8 weap 0
+[16:28:03] slot 9 weap 0
+[16:28:03] slot 10 weap 0
+[16:28:03] slot 11 weap 0
+[16:28:03] slot 12 weap 0
+[16:28:03] slot 0 weap 0
+[16:28:03] slot 1 weap 4
+[16:28:03] slot 2 weap 23
+[16:28:03] slot 3 weap 0
+[16:28:03] slot 4 weap 0
+[16:28:03] slot 5 weap 0
+[16:28:03] slot 6 weap 0
+[16:28:03] slot 7 weap 0
+[16:28:03] slot 8 weap 0
+[16:28:03] slot 9 weap 0
+[16:28:03] slot 10 weap 0
+[16:28:03] slot 11 weap 0
+[16:28:03] slot 12 weap 0
+[16:28:03] slot 0 weap 0
+[16:28:03] slot 1 weap 4
+[16:28:03] slot 2 weap 23
+[16:28:03] slot 3 weap 0
+[16:28:03] slot 4 weap 0
+[16:28:03] slot 5 weap 0
+[16:28:03] slot 6 weap 0
+[16:28:03] slot 7 weap 0
+[16:28:03] slot 8 weap 0
+[16:28:03] slot 9 weap 0
+[16:28:03] slot 10 weap 0
+[16:28:03] slot 11 weap 0
+[16:28:03] slot 12 weap 0
+[16:28:03] slot 0 weap 0
+[16:28:03] slot 1 weap 4
+[16:28:03] slot 2 weap 23
+[16:28:03] slot 3 weap 0
+[16:28:03] slot 4 weap 0
+[16:28:03] slot 5 weap 0
+[16:28:03] slot 6 weap 0
+[16:28:03] slot 7 weap 0
+[16:28:03] slot 8 weap 0
+[16:28:03] slot 9 weap 0
+[16:28:03] slot 10 weap 0
+[16:28:03] slot 11 weap 0
+[16:28:03] slot 12 weap 0
+[16:28:03] slot 0 weap 0
+[16:28:03] slot 1 weap 4
+[16:28:03] slot 2 weap 23
+[16:28:03] slot 3 weap 0
+[16:28:03] slot 4 weap 0
+[16:28:03] slot 5 weap 0
+[16:28:03] slot 6 weap 0
+[16:28:03] slot 7 weap 0
+[16:28:03] slot 8 weap 0
+[16:28:03] slot 9 weap 0
+[16:28:03] slot 10 weap 0
+[16:28:03] slot 11 weap 0
+[16:28:03] slot 12 weap 0
+[16:28:04] slot 0 weap 0
+[16:28:04] slot 1 weap 4
+[16:28:04] slot 2 weap 23
+[16:28:04] slot 3 weap 0
+[16:28:04] slot 4 weap 0
+[16:28:04] slot 5 weap 0
+[16:28:04] slot 6 weap 0
+[16:28:04] slot 7 weap 0
+[16:28:04] slot 8 weap 0
+[16:28:04] slot 9 weap 0
+[16:28:04] slot 10 weap 0
+[16:28:04] slot 11 weap 0
+[16:28:04] slot 12 weap 0
+[16:28:04] slot 0 weap 0
+[16:28:04] slot 1 weap 4
+[16:28:04] slot 2 weap 23
+[16:28:04] slot 3 weap 0
+[16:28:04] slot 4 weap 0
+[16:28:04] slot 5 weap 0
+[16:28:04] slot 6 weap 0
+[16:28:04] slot 7 weap 0
+[16:28:04] slot 8 weap 0
+[16:28:04] slot 9 weap 0
+[16:28:04] slot 10 weap 0
+[16:28:04] slot 11 weap 0
+[16:28:04] slot 12 weap 0
+[16:28:04] slot 0 weap 0
+[16:28:04] slot 1 weap 4
+[16:28:04] slot 2 weap 23
+[16:28:04] slot 3 weap 0
+[16:28:04] slot 4 weap 0
+[16:28:04] slot 5 weap 0
+[16:28:04] slot 6 weap 0
+[16:28:04] slot 7 weap 0
+[16:28:04] slot 8 weap 0
+[16:28:04] slot 9 weap 0
+[16:28:04] slot 10 weap 0
+[16:28:04] slot 11 weap 0
+[16:28:04] slot 12 weap 0
+[16:28:04] slot 0 weap 0
+[16:28:04] slot 1 weap 4
+[16:28:04] slot 2 weap 23
+[16:28:04] slot 3 weap 0
+[16:28:04] slot 4 weap 0
+[16:28:04] slot 5 weap 0
+[16:28:04] slot 6 weap 0
+[16:28:04] slot 7 weap 0
+[16:28:04] slot 8 weap 0
+[16:28:04] slot 9 weap 0
+[16:28:04] slot 10 weap 0
+[16:28:04] slot 11 weap 0
+[16:28:04] slot 12 weap 0
+[16:28:04] slot 0 weap 0
+[16:28:04] slot 1 weap 4
+[16:28:04] slot 2 weap 23
+[16:28:04] slot 3 weap 0
+[16:28:04] slot 4 weap 0
+[16:28:04] slot 5 weap 0
+[16:28:04] slot 6 weap 0
+[16:28:04] slot 7 weap 0
+[16:28:04] slot 8 weap 0
+[16:28:04] slot 9 weap 0
+[16:28:04] slot 10 weap 0
+[16:28:04] slot 11 weap 0
+[16:28:04] slot 12 weap 0
+[16:28:04] slot 0 weap 0
+[16:28:04] slot 1 weap 4
+[16:28:04] slot 2 weap 23
+[16:28:04] slot 3 weap 0
+[16:28:04] slot 4 weap 0
+[16:28:04] slot 5 weap 0
+[16:28:04] slot 6 weap 0
+[16:28:04] slot 7 weap 0
+[16:28:04] slot 8 weap 0
+[16:28:04] slot 9 weap 0
+[16:28:04] slot 10 weap 0
+[16:28:04] slot 11 weap 0
+[16:28:04] slot 12 weap 0
+[16:28:05] slot 0 weap 0
+[16:28:05] slot 1 weap 4
+[16:28:05] slot 2 weap 23
+[16:28:05] slot 3 weap 0
+[16:28:05] slot 4 weap 0
+[16:28:05] slot 5 weap 0
+[16:28:05] slot 6 weap 0
+[16:28:05] slot 7 weap 0
+[16:28:05] slot 8 weap 0
+[16:28:05] slot 9 weap 0
+[16:28:05] slot 10 weap 0
+[16:28:05] slot 11 weap 0
+[16:28:05] slot 12 weap 0
+[16:28:05] slot 0 weap 0
+[16:28:05] slot 1 weap 4
+[16:28:05] slot 2 weap 23
+[16:28:05] slot 3 weap 0
+[16:28:05] slot 4 weap 0
+[16:28:05] slot 5 weap 0
+[16:28:05] slot 6 weap 0
+[16:28:05] slot 7 weap 0
+[16:28:05] slot 8 weap 0
+[16:28:05] slot 9 weap 0
+[16:28:05] slot 10 weap 0
+[16:28:05] slot 11 weap 0
+[16:28:05] slot 12 weap 0
+[16:28:05] slot 0 weap 0
+[16:28:05] slot 1 weap 4
+[16:28:05] slot 2 weap 23
+[16:28:05] slot 3 weap 0
+[16:28:05] slot 4 weap 0
+[16:28:05] slot 5 weap 0
+[16:28:05] slot 6 weap 0
+[16:28:05] slot 7 weap 0
+[16:28:05] slot 8 weap 0
+[16:28:05] slot 9 weap 0
+[16:28:05] slot 10 weap 0
+[16:28:05] slot 11 weap 0
+[16:28:05] slot 12 weap 0
+[16:28:05] slot 0 weap 0
+[16:28:05] slot 1 weap 4
+[16:28:05] slot 2 weap 23
+[16:28:05] slot 3 weap 0
+[16:28:05] slot 4 weap 0
+[16:28:05] slot 5 weap 0
+[16:28:05] slot 6 weap 0
+[16:28:05] slot 7 weap 0
+[16:28:05] slot 8 weap 0
+[16:28:05] slot 9 weap 0
+[16:28:05] slot 10 weap 0
+[16:28:05] slot 11 weap 0
+[16:28:05] slot 12 weap 0
+[16:28:05] slot 0 weap 0
+[16:28:05] slot 1 weap 4
+[16:28:05] slot 2 weap 23
+[16:28:05] slot 3 weap 0
+[16:28:05] slot 4 weap 0
+[16:28:05] slot 5 weap 0
+[16:28:05] slot 6 weap 0
+[16:28:05] slot 7 weap 0
+[16:28:05] slot 8 weap 0
+[16:28:05] slot 9 weap 0
+[16:28:05] slot 10 weap 0
+[16:28:05] slot 11 weap 0
+[16:28:05] slot 12 weap 0
+[16:28:05] slot 0 weap 0
+[16:28:05] slot 1 weap 4
+[16:28:05] slot 2 weap 23
+[16:28:05] slot 3 weap 0
+[16:28:05] slot 4 weap 0
+[16:28:05] slot 5 weap 0
+[16:28:05] slot 6 weap 0
+[16:28:05] slot 7 weap 0
+[16:28:05] slot 8 weap 0
+[16:28:05] slot 9 weap 0
+[16:28:05] slot 10 weap 0
+[16:28:05] slot 11 weap 0
+[16:28:05] slot 12 weap 0
+[16:28:05] slot 0 weap 0
+[16:28:05] slot 1 weap 4
+[16:28:05] slot 2 weap 23
+[16:28:05] slot 3 weap 0
+[16:28:05] slot 4 weap 0
+[16:28:05] slot 5 weap 0
+[16:28:05] slot 6 weap 0
+[16:28:05] slot 7 weap 0
+[16:28:05] slot 8 weap 0
+[16:28:05] slot 9 weap 0
+[16:28:05] slot 10 weap 0
+[16:28:05] slot 11 weap 0
+[16:28:05] slot 12 weap 0
+[16:28:05] slot 0 weap 0
+[16:28:05] slot 1 weap 4
+[16:28:05] slot 2 weap 23
+[16:28:05] slot 3 weap 0
+[16:28:05] slot 4 weap 0
+[16:28:05] slot 5 weap 0
+[16:28:05] slot 6 weap 0
+[16:28:05] slot 7 weap 0
+[16:28:05] slot 8 weap 0
+[16:28:05] slot 9 weap 0
+[16:28:05] slot 10 weap 0
+[16:28:05] slot 11 weap 0
+[16:28:05] slot 12 weap 0
+[16:28:06] slot 0 weap 0
+[16:28:06] slot 1 weap 4
+[16:28:06] slot 2 weap 23
+[16:28:06] slot 3 weap 0
+[16:28:06] slot 4 weap 0
+[16:28:06] slot 5 weap 0
+[16:28:06] slot 6 weap 0
+[16:28:06] slot 7 weap 0
+[16:28:06] slot 8 weap 0
+[16:28:06] slot 9 weap 0
+[16:28:06] slot 10 weap 0
+[16:28:06] slot 11 weap 0
+[16:28:06] slot 12 weap 0
+[16:28:06] slot 0 weap 0
+[16:28:06] slot 1 weap 4
+[16:28:06] slot 2 weap 23
+[16:28:06] slot 3 weap 0
+[16:28:06] slot 4 weap 0
+[16:28:06] slot 5 weap 0
+[16:28:06] slot 6 weap 0
+[16:28:06] slot 7 weap 0
+[16:28:06] slot 8 weap 0
+[16:28:06] slot 9 weap 0
+[16:28:06] slot 10 weap 0
+[16:28:06] slot 11 weap 0
+[16:28:06] slot 12 weap 0
+[16:28:06] slot 0 weap 0
+[16:28:06] slot 1 weap 4
+[16:28:06] slot 2 weap 23
+[16:28:06] slot 3 weap 0
+[16:28:06] slot 4 weap 32
+[16:28:06] slot 5 weap 0
+[16:28:06] slot 6 weap 0
+[16:28:06] slot 7 weap 0
+[16:28:06] slot 8 weap 0
+[16:28:06] slot 9 weap 0
+[16:28:06] slot 10 weap 0
+[16:28:06] slot 11 weap 0
+[16:28:06] slot 12 weap 0
+[16:28:06] slot 0 weap 0
+[16:28:06] slot 1 weap 4
+[16:28:06] slot 2 weap 23
+[16:28:06] slot 3 weap 0
+[16:28:06] slot 4 weap 32
+[16:28:06] slot 5 weap 0
+[16:28:06] slot 6 weap 0
+[16:28:06] slot 7 weap 0
+[16:28:06] slot 8 weap 0
+[16:28:06] slot 9 weap 0
+[16:28:06] slot 10 weap 0
+[16:28:06] slot 11 weap 0
+[16:28:06] slot 12 weap 0
+[16:28:06] slot 0 weap 0
+[16:28:06] slot 1 weap 4
+[16:28:06] slot 2 weap 23
+[16:28:06] slot 3 weap 0
+[16:28:06] slot 4 weap 32
+[16:28:06] slot 5 weap 0
+[16:28:06] slot 6 weap 0
+[16:28:06] slot 7 weap 0
+[16:28:06] slot 8 weap 0
+[16:28:06] slot 9 weap 0
+[16:28:06] slot 10 weap 0
+[16:28:06] slot 11 weap 0
+[16:28:06] slot 12 weap 0
+[16:28:06] slot 0 weap 0
+[16:28:06] slot 1 weap 4
+[16:28:06] slot 2 weap 23
+[16:28:06] slot 3 weap 0
+[16:28:06] slot 4 weap 32
+[16:28:06] slot 5 weap 0
+[16:28:06] slot 6 weap 0
+[16:28:06] slot 7 weap 0
+[16:28:06] slot 8 weap 0
+[16:28:06] slot 9 weap 0
+[16:28:06] slot 10 weap 0
+[16:28:06] slot 11 weap 0
+[16:28:06] slot 12 weap 0
+[16:28:06] slot 0 weap 0
+[16:28:06] slot 1 weap 4
+[16:28:06] slot 2 weap 23
+[16:28:06] slot 3 weap 0
+[16:28:06] slot 4 weap 32
+[16:28:06] slot 5 weap 0
+[16:28:06] slot 6 weap 0
+[16:28:06] slot 7 weap 0
+[16:28:06] slot 8 weap 0
+[16:28:06] slot 9 weap 0
+[16:28:06] slot 10 weap 0
+[16:28:06] slot 11 weap 0
+[16:28:06] slot 12 weap 0
+[16:28:06] slot 0 weap 0
+[16:28:06] slot 1 weap 4
+[16:28:06] slot 2 weap 23
+[16:28:06] slot 3 weap 0
+[16:28:06] slot 4 weap 32
+[16:28:06] slot 5 weap 0
+[16:28:06] slot 6 weap 0
+[16:28:06] slot 7 weap 0
+[16:28:06] slot 8 weap 0
+[16:28:06] slot 9 weap 0
+[16:28:06] slot 10 weap 0
+[16:28:06] slot 11 weap 0
+[16:28:06] slot 12 weap 0
+[16:28:07] slot 0 weap 0
+[16:28:07] slot 1 weap 4
+[16:28:07] slot 2 weap 23
+[16:28:07] slot 3 weap 0
+[16:28:07] slot 4 weap 32
+[16:28:07] slot 5 weap 0
+[16:28:07] slot 6 weap 0
+[16:28:07] slot 7 weap 0
+[16:28:07] slot 8 weap 0
+[16:28:07] slot 9 weap 0
+[16:28:07] slot 10 weap 0
+[16:28:07] slot 11 weap 0
+[16:28:07] slot 12 weap 0
+[16:28:07] slot 0 weap 0
+[16:28:07] slot 1 weap 4
+[16:28:07] slot 2 weap 23
+[16:28:07] slot 3 weap 0
+[16:28:07] slot 4 weap 32
+[16:28:07] slot 5 weap 0
+[16:28:07] slot 6 weap 0
+[16:28:07] slot 7 weap 0
+[16:28:07] slot 8 weap 0
+[16:28:07] slot 9 weap 0
+[16:28:07] slot 10 weap 0
+[16:28:07] slot 11 weap 0
+[16:28:07] slot 12 weap 0
+[16:28:07] slot 0 weap 0
+[16:28:07] slot 1 weap 4
+[16:28:07] slot 2 weap 23
+[16:28:07] slot 3 weap 0
+[16:28:07] slot 4 weap 32
+[16:28:07] slot 5 weap 0
+[16:28:07] slot 6 weap 0
+[16:28:07] slot 7 weap 0
+[16:28:07] slot 8 weap 0
+[16:28:07] slot 9 weap 0
+[16:28:07] slot 10 weap 0
+[16:28:07] slot 11 weap 0
+[16:28:07] slot 12 weap 0
+[16:28:07] slot 0 weap 0
+[16:28:07] slot 1 weap 4
+[16:28:07] slot 2 weap 23
+[16:28:07] slot 3 weap 0
+[16:28:07] slot 4 weap 32
+[16:28:07] slot 5 weap 0
+[16:28:07] slot 6 weap 0
+[16:28:07] slot 7 weap 0
+[16:28:07] slot 8 weap 0
+[16:28:07] slot 9 weap 0
+[16:28:07] slot 10 weap 0
+[16:28:07] slot 11 weap 0
+[16:28:07] slot 12 weap 0
+[16:28:07] slot 0 weap 0
+[16:28:07] slot 1 weap 4
+[16:28:07] slot 2 weap 23
+[16:28:07] slot 3 weap 0
+[16:28:07] slot 4 weap 32
+[16:28:07] slot 5 weap 0
+[16:28:07] slot 6 weap 0
+[16:28:07] slot 7 weap 0
+[16:28:07] slot 8 weap 0
+[16:28:07] slot 9 weap 0
+[16:28:07] slot 10 weap 0
+[16:28:07] slot 11 weap 0
+[16:28:07] slot 12 weap 0
+[16:28:07] slot 0 weap 0
+[16:28:07] slot 1 weap 4
+[16:28:07] slot 2 weap 23
+[16:28:07] slot 3 weap 0
+[16:28:07] slot 4 weap 32
+[16:28:07] slot 5 weap 0
+[16:28:07] slot 6 weap 0
+[16:28:07] slot 7 weap 0
+[16:28:07] slot 8 weap 0
+[16:28:07] slot 9 weap 0
+[16:28:07] slot 10 weap 0
+[16:28:07] slot 11 weap 0
+[16:28:07] slot 12 weap 0
+[16:28:08] slot 0 weap 0
+[16:28:08] slot 1 weap 4
+[16:28:08] slot 2 weap 23
+[16:28:08] slot 3 weap 0
+[16:28:08] slot 4 weap 32
+[16:28:08] slot 5 weap 0
+[16:28:08] slot 6 weap 0
+[16:28:08] slot 7 weap 0
+[16:28:08] slot 8 weap 0
+[16:28:08] slot 9 weap 0
+[16:28:08] slot 10 weap 0
+[16:28:08] slot 11 weap 0
+[16:28:08] slot 12 weap 0
+[16:28:08] slot 0 weap 0
+[16:28:08] slot 1 weap 4
+[16:28:08] slot 2 weap 23
+[16:28:08] slot 3 weap 0
+[16:28:08] slot 4 weap 32
+[16:28:08] slot 5 weap 0
+[16:28:08] slot 6 weap 0
+[16:28:08] slot 7 weap 0
+[16:28:08] slot 8 weap 0
+[16:28:08] slot 9 weap 0
+[16:28:08] slot 10 weap 0
+[16:28:08] slot 11 weap 0
+[16:28:08] slot 12 weap 0
+[16:28:08] slot 0 weap 0
+[16:28:08] slot 1 weap 4
+[16:28:08] slot 2 weap 23
+[16:28:08] slot 3 weap 0
+[16:28:08] slot 4 weap 32
+[16:28:08] slot 5 weap 0
+[16:28:08] slot 6 weap 0
+[16:28:08] slot 7 weap 0
+[16:28:08] slot 8 weap 0
+[16:28:08] slot 9 weap 0
+[16:28:08] slot 10 weap 0
+[16:28:08] slot 11 weap 0
+[16:28:08] slot 12 weap 0
+[16:28:08] slot 0 weap 0
+[16:28:08] slot 1 weap 4
+[16:28:08] slot 2 weap 23
+[16:28:08] slot 3 weap 0
+[16:28:08] slot 4 weap 32
+[16:28:08] slot 5 weap 0
+[16:28:08] slot 6 weap 0
+[16:28:08] slot 7 weap 0
+[16:28:08] slot 8 weap 0
+[16:28:08] slot 9 weap 0
+[16:28:08] slot 10 weap 0
+[16:28:08] slot 11 weap 0
+[16:28:08] slot 12 weap 0
+[16:28:08] slot 0 weap 0
+[16:28:08] slot 1 weap 4
+[16:28:08] slot 2 weap 23
+[16:28:08] slot 3 weap 0
+[16:28:08] slot 4 weap 32
+[16:28:08] slot 5 weap 0
+[16:28:08] slot 6 weap 0
+[16:28:08] slot 7 weap 0
+[16:28:08] slot 8 weap 0
+[16:28:08] slot 9 weap 0
+[16:28:08] slot 10 weap 0
+[16:28:08] slot 11 weap 0
+[16:28:08] slot 12 weap 0
+[16:28:08] slot 0 weap 0
+[16:28:08] slot 1 weap 4
+[16:28:08] slot 2 weap 23
+[16:28:08] slot 3 weap 0
+[16:28:08] slot 4 weap 32
+[16:28:08] slot 5 weap 0
+[16:28:08] slot 6 weap 0
+[16:28:08] slot 7 weap 0
+[16:28:08] slot 8 weap 0
+[16:28:08] slot 9 weap 0
+[16:28:08] slot 10 weap 0
+[16:28:08] slot 11 weap 0
+[16:28:08] slot 12 weap 0
+[16:28:08] slot 0 weap 0
+[16:28:08] slot 1 weap 4
+[16:28:08] slot 2 weap 23
+[16:28:08] slot 3 weap 0
+[16:28:08] slot 4 weap 32
+[16:28:08] slot 5 weap 0
+[16:28:08] slot 6 weap 0
+[16:28:08] slot 7 weap 0
+[16:28:08] slot 8 weap 0
+[16:28:08] slot 9 weap 0
+[16:28:08] slot 10 weap 0
+[16:28:08] slot 11 weap 0
+[16:28:08] slot 12 weap 0
+[16:28:08] slot 0 weap 0
+[16:28:08] slot 1 weap 4
+[16:28:08] slot 2 weap 23
+[16:28:08] slot 3 weap 0
+[16:28:08] slot 4 weap 32
+[16:28:08] slot 5 weap 0
+[16:28:08] slot 6 weap 0
+[16:28:08] slot 7 weap 0
+[16:28:08] slot 8 weap 0
+[16:28:08] slot 9 weap 0
+[16:28:08] slot 10 weap 0
+[16:28:08] slot 11 weap 0
+[16:28:08] slot 12 weap 0
+[16:28:09] slot 0 weap 0
+[16:28:09] slot 1 weap 4
+[16:28:09] slot 2 weap 23
+[16:28:09] slot 3 weap 0
+[16:28:09] slot 4 weap 32
+[16:28:09] slot 5 weap 0
+[16:28:09] slot 6 weap 0
+[16:28:09] slot 7 weap 0
+[16:28:09] slot 8 weap 0
+[16:28:09] slot 9 weap 0
+[16:28:09] slot 10 weap 0
+[16:28:09] slot 11 weap 0
+[16:28:09] slot 12 weap 0
+[16:28:09] slot 0 weap 0
+[16:28:09] slot 1 weap 4
+[16:28:09] slot 2 weap 23
+[16:28:09] slot 3 weap 0
+[16:28:09] slot 4 weap 32
+[16:28:09] slot 5 weap 0
+[16:28:09] slot 6 weap 0
+[16:28:09] slot 7 weap 0
+[16:28:09] slot 8 weap 0
+[16:28:09] slot 9 weap 0
+[16:28:09] slot 10 weap 0
+[16:28:09] slot 11 weap 0
+[16:28:09] slot 12 weap 0
+[16:28:09] slot 0 weap 0
+[16:28:09] slot 1 weap 4
+[16:28:09] slot 2 weap 23
+[16:28:09] slot 3 weap 0
+[16:28:09] slot 4 weap 32
+[16:28:09] slot 5 weap 0
+[16:28:09] slot 6 weap 0
+[16:28:09] slot 7 weap 0
+[16:28:09] slot 8 weap 0
+[16:28:09] slot 9 weap 0
+[16:28:09] slot 10 weap 0
+[16:28:09] slot 11 weap 0
+[16:28:09] slot 12 weap 0
+[16:28:09] slot 0 weap 0
+[16:28:09] slot 1 weap 4
+[16:28:09] slot 2 weap 23
+[16:28:09] slot 3 weap 0
+[16:28:09] slot 4 weap 32
+[16:28:09] slot 5 weap 0
+[16:28:09] slot 6 weap 0
+[16:28:09] slot 7 weap 0
+[16:28:09] slot 8 weap 0
+[16:28:09] slot 9 weap 0
+[16:28:09] slot 10 weap 0
+[16:28:09] slot 11 weap 0
+[16:28:09] slot 12 weap 0
+[16:28:09] slot 0 weap 0
+[16:28:09] slot 1 weap 4
+[16:28:09] slot 2 weap 23
+[16:28:09] slot 3 weap 0
+[16:28:09] slot 4 weap 32
+[16:28:09] slot 5 weap 0
+[16:28:09] slot 6 weap 0
+[16:28:09] slot 7 weap 0
+[16:28:09] slot 8 weap 0
+[16:28:09] slot 9 weap 0
+[16:28:09] slot 10 weap 0
+[16:28:09] slot 11 weap 0
+[16:28:09] slot 12 weap 0
+[16:28:09] slot 0 weap 0
+[16:28:09] slot 1 weap 4
+[16:28:09] slot 2 weap 23
+[16:28:09] slot 3 weap 0
+[16:28:09] slot 4 weap 32
+[16:28:09] slot 5 weap 0
+[16:28:09] slot 6 weap 0
+[16:28:09] slot 7 weap 0
+[16:28:09] slot 8 weap 0
+[16:28:09] slot 9 weap 0
+[16:28:09] slot 10 weap 0
+[16:28:09] slot 11 weap 0
+[16:28:09] slot 12 weap 0
+[16:28:10] slot 0 weap 0
+[16:28:10] slot 1 weap 4
+[16:28:10] slot 2 weap 23
+[16:28:10] slot 3 weap 0
+[16:28:10] slot 4 weap 32
+[16:28:10] slot 5 weap 0
+[16:28:10] slot 6 weap 0
+[16:28:10] slot 7 weap 0
+[16:28:10] slot 8 weap 0
+[16:28:10] slot 9 weap 0
+[16:28:10] slot 10 weap 0
+[16:28:10] slot 11 weap 0
+[16:28:10] slot 12 weap 0
+[16:28:10] slot 0 weap 0
+[16:28:10] slot 1 weap 4
+[16:28:10] slot 2 weap 23
+[16:28:10] slot 3 weap 0
+[16:28:10] slot 4 weap 32
+[16:28:10] slot 5 weap 0
+[16:28:10] slot 6 weap 0
+[16:28:10] slot 7 weap 0
+[16:28:10] slot 8 weap 0
+[16:28:10] slot 9 weap 0
+[16:28:10] slot 10 weap 0
+[16:28:10] slot 11 weap 0
+[16:28:10] slot 12 weap 0
+[16:28:10] slot 0 weap 0
+[16:28:10] slot 1 weap 4
+[16:28:10] slot 2 weap 23
+[16:28:10] slot 3 weap 0
+[16:28:10] slot 4 weap 32
+[16:28:10] slot 5 weap 0
+[16:28:10] slot 6 weap 0
+[16:28:10] slot 7 weap 0
+[16:28:10] slot 8 weap 0
+[16:28:10] slot 9 weap 0
+[16:28:10] slot 10 weap 0
+[16:28:10] slot 11 weap 0
+[16:28:10] slot 12 weap 0
+[16:28:10] slot 0 weap 0
+[16:28:10] slot 1 weap 4
+[16:28:10] slot 2 weap 23
+[16:28:10] slot 3 weap 0
+[16:28:10] slot 4 weap 32
+[16:28:10] slot 5 weap 0
+[16:28:10] slot 6 weap 0
+[16:28:10] slot 7 weap 0
+[16:28:10] slot 8 weap 0
+[16:28:10] slot 9 weap 0
+[16:28:10] slot 10 weap 0
+[16:28:10] slot 11 weap 0
+[16:28:10] slot 12 weap 0
+[16:28:10] slot 0 weap 0
+[16:28:10] slot 1 weap 4
+[16:28:10] slot 2 weap 23
+[16:28:10] slot 3 weap 0
+[16:28:10] slot 4 weap 32
+[16:28:10] slot 5 weap 0
+[16:28:10] slot 6 weap 0
+[16:28:10] slot 7 weap 0
+[16:28:10] slot 8 weap 0
+[16:28:10] slot 9 weap 0
+[16:28:10] slot 10 weap 0
+[16:28:10] slot 11 weap 0
+[16:28:10] slot 12 weap 0
+[16:28:10] slot 0 weap 0
+[16:28:10] slot 1 weap 4
+[16:28:10] slot 2 weap 23
+[16:28:10] slot 3 weap 0
+[16:28:10] slot 4 weap 32
+[16:28:10] slot 5 weap 0
+[16:28:10] slot 6 weap 0
+[16:28:10] slot 7 weap 0
+[16:28:10] slot 8 weap 0
+[16:28:10] slot 9 weap 0
+[16:28:10] slot 10 weap 0
+[16:28:10] slot 11 weap 0
+[16:28:10] slot 12 weap 0
+[16:28:10] slot 0 weap 0
+[16:28:10] slot 1 weap 4
+[16:28:10] slot 2 weap 23
+[16:28:10] slot 3 weap 0
+[16:28:10] slot 4 weap 32
+[16:28:10] slot 5 weap 0
+[16:28:10] slot 6 weap 0
+[16:28:10] slot 7 weap 0
+[16:28:10] slot 8 weap 0
+[16:28:10] slot 9 weap 0
+[16:28:10] slot 10 weap 0
+[16:28:10] slot 11 weap 0
+[16:28:10] slot 12 weap 0
+[16:28:10] slot 0 weap 0
+[16:28:10] slot 1 weap 4
+[16:28:10] slot 2 weap 23
+[16:28:10] slot 3 weap 0
+[16:28:10] slot 4 weap 32
+[16:28:10] slot 5 weap 0
+[16:28:10] slot 6 weap 0
+[16:28:10] slot 7 weap 0
+[16:28:10] slot 8 weap 0
+[16:28:10] slot 9 weap 0
+[16:28:10] slot 10 weap 0
+[16:28:10] slot 11 weap 0
+[16:28:10] slot 12 weap 0
+[16:28:11] slot 0 weap 0
+[16:28:11] slot 1 weap 4
+[16:28:11] slot 2 weap 23
+[16:28:11] slot 3 weap 0
+[16:28:11] slot 4 weap 32
+[16:28:11] slot 5 weap 0
+[16:28:11] slot 6 weap 0
+[16:28:11] slot 7 weap 0
+[16:28:11] slot 8 weap 0
+[16:28:11] slot 9 weap 0
+[16:28:11] slot 10 weap 0
+[16:28:11] slot 11 weap 0
+[16:28:11] slot 12 weap 0
+[16:28:11] slot 0 weap 0
+[16:28:11] slot 1 weap 4
+[16:28:11] slot 2 weap 23
+[16:28:11] slot 3 weap 0
+[16:28:11] slot 4 weap 32
+[16:28:11] slot 5 weap 0
+[16:28:11] slot 6 weap 0
+[16:28:11] slot 7 weap 0
+[16:28:11] slot 8 weap 0
+[16:28:11] slot 9 weap 0
+[16:28:11] slot 10 weap 0
+[16:28:11] slot 11 weap 0
+[16:28:11] slot 12 weap 0
+[16:28:11] slot 0 weap 0
+[16:28:11] slot 1 weap 4
+[16:28:11] slot 2 weap 23
+[16:28:11] slot 3 weap 0
+[16:28:11] slot 4 weap 32
+[16:28:11] slot 5 weap 0
+[16:28:11] slot 6 weap 0
+[16:28:11] slot 7 weap 0
+[16:28:11] slot 8 weap 0
+[16:28:11] slot 9 weap 0
+[16:28:11] slot 10 weap 0
+[16:28:11] slot 11 weap 0
+[16:28:11] slot 12 weap 0
+[16:28:11] slot 0 weap 0
+[16:28:11] slot 1 weap 4
+[16:28:11] slot 2 weap 23
+[16:28:11] slot 3 weap 0
+[16:28:11] slot 4 weap 32
+[16:28:11] slot 5 weap 0
+[16:28:11] slot 6 weap 0
+[16:28:11] slot 7 weap 0
+[16:28:11] slot 8 weap 0
+[16:28:11] slot 9 weap 0
+[16:28:11] slot 10 weap 0
+[16:28:11] slot 11 weap 0
+[16:28:11] slot 12 weap 0
+[16:28:11] slot 0 weap 0
+[16:28:11] slot 1 weap 4
+[16:28:11] slot 2 weap 23
+[16:28:11] slot 3 weap 0
+[16:28:11] slot 4 weap 32
+[16:28:11] slot 5 weap 0
+[16:28:11] slot 6 weap 0
+[16:28:11] slot 7 weap 0
+[16:28:11] slot 8 weap 0
+[16:28:11] slot 9 weap 0
+[16:28:11] slot 10 weap 0
+[16:28:11] slot 11 weap 0
+[16:28:11] slot 12 weap 0
+[16:28:11] slot 0 weap 0
+[16:28:11] slot 1 weap 4
+[16:28:11] slot 2 weap 23
+[16:28:11] slot 3 weap 0
+[16:28:11] slot 4 weap 32
+[16:28:11] slot 5 weap 0
+[16:28:11] slot 6 weap 0
+[16:28:11] slot 7 weap 0
+[16:28:11] slot 8 weap 0
+[16:28:11] slot 9 weap 0
+[16:28:11] slot 10 weap 0
+[16:28:11] slot 11 weap 0
+[16:28:11] slot 12 weap 0
+[16:28:12] slot 0 weap 0
+[16:28:12] slot 1 weap 4
+[16:28:12] slot 2 weap 23
+[16:28:12] slot 3 weap 0
+[16:28:12] slot 4 weap 32
+[16:28:12] slot 5 weap 0
+[16:28:12] slot 6 weap 0
+[16:28:12] slot 7 weap 0
+[16:28:12] slot 8 weap 0
+[16:28:12] slot 9 weap 0
+[16:28:12] slot 10 weap 0
+[16:28:12] slot 11 weap 0
+[16:28:12] slot 12 weap 0
+[16:28:12] slot 0 weap 0
+[16:28:12] slot 1 weap 4
+[16:28:12] slot 2 weap 23
+[16:28:12] slot 3 weap 0
+[16:28:12] slot 4 weap 32
+[16:28:12] slot 5 weap 0
+[16:28:12] slot 6 weap 0
+[16:28:12] slot 7 weap 0
+[16:28:12] slot 8 weap 0
+[16:28:12] slot 9 weap 0
+[16:28:12] slot 10 weap 0
+[16:28:12] slot 11 weap 0
+[16:28:12] slot 12 weap 0
+[16:28:12] slot 0 weap 0
+[16:28:12] slot 1 weap 4
+[16:28:12] slot 2 weap 23
+[16:28:12] slot 3 weap 0
+[16:28:12] slot 4 weap 32
+[16:28:12] slot 5 weap 0
+[16:28:12] slot 6 weap 0
+[16:28:12] slot 7 weap 0
+[16:28:12] slot 8 weap 0
+[16:28:12] slot 9 weap 0
+[16:28:12] slot 10 weap 0
+[16:28:12] slot 11 weap 0
+[16:28:12] slot 12 weap 0
+[16:28:12] slot 0 weap 0
+[16:28:12] slot 1 weap 4
+[16:28:12] slot 2 weap 23
+[16:28:12] slot 3 weap 0
+[16:28:12] slot 4 weap 32
+[16:28:12] slot 5 weap 0
+[16:28:12] slot 6 weap 0
+[16:28:12] slot 7 weap 0
+[16:28:12] slot 8 weap 0
+[16:28:12] slot 9 weap 0
+[16:28:12] slot 10 weap 0
+[16:28:12] slot 11 weap 0
+[16:28:12] slot 12 weap 0
+[16:28:12] slot 0 weap 0
+[16:28:12] slot 1 weap 4
+[16:28:12] slot 2 weap 23
+[16:28:12] slot 3 weap 0
+[16:28:12] slot 4 weap 32
+[16:28:12] slot 5 weap 0
+[16:28:12] slot 6 weap 0
+[16:28:12] slot 7 weap 0
+[16:28:12] slot 8 weap 0
+[16:28:12] slot 9 weap 0
+[16:28:12] slot 10 weap 0
+[16:28:12] slot 11 weap 0
+[16:28:12] slot 12 weap 0
+[16:28:12] slot 0 weap 0
+[16:28:12] slot 1 weap 4
+[16:28:12] slot 2 weap 23
+[16:28:12] slot 3 weap 0
+[16:28:12] slot 4 weap 32
+[16:28:12] slot 5 weap 0
+[16:28:12] slot 6 weap 0
+[16:28:12] slot 7 weap 0
+[16:28:12] slot 8 weap 0
+[16:28:12] slot 9 weap 0
+[16:28:12] slot 10 weap 0
+[16:28:12] slot 11 weap 0
+[16:28:12] slot 12 weap 0
+[16:28:12] slot 0 weap 0
+[16:28:12] slot 1 weap 4
+[16:28:12] slot 2 weap 23
+[16:28:12] slot 3 weap 0
+[16:28:12] slot 4 weap 32
+[16:28:12] slot 5 weap 0
+[16:28:12] slot 6 weap 0
+[16:28:12] slot 7 weap 0
+[16:28:12] slot 8 weap 0
+[16:28:12] slot 9 weap 0
+[16:28:12] slot 10 weap 0
+[16:28:12] slot 11 weap 0
+[16:28:12] slot 12 weap 0
+[16:28:12] slot 0 weap 0
+[16:28:12] slot 1 weap 4
+[16:28:12] slot 2 weap 23
+[16:28:12] slot 3 weap 0
+[16:28:12] slot 4 weap 32
+[16:28:12] slot 5 weap 0
+[16:28:12] slot 6 weap 0
+[16:28:12] slot 7 weap 0
+[16:28:12] slot 8 weap 0
+[16:28:12] slot 9 weap 0
+[16:28:12] slot 10 weap 0
+[16:28:12] slot 11 weap 0
+[16:28:12] slot 12 weap 0
+[16:28:13] slot 0 weap 0
+[16:28:13] slot 1 weap 4
+[16:28:13] slot 2 weap 23
+[16:28:13] slot 3 weap 0
+[16:28:13] slot 4 weap 32
+[16:28:13] slot 5 weap 0
+[16:28:13] slot 6 weap 0
+[16:28:13] slot 7 weap 0
+[16:28:13] slot 8 weap 0
+[16:28:13] slot 9 weap 0
+[16:28:13] slot 10 weap 0
+[16:28:13] slot 11 weap 0
+[16:28:13] slot 12 weap 0
+[16:28:13] slot 0 weap 0
+[16:28:13] slot 1 weap 4
+[16:28:13] slot 2 weap 23
+[16:28:13] slot 3 weap 0
+[16:28:13] slot 4 weap 32
+[16:28:13] slot 5 weap 0
+[16:28:13] slot 6 weap 0
+[16:28:13] slot 7 weap 0
+[16:28:13] slot 8 weap 0
+[16:28:13] slot 9 weap 0
+[16:28:13] slot 10 weap 0
+[16:28:13] slot 11 weap 0
+[16:28:13] slot 12 weap 0
+[16:28:13] slot 0 weap 0
+[16:28:13] slot 1 weap 4
+[16:28:13] slot 2 weap 23
+[16:28:13] slot 3 weap 0
+[16:28:13] slot 4 weap 32
+[16:28:13] slot 5 weap 0
+[16:28:13] slot 6 weap 0
+[16:28:13] slot 7 weap 0
+[16:28:13] slot 8 weap 0
+[16:28:13] slot 9 weap 0
+[16:28:13] slot 10 weap 0
+[16:28:13] slot 11 weap 0
+[16:28:13] slot 12 weap 0
+[16:28:13] slot 0 weap 0
+[16:28:13] slot 1 weap 4
+[16:28:13] slot 2 weap 23
+[16:28:13] slot 3 weap 0
+[16:28:13] slot 4 weap 32
+[16:28:13] slot 5 weap 0
+[16:28:13] slot 6 weap 0
+[16:28:13] slot 7 weap 0
+[16:28:13] slot 8 weap 0
+[16:28:13] slot 9 weap 0
+[16:28:13] slot 10 weap 0
+[16:28:13] slot 11 weap 0
+[16:28:13] slot 12 weap 0
+[16:28:13] slot 0 weap 0
+[16:28:13] slot 1 weap 4
+[16:28:13] slot 2 weap 23
+[16:28:13] slot 3 weap 0
+[16:28:13] slot 4 weap 32
+[16:28:13] slot 5 weap 0
+[16:28:13] slot 6 weap 0
+[16:28:13] slot 7 weap 0
+[16:28:13] slot 8 weap 0
+[16:28:13] slot 9 weap 0
+[16:28:13] slot 10 weap 0
+[16:28:13] slot 11 weap 0
+[16:28:13] slot 12 weap 0
+[16:28:13] slot 0 weap 0
+[16:28:13] slot 1 weap 4
+[16:28:13] slot 2 weap 23
+[16:28:13] slot 3 weap 0
+[16:28:13] slot 4 weap 32
+[16:28:13] slot 5 weap 0
+[16:28:13] slot 6 weap 0
+[16:28:13] slot 7 weap 0
+[16:28:13] slot 8 weap 0
+[16:28:13] slot 9 weap 0
+[16:28:13] slot 10 weap 0
+[16:28:13] slot 11 weap 0
+[16:28:13] slot 12 weap 0
+[16:28:14] slot 0 weap 0
+[16:28:14] slot 1 weap 4
+[16:28:14] slot 2 weap 23
+[16:28:14] slot 3 weap 0
+[16:28:14] slot 4 weap 32
+[16:28:14] slot 5 weap 0
+[16:28:14] slot 6 weap 0
+[16:28:14] slot 7 weap 0
+[16:28:14] slot 8 weap 0
+[16:28:14] slot 9 weap 0
+[16:28:14] slot 10 weap 0
+[16:28:14] slot 11 weap 0
+[16:28:14] slot 12 weap 0
+[16:28:14] slot 0 weap 0
+[16:28:14] slot 1 weap 4
+[16:28:14] slot 2 weap 23
+[16:28:14] slot 3 weap 0
+[16:28:14] slot 4 weap 32
+[16:28:14] slot 5 weap 0
+[16:28:14] slot 6 weap 0
+[16:28:14] slot 7 weap 0
+[16:28:14] slot 8 weap 0
+[16:28:14] slot 9 weap 0
+[16:28:14] slot 10 weap 0
+[16:28:14] slot 11 weap 0
+[16:28:14] slot 12 weap 0
+[16:28:14] slot 0 weap 0
+[16:28:14] slot 1 weap 4
+[16:28:14] slot 2 weap 23
+[16:28:14] slot 3 weap 0
+[16:28:14] slot 4 weap 32
+[16:28:14] slot 5 weap 0
+[16:28:14] slot 6 weap 0
+[16:28:14] slot 7 weap 0
+[16:28:14] slot 8 weap 0
+[16:28:14] slot 9 weap 0
+[16:28:14] slot 10 weap 0
+[16:28:14] slot 11 weap 0
+[16:28:14] slot 12 weap 0
+[16:28:14] slot 0 weap 0
+[16:28:14] slot 1 weap 4
+[16:28:14] slot 2 weap 23
+[16:28:14] slot 3 weap 0
+[16:28:14] slot 4 weap 32
+[16:28:14] slot 5 weap 0
+[16:28:14] slot 6 weap 0
+[16:28:14] slot 7 weap 0
+[16:28:14] slot 8 weap 0
+[16:28:14] slot 9 weap 0
+[16:28:14] slot 10 weap 0
+[16:28:14] slot 11 weap 0
+[16:28:14] slot 12 weap 0
+[16:28:14] slot 0 weap 0
+[16:28:14] slot 1 weap 4
+[16:28:14] slot 2 weap 23
+[16:28:14] slot 3 weap 0
+[16:28:14] slot 4 weap 32
+[16:28:14] slot 5 weap 0
+[16:28:14] slot 6 weap 0
+[16:28:14] slot 7 weap 0
+[16:28:14] slot 8 weap 0
+[16:28:14] slot 9 weap 0
+[16:28:14] slot 10 weap 0
+[16:28:14] slot 11 weap 0
+[16:28:14] slot 12 weap 0
+[16:28:14] slot 0 weap 0
+[16:28:14] slot 1 weap 4
+[16:28:14] slot 2 weap 23
+[16:28:14] slot 3 weap 0
+[16:28:14] slot 4 weap 32
+[16:28:14] slot 5 weap 0
+[16:28:14] slot 6 weap 0
+[16:28:14] slot 7 weap 0
+[16:28:14] slot 8 weap 0
+[16:28:14] slot 9 weap 0
+[16:28:14] slot 10 weap 0
+[16:28:14] slot 11 weap 0
+[16:28:14] slot 12 weap 0
+[16:28:14] slot 0 weap 0
+[16:28:14] slot 1 weap 4
+[16:28:14] slot 2 weap 23
+[16:28:14] slot 3 weap 0
+[16:28:14] slot 4 weap 32
+[16:28:14] slot 5 weap 0
+[16:28:14] slot 6 weap 0
+[16:28:14] slot 7 weap 0
+[16:28:14] slot 8 weap 0
+[16:28:14] slot 9 weap 0
+[16:28:14] slot 10 weap 0
+[16:28:14] slot 11 weap 0
+[16:28:14] slot 12 weap 0
+[16:28:14] slot 0 weap 0
+[16:28:14] slot 1 weap 4
+[16:28:14] slot 2 weap 23
+[16:28:14] slot 3 weap 0
+[16:28:14] slot 4 weap 32
+[16:28:14] slot 5 weap 0
+[16:28:14] slot 6 weap 0
+[16:28:14] slot 7 weap 0
+[16:28:14] slot 8 weap 0
+[16:28:14] slot 9 weap 0
+[16:28:14] slot 10 weap 0
+[16:28:14] slot 11 weap 0
+[16:28:14] slot 12 weap 0
+[16:28:15] slot 0 weap 0
+[16:28:15] slot 1 weap 4
+[16:28:15] slot 2 weap 23
+[16:28:15] slot 3 weap 0
+[16:28:15] slot 4 weap 32
+[16:28:15] slot 5 weap 0
+[16:28:15] slot 6 weap 0
+[16:28:15] slot 7 weap 0
+[16:28:15] slot 8 weap 0
+[16:28:15] slot 9 weap 0
+[16:28:15] slot 10 weap 0
+[16:28:15] slot 11 weap 0
+[16:28:15] slot 12 weap 0
+[16:28:15] slot 0 weap 0
+[16:28:15] slot 1 weap 4
+[16:28:15] slot 2 weap 23
+[16:28:15] slot 3 weap 0
+[16:28:15] slot 4 weap 32
+[16:28:15] slot 5 weap 0
+[16:28:15] slot 6 weap 0
+[16:28:15] slot 7 weap 0
+[16:28:15] slot 8 weap 0
+[16:28:15] slot 9 weap 0
+[16:28:15] slot 10 weap 0
+[16:28:15] slot 11 weap 0
+[16:28:15] slot 12 weap 0
+[16:28:15] slot 0 weap 0
+[16:28:15] slot 1 weap 4
+[16:28:15] slot 2 weap 23
+[16:28:15] slot 3 weap 0
+[16:28:15] slot 4 weap 32
+[16:28:15] slot 5 weap 0
+[16:28:15] slot 6 weap 0
+[16:28:15] slot 7 weap 0
+[16:28:15] slot 8 weap 0
+[16:28:15] slot 9 weap 0
+[16:28:15] slot 10 weap 0
+[16:28:15] slot 11 weap 0
+[16:28:15] slot 12 weap 0
+[16:28:15] slot 0 weap 0
+[16:28:15] slot 1 weap 4
+[16:28:15] slot 2 weap 23
+[16:28:15] slot 3 weap 0
+[16:28:15] slot 4 weap 32
+[16:28:15] slot 5 weap 0
+[16:28:15] slot 6 weap 0
+[16:28:15] slot 7 weap 0
+[16:28:15] slot 8 weap 0
+[16:28:15] slot 9 weap 0
+[16:28:15] slot 10 weap 0
+[16:28:15] slot 11 weap 0
+[16:28:15] slot 12 weap 0
+[16:28:15] slot 0 weap 0
+[16:28:15] slot 1 weap 4
+[16:28:15] slot 2 weap 23
+[16:28:15] slot 3 weap 0
+[16:28:15] slot 4 weap 32
+[16:28:15] slot 5 weap 0
+[16:28:15] slot 6 weap 0
+[16:28:15] slot 7 weap 0
+[16:28:15] slot 8 weap 0
+[16:28:15] slot 9 weap 0
+[16:28:15] slot 10 weap 0
+[16:28:15] slot 11 weap 0
+[16:28:15] slot 12 weap 0
+[16:28:15] slot 0 weap 0
+[16:28:15] slot 1 weap 4
+[16:28:15] slot 2 weap 23
+[16:28:15] slot 3 weap 0
+[16:28:15] slot 4 weap 32
+[16:28:15] slot 5 weap 0
+[16:28:15] slot 6 weap 0
+[16:28:15] slot 7 weap 0
+[16:28:15] slot 8 weap 0
+[16:28:15] slot 9 weap 0
+[16:28:15] slot 10 weap 0
+[16:28:15] slot 11 weap 0
+[16:28:15] slot 12 weap 0
+[16:28:16] slot 0 weap 0
+[16:28:16] slot 1 weap 4
+[16:28:16] slot 2 weap 23
+[16:28:16] slot 3 weap 0
+[16:28:16] slot 4 weap 32
+[16:28:16] slot 5 weap 0
+[16:28:16] slot 6 weap 0
+[16:28:16] slot 7 weap 0
+[16:28:16] slot 8 weap 0
+[16:28:16] slot 9 weap 0
+[16:28:16] slot 10 weap 0
+[16:28:16] slot 11 weap 0
+[16:28:16] slot 12 weap 0
+[16:28:16] slot 0 weap 0
+[16:28:16] slot 1 weap 4
+[16:28:16] slot 2 weap 23
+[16:28:16] slot 3 weap 0
+[16:28:16] slot 4 weap 32
+[16:28:16] slot 5 weap 0
+[16:28:16] slot 6 weap 0
+[16:28:16] slot 7 weap 0
+[16:28:16] slot 8 weap 0
+[16:28:16] slot 9 weap 0
+[16:28:16] slot 10 weap 0
+[16:28:16] slot 11 weap 0
+[16:28:16] slot 12 weap 0
+[16:28:16] slot 0 weap 0
+[16:28:16] slot 1 weap 4
+[16:28:16] slot 2 weap 23
+[16:28:16] slot 3 weap 0
+[16:28:16] slot 4 weap 32
+[16:28:16] slot 5 weap 0
+[16:28:16] slot 6 weap 0
+[16:28:16] slot 7 weap 0
+[16:28:16] slot 8 weap 0
+[16:28:16] slot 9 weap 0
+[16:28:16] slot 10 weap 0
+[16:28:16] slot 11 weap 0
+[16:28:16] slot 12 weap 0
+[16:28:16] slot 0 weap 0
+[16:28:16] slot 1 weap 4
+[16:28:16] slot 2 weap 23
+[16:28:16] slot 3 weap 0
+[16:28:16] slot 4 weap 32
+[16:28:16] slot 5 weap 0
+[16:28:16] slot 6 weap 0
+[16:28:16] slot 7 weap 0
+[16:28:16] slot 8 weap 0
+[16:28:16] slot 9 weap 0
+[16:28:16] slot 10 weap 0
+[16:28:16] slot 11 weap 0
+[16:28:16] slot 12 weap 0
+[16:28:16] slot 0 weap 0
+[16:28:16] slot 1 weap 4
+[16:28:16] slot 2 weap 23
+[16:28:16] slot 3 weap 0
+[16:28:16] slot 4 weap 32
+[16:28:16] slot 5 weap 0
+[16:28:16] slot 6 weap 0
+[16:28:16] slot 7 weap 0
+[16:28:16] slot 8 weap 0
+[16:28:16] slot 9 weap 0
+[16:28:16] slot 10 weap 0
+[16:28:16] slot 11 weap 0
+[16:28:16] slot 12 weap 0
+[16:28:16] slot 0 weap 0
+[16:28:16] slot 1 weap 4
+[16:28:16] slot 2 weap 23
+[16:28:16] slot 3 weap 0
+[16:28:16] slot 4 weap 32
+[16:28:16] slot 5 weap 0
+[16:28:16] slot 6 weap 0
+[16:28:16] slot 7 weap 0
+[16:28:16] slot 8 weap 0
+[16:28:16] slot 9 weap 0
+[16:28:16] slot 10 weap 0
+[16:28:16] slot 11 weap 0
+[16:28:16] slot 12 weap 0
+[16:28:16] slot 0 weap 0
+[16:28:16] slot 1 weap 4
+[16:28:16] slot 2 weap 23
+[16:28:16] slot 3 weap 0
+[16:28:16] slot 4 weap 32
+[16:28:16] slot 5 weap 0
+[16:28:16] slot 6 weap 0
+[16:28:16] slot 7 weap 0
+[16:28:16] slot 8 weap 0
+[16:28:16] slot 9 weap 0
+[16:28:16] slot 10 weap 0
+[16:28:16] slot 11 weap 0
+[16:28:16] slot 12 weap 0
+[16:28:16] slot 0 weap 0
+[16:28:16] slot 1 weap 4
+[16:28:16] slot 2 weap 23
+[16:28:16] slot 3 weap 0
+[16:28:16] slot 4 weap 32
+[16:28:16] slot 5 weap 0
+[16:28:16] slot 6 weap 0
+[16:28:16] slot 7 weap 0
+[16:28:16] slot 8 weap 0
+[16:28:16] slot 9 weap 0
+[16:28:16] slot 10 weap 0
+[16:28:16] slot 11 weap 0
+[16:28:16] slot 12 weap 0
+[16:28:17] slot 0 weap 0
+[16:28:17] slot 1 weap 4
+[16:28:17] slot 2 weap 23
+[16:28:17] slot 3 weap 0
+[16:28:17] slot 4 weap 32
+[16:28:17] slot 5 weap 0
+[16:28:17] slot 6 weap 0
+[16:28:17] slot 7 weap 0
+[16:28:17] slot 8 weap 0
+[16:28:17] slot 9 weap 0
+[16:28:17] slot 10 weap 0
+[16:28:17] slot 11 weap 0
+[16:28:17] slot 12 weap 0
+[16:28:17] slot 0 weap 0
+[16:28:17] slot 1 weap 4
+[16:28:17] slot 2 weap 23
+[16:28:17] slot 3 weap 0
+[16:28:17] slot 4 weap 32
+[16:28:17] slot 5 weap 0
+[16:28:17] slot 6 weap 0
+[16:28:17] slot 7 weap 0
+[16:28:17] slot 8 weap 0
+[16:28:17] slot 9 weap 0
+[16:28:17] slot 10 weap 0
+[16:28:17] slot 11 weap 0
+[16:28:17] slot 12 weap 0
+[16:28:17] slot 0 weap 0
+[16:28:17] slot 1 weap 4
+[16:28:17] slot 2 weap 23
+[16:28:17] slot 3 weap 0
+[16:28:17] slot 4 weap 32
+[16:28:17] slot 5 weap 0
+[16:28:17] slot 6 weap 0
+[16:28:17] slot 7 weap 0
+[16:28:17] slot 8 weap 0
+[16:28:17] slot 9 weap 0
+[16:28:17] slot 10 weap 0
+[16:28:17] slot 11 weap 0
+[16:28:17] slot 12 weap 0
+[16:28:17] slot 0 weap 0
+[16:28:17] slot 1 weap 4
+[16:28:17] slot 2 weap 23
+[16:28:17] slot 3 weap 0
+[16:28:17] slot 4 weap 32
+[16:28:17] slot 5 weap 0
+[16:28:17] slot 6 weap 0
+[16:28:17] slot 7 weap 0
+[16:28:17] slot 8 weap 0
+[16:28:17] slot 9 weap 0
+[16:28:17] slot 10 weap 0
+[16:28:17] slot 11 weap 0
+[16:28:17] slot 12 weap 0
+[16:28:17] slot 0 weap 0
+[16:28:17] slot 1 weap 4
+[16:28:17] slot 2 weap 23
+[16:28:17] slot 3 weap 0
+[16:28:17] slot 4 weap 32
+[16:28:17] slot 5 weap 0
+[16:28:17] slot 6 weap 0
+[16:28:17] slot 7 weap 0
+[16:28:17] slot 8 weap 0
+[16:28:17] slot 9 weap 0
+[16:28:17] slot 10 weap 0
+[16:28:17] slot 11 weap 0
+[16:28:17] slot 12 weap 0
+[16:28:17] slot 0 weap 0
+[16:28:17] slot 1 weap 4
+[16:28:17] slot 2 weap 23
+[16:28:17] slot 3 weap 0
+[16:28:17] slot 4 weap 32
+[16:28:17] slot 5 weap 0
+[16:28:17] slot 6 weap 0
+[16:28:17] slot 7 weap 0
+[16:28:17] slot 8 weap 0
+[16:28:17] slot 9 weap 0
+[16:28:17] slot 10 weap 0
+[16:28:17] slot 11 weap 0
+[16:28:17] slot 12 weap 0
+[16:28:17] slot 0 weap 0
+[16:28:17] slot 1 weap 4
+[16:28:17] slot 2 weap 23
+[16:28:17] slot 3 weap 0
+[16:28:17] slot 4 weap 32
+[16:28:17] slot 5 weap 0
+[16:28:17] slot 6 weap 0
+[16:28:17] slot 7 weap 0
+[16:28:17] slot 8 weap 0
+[16:28:17] slot 9 weap 0
+[16:28:17] slot 10 weap 0
+[16:28:17] slot 11 weap 0
+[16:28:17] slot 12 weap 0
+[16:28:17] slot 0 weap 0
+[16:28:17] slot 1 weap 4
+[16:28:17] slot 2 weap 23
+[16:28:17] slot 3 weap 0
+[16:28:17] slot 4 weap 32
+[16:28:17] slot 5 weap 0
+[16:28:17] slot 6 weap 0
+[16:28:17] slot 7 weap 0
+[16:28:17] slot 8 weap 0
+[16:28:17] slot 9 weap 0
+[16:28:17] slot 10 weap 0
+[16:28:17] slot 11 weap 0
+[16:28:17] slot 12 weap 0
+[16:28:18] slot 0 weap 0
+[16:28:18] slot 1 weap 4
+[16:28:18] slot 2 weap 23
+[16:28:18] slot 3 weap 0
+[16:28:18] slot 4 weap 32
+[16:28:18] slot 5 weap 0
+[16:28:18] slot 6 weap 0
+[16:28:18] slot 7 weap 0
+[16:28:18] slot 8 weap 0
+[16:28:18] slot 9 weap 0
+[16:28:18] slot 10 weap 0
+[16:28:18] slot 11 weap 0
+[16:28:18] slot 12 weap 0
+[16:28:18] slot 0 weap 0
+[16:28:18] slot 1 weap 4
+[16:28:18] slot 2 weap 23
+[16:28:18] slot 3 weap 0
+[16:28:18] slot 4 weap 32
+[16:28:18] slot 5 weap 0
+[16:28:18] slot 6 weap 0
+[16:28:18] slot 7 weap 0
+[16:28:18] slot 8 weap 0
+[16:28:18] slot 9 weap 0
+[16:28:18] slot 10 weap 0
+[16:28:18] slot 11 weap 0
+[16:28:18] slot 12 weap 0
+[16:28:18] slot 0 weap 0
+[16:28:18] slot 1 weap 4
+[16:28:18] slot 2 weap 23
+[16:28:18] slot 3 weap 0
+[16:28:18] slot 4 weap 32
+[16:28:18] slot 5 weap 0
+[16:28:18] slot 6 weap 0
+[16:28:18] slot 7 weap 0
+[16:28:18] slot 8 weap 0
+[16:28:18] slot 9 weap 0
+[16:28:18] slot 10 weap 0
+[16:28:18] slot 11 weap 0
+[16:28:18] slot 12 weap 0
+[16:28:18] slot 0 weap 0
+[16:28:18] slot 1 weap 4
+[16:28:18] slot 2 weap 23
+[16:28:18] slot 3 weap 0
+[16:28:18] slot 4 weap 32
+[16:28:18] slot 5 weap 0
+[16:28:18] slot 6 weap 0
+[16:28:18] slot 7 weap 0
+[16:28:18] slot 8 weap 0
+[16:28:18] slot 9 weap 0
+[16:28:18] slot 10 weap 0
+[16:28:18] slot 11 weap 0
+[16:28:18] slot 12 weap 0
+[16:28:18] slot 0 weap 0
+[16:28:18] slot 1 weap 4
+[16:28:18] slot 2 weap 23
+[16:28:18] slot 3 weap 0
+[16:28:18] slot 4 weap 32
+[16:28:18] slot 5 weap 0
+[16:28:18] slot 6 weap 0
+[16:28:18] slot 7 weap 0
+[16:28:18] slot 8 weap 0
+[16:28:18] slot 9 weap 0
+[16:28:18] slot 10 weap 0
+[16:28:18] slot 11 weap 0
+[16:28:18] slot 12 weap 0
+[16:28:18] slot 0 weap 0
+[16:28:18] slot 1 weap 4
+[16:28:18] slot 2 weap 23
+[16:28:18] slot 3 weap 0
+[16:28:18] slot 4 weap 32
+[16:28:18] slot 5 weap 0
+[16:28:18] slot 6 weap 0
+[16:28:18] slot 7 weap 0
+[16:28:18] slot 8 weap 0
+[16:28:18] slot 9 weap 0
+[16:28:18] slot 10 weap 0
+[16:28:18] slot 11 weap 0
+[16:28:18] slot 12 weap 0
+[16:28:19] slot 0 weap 0
+[16:28:19] slot 1 weap 4
+[16:28:19] slot 2 weap 23
+[16:28:19] slot 3 weap 0
+[16:28:19] slot 4 weap 32
+[16:28:19] slot 5 weap 0
+[16:28:19] slot 6 weap 0
+[16:28:19] slot 7 weap 0
+[16:28:19] slot 8 weap 0
+[16:28:19] slot 9 weap 0
+[16:28:19] slot 10 weap 0
+[16:28:19] slot 11 weap 0
+[16:28:19] slot 12 weap 0
+[16:28:19] slot 0 weap 0
+[16:28:19] slot 1 weap 4
+[16:28:19] slot 2 weap 23
+[16:28:19] slot 3 weap 0
+[16:28:19] slot 4 weap 32
+[16:28:19] slot 5 weap 0
+[16:28:19] slot 6 weap 0
+[16:28:19] slot 7 weap 0
+[16:28:19] slot 8 weap 0
+[16:28:19] slot 9 weap 0
+[16:28:19] slot 10 weap 0
+[16:28:19] slot 11 weap 0
+[16:28:19] slot 12 weap 0
+[16:28:19] slot 0 weap 0
+[16:28:19] slot 1 weap 4
+[16:28:19] slot 2 weap 23
+[16:28:19] slot 3 weap 0
+[16:28:19] slot 4 weap 32
+[16:28:19] slot 5 weap 0
+[16:28:19] slot 6 weap 0
+[16:28:19] slot 7 weap 0
+[16:28:19] slot 8 weap 0
+[16:28:19] slot 9 weap 0
+[16:28:19] slot 10 weap 0
+[16:28:19] slot 11 weap 0
+[16:28:19] slot 12 weap 0
+[16:28:19] slot 0 weap 0
+[16:28:19] slot 1 weap 4
+[16:28:19] slot 2 weap 23
+[16:28:19] slot 3 weap 0
+[16:28:19] slot 4 weap 32
+[16:28:19] slot 5 weap 0
+[16:28:19] slot 6 weap 0
+[16:28:19] slot 7 weap 0
+[16:28:19] slot 8 weap 0
+[16:28:19] slot 9 weap 0
+[16:28:19] slot 10 weap 0
+[16:28:19] slot 11 weap 0
+[16:28:19] slot 12 weap 0
+[16:28:19] slot 0 weap 0
+[16:28:19] slot 1 weap 4
+[16:28:19] slot 2 weap 23
+[16:28:19] slot 3 weap 0
+[16:28:19] slot 4 weap 32
+[16:28:19] slot 5 weap 0
+[16:28:19] slot 6 weap 0
+[16:28:19] slot 7 weap 0
+[16:28:19] slot 8 weap 0
+[16:28:19] slot 9 weap 0
+[16:28:19] slot 10 weap 0
+[16:28:19] slot 11 weap 0
+[16:28:19] slot 12 weap 0
+[16:28:19] slot 0 weap 0
+[16:28:19] slot 1 weap 4
+[16:28:19] slot 2 weap 23
+[16:28:19] slot 3 weap 0
+[16:28:19] slot 4 weap 32
+[16:28:19] slot 5 weap 0
+[16:28:19] slot 6 weap 0
+[16:28:19] slot 7 weap 0
+[16:28:19] slot 8 weap 0
+[16:28:19] slot 9 weap 0
+[16:28:19] slot 10 weap 0
+[16:28:19] slot 11 weap 0
+[16:28:19] slot 12 weap 0
+[16:28:19] slot 0 weap 0
+[16:28:19] slot 1 weap 4
+[16:28:19] slot 2 weap 23
+[16:28:19] slot 3 weap 0
+[16:28:19] slot 4 weap 32
+[16:28:19] slot 5 weap 0
+[16:28:19] slot 6 weap 0
+[16:28:19] slot 7 weap 0
+[16:28:19] slot 8 weap 0
+[16:28:19] slot 9 weap 0
+[16:28:19] slot 10 weap 0
+[16:28:19] slot 11 weap 0
+[16:28:19] slot 12 weap 0
+[16:28:19] slot 0 weap 0
+[16:28:19] slot 1 weap 4
+[16:28:19] slot 2 weap 23
+[16:28:19] slot 3 weap 0
+[16:28:19] slot 4 weap 32
+[16:28:19] slot 5 weap 0
+[16:28:19] slot 6 weap 0
+[16:28:19] slot 7 weap 0
+[16:28:19] slot 8 weap 0
+[16:28:19] slot 9 weap 0
+[16:28:19] slot 10 weap 0
+[16:28:19] slot 11 weap 0
+[16:28:19] slot 12 weap 0
+[16:28:20] slot 0 weap 0
+[16:28:20] slot 1 weap 4
+[16:28:20] slot 2 weap 23
+[16:28:20] slot 3 weap 0
+[16:28:20] slot 4 weap 32
+[16:28:20] slot 5 weap 0
+[16:28:20] slot 6 weap 0
+[16:28:20] slot 7 weap 0
+[16:28:20] slot 8 weap 0
+[16:28:20] slot 9 weap 0
+[16:28:20] slot 10 weap 0
+[16:28:20] slot 11 weap 0
+[16:28:20] slot 12 weap 0
+[16:28:20] slot 0 weap 0
+[16:28:20] slot 1 weap 4
+[16:28:20] slot 2 weap 23
+[16:28:20] slot 3 weap 0
+[16:28:20] slot 4 weap 32
+[16:28:20] slot 5 weap 0
+[16:28:20] slot 6 weap 0
+[16:28:20] slot 7 weap 0
+[16:28:20] slot 8 weap 0
+[16:28:20] slot 9 weap 0
+[16:28:20] slot 10 weap 0
+[16:28:20] slot 11 weap 0
+[16:28:20] slot 12 weap 0
+[16:28:20] slot 0 weap 0
+[16:28:20] slot 1 weap 4
+[16:28:20] slot 2 weap 23
+[16:28:20] slot 3 weap 0
+[16:28:20] slot 4 weap 32
+[16:28:20] slot 5 weap 0
+[16:28:20] slot 6 weap 0
+[16:28:20] slot 7 weap 0
+[16:28:20] slot 8 weap 0
+[16:28:20] slot 9 weap 0
+[16:28:20] slot 10 weap 0
+[16:28:20] slot 11 weap 0
+[16:28:20] slot 12 weap 0
+[16:28:20] slot 0 weap 0
+[16:28:20] slot 1 weap 4
+[16:28:20] slot 2 weap 23
+[16:28:20] slot 3 weap 0
+[16:28:20] slot 4 weap 32
+[16:28:20] slot 5 weap 0
+[16:28:20] slot 6 weap 0
+[16:28:20] slot 7 weap 0
+[16:28:20] slot 8 weap 0
+[16:28:20] slot 9 weap 0
+[16:28:20] slot 10 weap 0
+[16:28:20] slot 11 weap 0
+[16:28:20] slot 12 weap 0
+[16:28:20] slot 0 weap 0
+[16:28:20] slot 1 weap 4
+[16:28:20] slot 2 weap 23
+[16:28:20] slot 3 weap 0
+[16:28:20] slot 4 weap 32
+[16:28:20] slot 5 weap 0
+[16:28:20] slot 6 weap 0
+[16:28:20] slot 7 weap 0
+[16:28:20] slot 8 weap 0
+[16:28:20] slot 9 weap 0
+[16:28:20] slot 10 weap 0
+[16:28:20] slot 11 weap 0
+[16:28:20] slot 12 weap 0
+[16:28:20] slot 0 weap 0
+[16:28:20] slot 1 weap 4
+[16:28:20] slot 2 weap 23
+[16:28:20] slot 3 weap 0
+[16:28:20] slot 4 weap 32
+[16:28:20] slot 5 weap 0
+[16:28:20] slot 6 weap 0
+[16:28:20] slot 7 weap 0
+[16:28:20] slot 8 weap 0
+[16:28:20] slot 9 weap 0
+[16:28:20] slot 10 weap 0
+[16:28:20] slot 11 weap 0
+[16:28:20] slot 12 weap 0
+[16:28:21] slot 0 weap 0
+[16:28:21] slot 1 weap 4
+[16:28:21] slot 2 weap 23
+[16:28:21] slot 3 weap 0
+[16:28:21] slot 4 weap 32
+[16:28:21] slot 5 weap 0
+[16:28:21] slot 6 weap 0
+[16:28:21] slot 7 weap 0
+[16:28:21] slot 8 weap 0
+[16:28:21] slot 9 weap 0
+[16:28:21] slot 10 weap 0
+[16:28:21] slot 11 weap 0
+[16:28:21] slot 12 weap 0
+[16:28:21] slot 0 weap 0
+[16:28:21] slot 1 weap 4
+[16:28:21] slot 2 weap 23
+[16:28:21] slot 3 weap 0
+[16:28:21] slot 4 weap 32
+[16:28:21] slot 5 weap 0
+[16:28:21] slot 6 weap 0
+[16:28:21] slot 7 weap 0
+[16:28:21] slot 8 weap 0
+[16:28:21] slot 9 weap 0
+[16:28:21] slot 10 weap 0
+[16:28:21] slot 11 weap 0
+[16:28:21] slot 12 weap 0
+[16:28:21] slot 0 weap 0
+[16:28:21] slot 1 weap 4
+[16:28:21] slot 2 weap 23
+[16:28:21] slot 3 weap 0
+[16:28:21] slot 4 weap 32
+[16:28:21] slot 5 weap 0
+[16:28:21] slot 6 weap 0
+[16:28:21] slot 7 weap 0
+[16:28:21] slot 8 weap 0
+[16:28:21] slot 9 weap 0
+[16:28:21] slot 10 weap 0
+[16:28:21] slot 11 weap 0
+[16:28:21] slot 12 weap 0
+[16:28:21] slot 0 weap 0
+[16:28:21] slot 1 weap 4
+[16:28:21] slot 2 weap 23
+[16:28:21] slot 3 weap 0
+[16:28:21] slot 4 weap 32
+[16:28:21] slot 5 weap 0
+[16:28:21] slot 6 weap 0
+[16:28:21] slot 7 weap 0
+[16:28:21] slot 8 weap 0
+[16:28:21] slot 9 weap 0
+[16:28:21] slot 10 weap 0
+[16:28:21] slot 11 weap 0
+[16:28:21] slot 12 weap 0
+[16:28:21] slot 0 weap 0
+[16:28:21] slot 1 weap 4
+[16:28:21] slot 2 weap 23
+[16:28:21] slot 3 weap 0
+[16:28:21] slot 4 weap 32
+[16:28:21] slot 5 weap 0
+[16:28:21] slot 6 weap 0
+[16:28:21] slot 7 weap 0
+[16:28:21] slot 8 weap 0
+[16:28:21] slot 9 weap 0
+[16:28:21] slot 10 weap 0
+[16:28:21] slot 11 weap 0
+[16:28:21] slot 12 weap 0
+[16:28:21] slot 0 weap 0
+[16:28:21] slot 1 weap 4
+[16:28:21] slot 2 weap 23
+[16:28:21] slot 3 weap 0
+[16:28:21] slot 4 weap 32
+[16:28:21] slot 5 weap 0
+[16:28:21] slot 6 weap 0
+[16:28:21] slot 7 weap 0
+[16:28:21] slot 8 weap 0
+[16:28:21] slot 9 weap 0
+[16:28:21] slot 10 weap 0
+[16:28:21] slot 11 weap 0
+[16:28:21] slot 12 weap 0
+[16:28:21] slot 0 weap 0
+[16:28:21] slot 1 weap 4
+[16:28:21] slot 2 weap 23
+[16:28:21] slot 3 weap 0
+[16:28:21] slot 4 weap 32
+[16:28:21] slot 5 weap 0
+[16:28:21] slot 6 weap 0
+[16:28:21] slot 7 weap 0
+[16:28:21] slot 8 weap 0
+[16:28:21] slot 9 weap 0
+[16:28:21] slot 10 weap 0
+[16:28:21] slot 11 weap 0
+[16:28:21] slot 12 weap 0
+[16:28:21] slot 0 weap 0
+[16:28:21] slot 1 weap 4
+[16:28:21] slot 2 weap 23
+[16:28:21] slot 3 weap 0
+[16:28:21] slot 4 weap 32
+[16:28:21] slot 5 weap 0
+[16:28:21] slot 6 weap 0
+[16:28:21] slot 7 weap 0
+[16:28:21] slot 8 weap 0
+[16:28:21] slot 9 weap 0
+[16:28:21] slot 10 weap 0
+[16:28:21] slot 11 weap 0
+[16:28:21] slot 12 weap 0
+[16:28:22] slot 0 weap 0
+[16:28:22] slot 1 weap 4
+[16:28:22] slot 2 weap 23
+[16:28:22] slot 3 weap 0
+[16:28:22] slot 4 weap 32
+[16:28:22] slot 5 weap 0
+[16:28:22] slot 6 weap 0
+[16:28:22] slot 7 weap 0
+[16:28:22] slot 8 weap 0
+[16:28:22] slot 9 weap 0
+[16:28:22] slot 10 weap 0
+[16:28:22] slot 11 weap 0
+[16:28:22] slot 12 weap 0
+[16:28:22] slot 0 weap 0
+[16:28:22] slot 1 weap 4
+[16:28:22] slot 2 weap 23
+[16:28:22] slot 3 weap 0
+[16:28:22] slot 4 weap 32
+[16:28:22] slot 5 weap 0
+[16:28:22] slot 6 weap 0
+[16:28:22] slot 7 weap 0
+[16:28:22] slot 8 weap 0
+[16:28:22] slot 9 weap 0
+[16:28:22] slot 10 weap 0
+[16:28:22] slot 11 weap 0
+[16:28:22] slot 12 weap 0
+[16:28:22] slot 0 weap 0
+[16:28:22] slot 1 weap 4
+[16:28:22] slot 2 weap 23
+[16:28:22] slot 3 weap 0
+[16:28:22] slot 4 weap 32
+[16:28:22] slot 5 weap 0
+[16:28:22] slot 6 weap 0
+[16:28:22] slot 7 weap 0
+[16:28:22] slot 8 weap 0
+[16:28:22] slot 9 weap 0
+[16:28:22] slot 10 weap 0
+[16:28:22] slot 11 weap 0
+[16:28:22] slot 12 weap 0
+[16:28:22] slot 0 weap 0
+[16:28:22] slot 1 weap 4
+[16:28:22] slot 2 weap 23
+[16:28:22] slot 3 weap 0
+[16:28:22] slot 4 weap 32
+[16:28:22] slot 5 weap 0
+[16:28:22] slot 6 weap 0
+[16:28:22] slot 7 weap 0
+[16:28:22] slot 8 weap 0
+[16:28:22] slot 9 weap 0
+[16:28:22] slot 10 weap 0
+[16:28:22] slot 11 weap 0
+[16:28:22] slot 12 weap 0
+[16:28:22] slot 0 weap 0
+[16:28:22] slot 1 weap 4
+[16:28:22] slot 2 weap 23
+[16:28:22] slot 3 weap 0
+[16:28:22] slot 4 weap 32
+[16:28:22] slot 5 weap 0
+[16:28:22] slot 6 weap 0
+[16:28:22] slot 7 weap 0
+[16:28:22] slot 8 weap 0
+[16:28:22] slot 9 weap 0
+[16:28:22] slot 10 weap 0
+[16:28:22] slot 11 weap 0
+[16:28:22] slot 12 weap 0
+[16:28:22] slot 0 weap 0
+[16:28:22] slot 1 weap 4
+[16:28:22] slot 2 weap 23
+[16:28:22] slot 3 weap 0
+[16:28:22] slot 4 weap 32
+[16:28:22] slot 5 weap 0
+[16:28:22] slot 6 weap 0
+[16:28:22] slot 7 weap 0
+[16:28:22] slot 8 weap 0
+[16:28:22] slot 9 weap 0
+[16:28:22] slot 10 weap 0
+[16:28:22] slot 11 weap 0
+[16:28:22] slot 12 weap 0
+[16:28:23] slot 0 weap 0
+[16:28:23] slot 1 weap 4
+[16:28:23] slot 2 weap 23
+[16:28:23] slot 3 weap 0
+[16:28:23] slot 4 weap 32
+[16:28:23] slot 5 weap 0
+[16:28:23] slot 6 weap 0
+[16:28:23] slot 7 weap 0
+[16:28:23] slot 8 weap 0
+[16:28:23] slot 9 weap 0
+[16:28:23] slot 10 weap 0
+[16:28:23] slot 11 weap 0
+[16:28:23] slot 12 weap 0
+[16:28:23] slot 0 weap 0
+[16:28:23] slot 1 weap 4
+[16:28:23] slot 2 weap 23
+[16:28:23] slot 3 weap 0
+[16:28:23] slot 4 weap 32
+[16:28:23] slot 5 weap 0
+[16:28:23] slot 6 weap 0
+[16:28:23] slot 7 weap 0
+[16:28:23] slot 8 weap 0
+[16:28:23] slot 9 weap 0
+[16:28:23] slot 10 weap 0
+[16:28:23] slot 11 weap 0
+[16:28:23] slot 12 weap 0
+[16:28:23] slot 0 weap 0
+[16:28:23] slot 1 weap 4
+[16:28:23] slot 2 weap 23
+[16:28:23] slot 3 weap 0
+[16:28:23] slot 4 weap 32
+[16:28:23] slot 5 weap 0
+[16:28:23] slot 6 weap 0
+[16:28:23] slot 7 weap 0
+[16:28:23] slot 8 weap 0
+[16:28:23] slot 9 weap 0
+[16:28:23] slot 10 weap 0
+[16:28:23] slot 11 weap 0
+[16:28:23] slot 12 weap 0
+[16:28:23] slot 0 weap 0
+[16:28:23] slot 1 weap 4
+[16:28:23] slot 2 weap 23
+[16:28:23] slot 3 weap 0
+[16:28:23] slot 4 weap 32
+[16:28:23] slot 5 weap 0
+[16:28:23] slot 6 weap 0
+[16:28:23] slot 7 weap 0
+[16:28:23] slot 8 weap 0
+[16:28:23] slot 9 weap 0
+[16:28:23] slot 10 weap 0
+[16:28:23] slot 11 weap 0
+[16:28:23] slot 12 weap 0
+[16:28:23] slot 0 weap 0
+[16:28:23] slot 1 weap 4
+[16:28:23] slot 2 weap 23
+[16:28:23] slot 3 weap 0
+[16:28:23] slot 4 weap 32
+[16:28:23] slot 5 weap 0
+[16:28:23] slot 6 weap 0
+[16:28:23] slot 7 weap 0
+[16:28:23] slot 8 weap 0
+[16:28:23] slot 9 weap 0
+[16:28:23] slot 10 weap 0
+[16:28:23] slot 11 weap 0
+[16:28:23] slot 12 weap 0
+[16:28:23] slot 0 weap 0
+[16:28:23] slot 1 weap 4
+[16:28:23] slot 2 weap 23
+[16:28:23] slot 3 weap 0
+[16:28:23] slot 4 weap 32
+[16:28:23] slot 5 weap 0
+[16:28:23] slot 6 weap 0
+[16:28:23] slot 7 weap 0
+[16:28:23] slot 8 weap 0
+[16:28:23] slot 9 weap 0
+[16:28:23] slot 10 weap 0
+[16:28:23] slot 11 weap 0
+[16:28:23] slot 12 weap 0
+[16:28:23] slot 0 weap 0
+[16:28:23] slot 1 weap 4
+[16:28:23] slot 2 weap 23
+[16:28:23] slot 3 weap 0
+[16:28:23] slot 4 weap 32
+[16:28:23] slot 5 weap 0
+[16:28:23] slot 6 weap 0
+[16:28:23] slot 7 weap 0
+[16:28:23] slot 8 weap 0
+[16:28:23] slot 9 weap 0
+[16:28:23] slot 10 weap 0
+[16:28:23] slot 11 weap 0
+[16:28:23] slot 12 weap 0
+[16:28:24] slot 0 weap 0
+[16:28:24] slot 1 weap 4
+[16:28:24] slot 2 weap 23
+[16:28:24] slot 3 weap 0
+[16:28:24] slot 4 weap 32
+[16:28:24] slot 5 weap 0
+[16:28:24] slot 6 weap 0
+[16:28:24] slot 7 weap 0
+[16:28:24] slot 8 weap 0
+[16:28:24] slot 9 weap 0
+[16:28:24] slot 10 weap 0
+[16:28:24] slot 11 weap 0
+[16:28:24] slot 12 weap 0
+[16:28:24] slot 0 weap 0
+[16:28:24] slot 1 weap 4
+[16:28:24] slot 2 weap 23
+[16:28:24] slot 3 weap 0
+[16:28:24] slot 4 weap 32
+[16:28:24] slot 5 weap 0
+[16:28:24] slot 6 weap 0
+[16:28:24] slot 7 weap 0
+[16:28:24] slot 8 weap 0
+[16:28:24] slot 9 weap 0
+[16:28:24] slot 10 weap 0
+[16:28:24] slot 11 weap 0
+[16:28:24] slot 12 weap 0
+[16:28:24] slot 0 weap 0
+[16:28:24] slot 1 weap 4
+[16:28:24] slot 2 weap 23
+[16:28:24] slot 3 weap 0
+[16:28:24] slot 4 weap 32
+[16:28:24] slot 5 weap 0
+[16:28:24] slot 6 weap 0
+[16:28:24] slot 7 weap 0
+[16:28:24] slot 8 weap 0
+[16:28:24] slot 9 weap 0
+[16:28:24] slot 10 weap 0
+[16:28:24] slot 11 weap 0
+[16:28:24] slot 12 weap 0
+[16:28:24] slot 0 weap 0
+[16:28:24] slot 1 weap 4
+[16:28:24] slot 2 weap 23
+[16:28:24] slot 3 weap 0
+[16:28:24] slot 4 weap 32
+[16:28:24] slot 5 weap 0
+[16:28:24] slot 6 weap 0
+[16:28:24] slot 7 weap 0
+[16:28:24] slot 8 weap 0
+[16:28:24] slot 9 weap 0
+[16:28:24] slot 10 weap 0
+[16:28:24] slot 11 weap 0
+[16:28:24] slot 12 weap 0
+[16:28:24] slot 0 weap 0
+[16:28:24] slot 1 weap 4
+[16:28:24] slot 2 weap 23
+[16:28:24] slot 3 weap 0
+[16:28:24] slot 4 weap 32
+[16:28:24] slot 5 weap 0
+[16:28:24] slot 6 weap 0
+[16:28:24] slot 7 weap 0
+[16:28:24] slot 8 weap 0
+[16:28:24] slot 9 weap 0
+[16:28:24] slot 10 weap 0
+[16:28:24] slot 11 weap 0
+[16:28:24] slot 12 weap 0
+[16:28:24] slot 0 weap 0
+[16:28:24] slot 1 weap 4
+[16:28:24] slot 2 weap 23
+[16:28:24] slot 3 weap 0
+[16:28:24] slot 4 weap 32
+[16:28:24] slot 5 weap 0
+[16:28:24] slot 6 weap 0
+[16:28:24] slot 7 weap 0
+[16:28:24] slot 8 weap 0
+[16:28:24] slot 9 weap 0
+[16:28:24] slot 10 weap 0
+[16:28:24] slot 11 weap 0
+[16:28:24] slot 12 weap 0
+[16:28:24] slot 0 weap 0
+[16:28:24] slot 1 weap 4
+[16:28:24] slot 2 weap 23
+[16:28:24] slot 3 weap 0
+[16:28:24] slot 4 weap 32
+[16:28:24] slot 5 weap 0
+[16:28:24] slot 6 weap 0
+[16:28:24] slot 7 weap 0
+[16:28:24] slot 8 weap 0
+[16:28:24] slot 9 weap 0
+[16:28:24] slot 10 weap 0
+[16:28:24] slot 11 weap 0
+[16:28:24] slot 12 weap 0
+[16:28:24] slot 0 weap 0
+[16:28:24] slot 1 weap 4
+[16:28:24] slot 2 weap 23
+[16:28:24] slot 3 weap 0
+[16:28:24] slot 4 weap 32
+[16:28:24] slot 5 weap 0
+[16:28:24] slot 6 weap 0
+[16:28:24] slot 7 weap 0
+[16:28:24] slot 8 weap 0
+[16:28:24] slot 9 weap 0
+[16:28:24] slot 10 weap 0
+[16:28:24] slot 11 weap 0
+[16:28:24] slot 12 weap 0
+[16:28:25] slot 0 weap 0
+[16:28:25] slot 1 weap 4
+[16:28:25] slot 2 weap 23
+[16:28:25] slot 3 weap 0
+[16:28:25] slot 4 weap 32
+[16:28:25] slot 5 weap 0
+[16:28:25] slot 6 weap 0
+[16:28:25] slot 7 weap 0
+[16:28:25] slot 8 weap 0
+[16:28:25] slot 9 weap 0
+[16:28:25] slot 10 weap 0
+[16:28:25] slot 11 weap 0
+[16:28:25] slot 12 weap 0
+[16:28:25] slot 0 weap 0
+[16:28:25] slot 1 weap 4
+[16:28:25] slot 2 weap 23
+[16:28:25] slot 3 weap 0
+[16:28:25] slot 4 weap 32
+[16:28:25] slot 5 weap 0
+[16:28:25] slot 6 weap 0
+[16:28:25] slot 7 weap 0
+[16:28:25] slot 8 weap 0
+[16:28:25] slot 9 weap 0
+[16:28:25] slot 10 weap 0
+[16:28:25] slot 11 weap 0
+[16:28:25] slot 12 weap 0
+[16:28:25] slot 0 weap 0
+[16:28:25] slot 1 weap 4
+[16:28:25] slot 2 weap 23
+[16:28:25] slot 3 weap 0
+[16:28:25] slot 4 weap 32
+[16:28:25] slot 5 weap 0
+[16:28:25] slot 6 weap 0
+[16:28:25] slot 7 weap 0
+[16:28:25] slot 8 weap 0
+[16:28:25] slot 9 weap 0
+[16:28:25] slot 10 weap 0
+[16:28:25] slot 11 weap 0
+[16:28:25] slot 12 weap 0
+[16:28:25] slot 0 weap 0
+[16:28:25] slot 1 weap 4
+[16:28:25] slot 2 weap 23
+[16:28:25] slot 3 weap 0
+[16:28:25] slot 4 weap 32
+[16:28:25] slot 5 weap 0
+[16:28:25] slot 6 weap 0
+[16:28:25] slot 7 weap 0
+[16:28:25] slot 8 weap 0
+[16:28:25] slot 9 weap 0
+[16:28:25] slot 10 weap 0
+[16:28:25] slot 11 weap 0
+[16:28:25] slot 12 weap 0
+[16:28:25] slot 0 weap 0
+[16:28:25] slot 1 weap 4
+[16:28:25] slot 2 weap 23
+[16:28:25] slot 3 weap 0
+[16:28:25] slot 4 weap 32
+[16:28:25] slot 5 weap 0
+[16:28:25] slot 6 weap 0
+[16:28:25] slot 7 weap 0
+[16:28:25] slot 8 weap 0
+[16:28:25] slot 9 weap 0
+[16:28:25] slot 10 weap 0
+[16:28:25] slot 11 weap 0
+[16:28:25] slot 12 weap 0
+[16:28:25] slot 0 weap 0
+[16:28:25] slot 1 weap 4
+[16:28:25] slot 2 weap 23
+[16:28:25] slot 3 weap 0
+[16:28:25] slot 4 weap 32
+[16:28:25] slot 5 weap 0
+[16:28:25] slot 6 weap 0
+[16:28:25] slot 7 weap 0
+[16:28:25] slot 8 weap 0
+[16:28:25] slot 9 weap 0
+[16:28:25] slot 10 weap 0
+[16:28:25] slot 11 weap 0
+[16:28:25] slot 12 weap 0
+[16:28:25] slot 0 weap 0
+[16:28:25] slot 1 weap 4
+[16:28:25] slot 2 weap 23
+[16:28:25] slot 3 weap 0
+[16:28:25] slot 4 weap 32
+[16:28:25] slot 5 weap 0
+[16:28:25] slot 6 weap 0
+[16:28:25] slot 7 weap 0
+[16:28:25] slot 8 weap 0
+[16:28:25] slot 9 weap 0
+[16:28:25] slot 10 weap 0
+[16:28:25] slot 11 weap 0
+[16:28:25] slot 12 weap 0
+[16:28:26] slot 0 weap 0
+[16:28:26] slot 1 weap 4
+[16:28:26] slot 2 weap 23
+[16:28:26] slot 3 weap 0
+[16:28:26] slot 4 weap 32
+[16:28:26] slot 5 weap 0
+[16:28:26] slot 6 weap 0
+[16:28:26] slot 7 weap 0
+[16:28:26] slot 8 weap 0
+[16:28:26] slot 9 weap 0
+[16:28:26] slot 10 weap 0
+[16:28:26] slot 11 weap 0
+[16:28:26] slot 12 weap 0
+[16:28:26] slot 0 weap 0
+[16:28:26] slot 1 weap 4
+[16:28:26] slot 2 weap 23
+[16:28:26] slot 3 weap 0
+[16:28:26] slot 4 weap 32
+[16:28:26] slot 5 weap 0
+[16:28:26] slot 6 weap 0
+[16:28:26] slot 7 weap 0
+[16:28:26] slot 8 weap 0
+[16:28:26] slot 9 weap 0
+[16:28:26] slot 10 weap 0
+[16:28:26] slot 11 weap 0
+[16:28:26] slot 12 weap 0
+[16:28:26] slot 0 weap 0
+[16:28:26] slot 1 weap 4
+[16:28:26] slot 2 weap 23
+[16:28:26] slot 3 weap 0
+[16:28:26] slot 4 weap 32
+[16:28:26] slot 5 weap 0
+[16:28:26] slot 6 weap 0
+[16:28:26] slot 7 weap 0
+[16:28:26] slot 8 weap 0
+[16:28:26] slot 9 weap 0
+[16:28:26] slot 10 weap 0
+[16:28:26] slot 11 weap 0
+[16:28:26] slot 12 weap 0
+[16:28:26] slot 0 weap 0
+[16:28:26] slot 1 weap 4
+[16:28:26] slot 2 weap 23
+[16:28:26] slot 3 weap 0
+[16:28:26] slot 4 weap 32
+[16:28:26] slot 5 weap 0
+[16:28:26] slot 6 weap 0
+[16:28:26] slot 7 weap 0
+[16:28:26] slot 8 weap 0
+[16:28:26] slot 9 weap 0
+[16:28:26] slot 10 weap 0
+[16:28:26] slot 11 weap 0
+[16:28:26] slot 12 weap 0
+[16:28:26] slot 0 weap 0
+[16:28:26] slot 1 weap 4
+[16:28:26] slot 2 weap 23
+[16:28:26] slot 3 weap 0
+[16:28:26] slot 4 weap 32
+[16:28:26] slot 5 weap 0
+[16:28:26] slot 6 weap 0
+[16:28:26] slot 7 weap 0
+[16:28:26] slot 8 weap 0
+[16:28:26] slot 9 weap 0
+[16:28:26] slot 10 weap 0
+[16:28:26] slot 11 weap 0
+[16:28:26] slot 12 weap 0
+[16:28:26] slot 0 weap 0
+[16:28:26] slot 1 weap 4
+[16:28:26] slot 2 weap 23
+[16:28:26] slot 3 weap 0
+[16:28:26] slot 4 weap 32
+[16:28:26] slot 5 weap 0
+[16:28:26] slot 6 weap 0
+[16:28:26] slot 7 weap 0
+[16:28:26] slot 8 weap 0
+[16:28:26] slot 9 weap 0
+[16:28:26] slot 10 weap 0
+[16:28:26] slot 11 weap 0
+[16:28:26] slot 12 weap 0
+[16:28:26] slot 0 weap 0
+[16:28:26] slot 1 weap 4
+[16:28:26] slot 2 weap 23
+[16:28:26] slot 3 weap 0
+[16:28:26] slot 4 weap 32
+[16:28:26] slot 5 weap 0
+[16:28:26] slot 6 weap 0
+[16:28:26] slot 7 weap 0
+[16:28:26] slot 8 weap 0
+[16:28:26] slot 9 weap 0
+[16:28:26] slot 10 weap 0
+[16:28:26] slot 11 weap 0
+[16:28:26] slot 12 weap 0
+[16:28:27] slot 0 weap 0
+[16:28:27] slot 1 weap 4
+[16:28:27] slot 2 weap 23
+[16:28:27] slot 3 weap 0
+[16:28:27] slot 4 weap 32
+[16:28:27] slot 5 weap 0
+[16:28:27] slot 6 weap 0
+[16:28:27] slot 7 weap 0
+[16:28:27] slot 8 weap 0
+[16:28:27] slot 9 weap 0
+[16:28:27] slot 10 weap 0
+[16:28:27] slot 11 weap 0
+[16:28:27] slot 12 weap 0
+[16:28:27] slot 0 weap 0
+[16:28:27] slot 1 weap 4
+[16:28:27] slot 2 weap 23
+[16:28:27] slot 3 weap 0
+[16:28:27] slot 4 weap 32
+[16:28:27] slot 5 weap 0
+[16:28:27] slot 6 weap 0
+[16:28:27] slot 7 weap 0
+[16:28:27] slot 8 weap 0
+[16:28:27] slot 9 weap 0
+[16:28:27] slot 10 weap 0
+[16:28:27] slot 11 weap 0
+[16:28:27] slot 12 weap 0
+[16:28:27] slot 0 weap 0
+[16:28:27] slot 1 weap 4
+[16:28:27] slot 2 weap 23
+[16:28:27] slot 3 weap 0
+[16:28:27] slot 4 weap 32
+[16:28:27] slot 5 weap 0
+[16:28:27] slot 6 weap 0
+[16:28:27] slot 7 weap 0
+[16:28:27] slot 8 weap 0
+[16:28:27] slot 9 weap 0
+[16:28:27] slot 10 weap 0
+[16:28:27] slot 11 weap 0
+[16:28:27] slot 12 weap 0
+[16:28:27] slot 0 weap 0
+[16:28:27] slot 1 weap 4
+[16:28:27] slot 2 weap 23
+[16:28:27] slot 3 weap 0
+[16:28:27] slot 4 weap 32
+[16:28:27] slot 5 weap 0
+[16:28:27] slot 6 weap 0
+[16:28:27] slot 7 weap 0
+[16:28:27] slot 8 weap 0
+[16:28:27] slot 9 weap 0
+[16:28:27] slot 10 weap 0
+[16:28:27] slot 11 weap 0
+[16:28:27] slot 12 weap 0
+[16:28:27] slot 0 weap 0
+[16:28:27] slot 1 weap 4
+[16:28:27] slot 2 weap 23
+[16:28:27] slot 3 weap 0
+[16:28:27] slot 4 weap 32
+[16:28:27] slot 5 weap 0
+[16:28:27] slot 6 weap 0
+[16:28:27] slot 7 weap 0
+[16:28:27] slot 8 weap 0
+[16:28:27] slot 9 weap 0
+[16:28:27] slot 10 weap 0
+[16:28:27] slot 11 weap 0
+[16:28:27] slot 12 weap 0
+[16:28:27] slot 0 weap 0
+[16:28:27] slot 1 weap 4
+[16:28:27] slot 2 weap 23
+[16:28:27] slot 3 weap 0
+[16:28:27] slot 4 weap 32
+[16:28:27] slot 5 weap 0
+[16:28:27] slot 6 weap 0
+[16:28:27] slot 7 weap 0
+[16:28:27] slot 8 weap 0
+[16:28:27] slot 9 weap 0
+[16:28:27] slot 10 weap 0
+[16:28:27] slot 11 weap 0
+[16:28:27] slot 12 weap 0
+[16:28:27] slot 0 weap 0
+[16:28:27] slot 1 weap 4
+[16:28:27] slot 2 weap 23
+[16:28:27] slot 3 weap 0
+[16:28:27] slot 4 weap 32
+[16:28:27] slot 5 weap 0
+[16:28:27] slot 6 weap 0
+[16:28:27] slot 7 weap 0
+[16:28:27] slot 8 weap 0
+[16:28:27] slot 9 weap 0
+[16:28:27] slot 10 weap 0
+[16:28:27] slot 11 weap 0
+[16:28:27] slot 12 weap 0
+[16:28:28] slot 0 weap 0
+[16:28:28] slot 1 weap 4
+[16:28:28] slot 2 weap 23
+[16:28:28] slot 3 weap 0
+[16:28:28] slot 4 weap 32
+[16:28:28] slot 5 weap 0
+[16:28:28] slot 6 weap 0
+[16:28:28] slot 7 weap 0
+[16:28:28] slot 8 weap 0
+[16:28:28] slot 9 weap 0
+[16:28:28] slot 10 weap 0
+[16:28:28] slot 11 weap 0
+[16:28:28] slot 12 weap 0
+[16:28:28] slot 0 weap 0
+[16:28:28] slot 1 weap 4
+[16:28:28] slot 2 weap 23
+[16:28:28] slot 3 weap 0
+[16:28:28] slot 4 weap 32
+[16:28:28] slot 5 weap 0
+[16:28:28] slot 6 weap 0
+[16:28:28] slot 7 weap 0
+[16:28:28] slot 8 weap 0
+[16:28:28] slot 9 weap 0
+[16:28:28] slot 10 weap 0
+[16:28:28] slot 11 weap 0
+[16:28:28] slot 12 weap 0
+[16:28:28] slot 0 weap 0
+[16:28:28] slot 1 weap 4
+[16:28:28] slot 2 weap 23
+[16:28:28] slot 3 weap 0
+[16:28:28] slot 4 weap 32
+[16:28:28] slot 5 weap 0
+[16:28:28] slot 6 weap 0
+[16:28:28] slot 7 weap 0
+[16:28:28] slot 8 weap 0
+[16:28:28] slot 9 weap 0
+[16:28:28] slot 10 weap 0
+[16:28:28] slot 11 weap 0
+[16:28:28] slot 12 weap 0
+[16:28:28] slot 0 weap 0
+[16:28:28] slot 1 weap 4
+[16:28:28] slot 2 weap 23
+[16:28:28] slot 3 weap 0
+[16:28:28] slot 4 weap 32
+[16:28:28] slot 5 weap 0
+[16:28:28] slot 6 weap 0
+[16:28:28] slot 7 weap 0
+[16:28:28] slot 8 weap 0
+[16:28:28] slot 9 weap 0
+[16:28:28] slot 10 weap 0
+[16:28:28] slot 11 weap 0
+[16:28:28] slot 12 weap 0
+[16:28:28] slot 0 weap 0
+[16:28:28] slot 1 weap 4
+[16:28:28] slot 2 weap 23
+[16:28:28] slot 3 weap 0
+[16:28:28] slot 4 weap 32
+[16:28:28] slot 5 weap 0
+[16:28:28] slot 6 weap 0
+[16:28:28] slot 7 weap 0
+[16:28:28] slot 8 weap 0
+[16:28:28] slot 9 weap 0
+[16:28:28] slot 10 weap 0
+[16:28:28] slot 11 weap 0
+[16:28:28] slot 12 weap 0
+[16:28:28] slot 0 weap 0
+[16:28:28] slot 1 weap 4
+[16:28:28] slot 2 weap 23
+[16:28:28] slot 3 weap 0
+[16:28:28] slot 4 weap 32
+[16:28:28] slot 5 weap 0
+[16:28:28] slot 6 weap 0
+[16:28:28] slot 7 weap 0
+[16:28:28] slot 8 weap 0
+[16:28:28] slot 9 weap 0
+[16:28:28] slot 10 weap 0
+[16:28:28] slot 11 weap 0
+[16:28:28] slot 12 weap 0
+[16:28:28] slot 0 weap 0
+[16:28:28] slot 1 weap 4
+[16:28:28] slot 2 weap 23
+[16:28:28] slot 3 weap 0
+[16:28:28] slot 4 weap 32
+[16:28:28] slot 5 weap 0
+[16:28:28] slot 6 weap 0
+[16:28:28] slot 7 weap 0
+[16:28:28] slot 8 weap 0
+[16:28:28] slot 9 weap 0
+[16:28:28] slot 10 weap 0
+[16:28:28] slot 11 weap 0
+[16:28:28] slot 12 weap 0
+[16:28:29] slot 0 weap 0
+[16:28:29] slot 1 weap 4
+[16:28:29] slot 2 weap 23
+[16:28:29] slot 3 weap 0
+[16:28:29] slot 4 weap 32
+[16:28:29] slot 5 weap 0
+[16:28:29] slot 6 weap 0
+[16:28:29] slot 7 weap 0
+[16:28:29] slot 8 weap 0
+[16:28:29] slot 9 weap 0
+[16:28:29] slot 10 weap 0
+[16:28:29] slot 11 weap 0
+[16:28:29] slot 12 weap 0
+[16:28:29] slot 0 weap 0
+[16:28:29] slot 1 weap 4
+[16:28:29] slot 2 weap 23
+[16:28:29] slot 3 weap 0
+[16:28:29] slot 4 weap 32
+[16:28:29] slot 5 weap 0
+[16:28:29] slot 6 weap 0
+[16:28:29] slot 7 weap 0
+[16:28:29] slot 8 weap 0
+[16:28:29] slot 9 weap 0
+[16:28:29] slot 10 weap 0
+[16:28:29] slot 11 weap 0
+[16:28:29] slot 12 weap 0
+[16:28:29] slot 0 weap 0
+[16:28:29] slot 1 weap 4
+[16:28:29] slot 2 weap 23
+[16:28:29] slot 3 weap 0
+[16:28:29] slot 4 weap 32
+[16:28:29] slot 5 weap 0
+[16:28:29] slot 6 weap 0
+[16:28:29] slot 7 weap 0
+[16:28:29] slot 8 weap 0
+[16:28:29] slot 9 weap 0
+[16:28:29] slot 10 weap 0
+[16:28:29] slot 11 weap 0
+[16:28:29] slot 12 weap 0
+[16:28:29] slot 0 weap 0
+[16:28:29] slot 1 weap 4
+[16:28:29] slot 2 weap 23
+[16:28:29] slot 3 weap 0
+[16:28:29] slot 4 weap 32
+[16:28:29] slot 5 weap 0
+[16:28:29] slot 6 weap 0
+[16:28:29] slot 7 weap 0
+[16:28:29] slot 8 weap 0
+[16:28:29] slot 9 weap 0
+[16:28:29] slot 10 weap 0
+[16:28:29] slot 11 weap 0
+[16:28:29] slot 12 weap 0
+[16:28:29] slot 0 weap 0
+[16:28:29] slot 1 weap 4
+[16:28:29] slot 2 weap 23
+[16:28:29] slot 3 weap 0
+[16:28:29] slot 4 weap 32
+[16:28:29] slot 5 weap 0
+[16:28:29] slot 6 weap 0
+[16:28:29] slot 7 weap 0
+[16:28:29] slot 8 weap 0
+[16:28:29] slot 9 weap 0
+[16:28:29] slot 10 weap 0
+[16:28:29] slot 11 weap 0
+[16:28:29] slot 12 weap 0
+[16:28:29] slot 0 weap 0
+[16:28:29] slot 1 weap 4
+[16:28:29] slot 2 weap 23
+[16:28:29] slot 3 weap 0
+[16:28:29] slot 4 weap 32
+[16:28:29] slot 5 weap 0
+[16:28:29] slot 6 weap 0
+[16:28:29] slot 7 weap 0
+[16:28:29] slot 8 weap 0
+[16:28:29] slot 9 weap 0
+[16:28:29] slot 10 weap 0
+[16:28:29] slot 11 weap 0
+[16:28:29] slot 12 weap 0
+[16:28:29] slot 0 weap 0
+[16:28:29] slot 1 weap 4
+[16:28:29] slot 2 weap 23
+[16:28:29] slot 3 weap 0
+[16:28:29] slot 4 weap 32
+[16:28:29] slot 5 weap 0
+[16:28:29] slot 6 weap 0
+[16:28:29] slot 7 weap 0
+[16:28:29] slot 8 weap 0
+[16:28:29] slot 9 weap 0
+[16:28:29] slot 10 weap 0
+[16:28:29] slot 11 weap 0
+[16:28:29] slot 12 weap 0
+[16:28:30] slot 0 weap 0
+[16:28:30] slot 1 weap 4
+[16:28:30] slot 2 weap 23
+[16:28:30] slot 3 weap 0
+[16:28:30] slot 4 weap 32
+[16:28:30] slot 5 weap 0
+[16:28:30] slot 6 weap 0
+[16:28:30] slot 7 weap 0
+[16:28:30] slot 8 weap 0
+[16:28:30] slot 9 weap 0
+[16:28:30] slot 10 weap 0
+[16:28:30] slot 11 weap 0
+[16:28:30] slot 12 weap 0
+[16:28:30] slot 0 weap 0
+[16:28:30] slot 1 weap 4
+[16:28:30] slot 2 weap 23
+[16:28:30] slot 3 weap 0
+[16:28:30] slot 4 weap 32
+[16:28:30] slot 5 weap 0
+[16:28:30] slot 6 weap 0
+[16:28:30] slot 7 weap 0
+[16:28:30] slot 8 weap 0
+[16:28:30] slot 9 weap 0
+[16:28:30] slot 10 weap 0
+[16:28:30] slot 11 weap 0
+[16:28:30] slot 12 weap 0
+[16:28:30] slot 0 weap 0
+[16:28:30] slot 1 weap 4
+[16:28:30] slot 2 weap 23
+[16:28:30] slot 3 weap 0
+[16:28:30] slot 4 weap 32
+[16:28:30] slot 5 weap 0
+[16:28:30] slot 6 weap 0
+[16:28:30] slot 7 weap 0
+[16:28:30] slot 8 weap 0
+[16:28:30] slot 9 weap 0
+[16:28:30] slot 10 weap 0
+[16:28:30] slot 11 weap 0
+[16:28:30] slot 12 weap 0
+[16:28:30] slot 0 weap 0
+[16:28:30] slot 1 weap 4
+[16:28:30] slot 2 weap 23
+[16:28:30] slot 3 weap 0
+[16:28:30] slot 4 weap 32
+[16:28:30] slot 5 weap 0
+[16:28:30] slot 6 weap 0
+[16:28:30] slot 7 weap 0
+[16:28:30] slot 8 weap 0
+[16:28:30] slot 9 weap 0
+[16:28:30] slot 10 weap 0
+[16:28:30] slot 11 weap 0
+[16:28:30] slot 12 weap 0
+[16:28:30] slot 0 weap 0
+[16:28:30] slot 1 weap 4
+[16:28:30] slot 2 weap 23
+[16:28:30] slot 3 weap 0
+[16:28:30] slot 4 weap 32
+[16:28:30] slot 5 weap 0
+[16:28:30] slot 6 weap 0
+[16:28:30] slot 7 weap 0
+[16:28:30] slot 8 weap 0
+[16:28:30] slot 9 weap 0
+[16:28:30] slot 10 weap 0
+[16:28:30] slot 11 weap 0
+[16:28:30] slot 12 weap 0
+[16:28:30] slot 0 weap 0
+[16:28:30] slot 1 weap 4
+[16:28:30] slot 2 weap 23
+[16:28:30] slot 3 weap 0
+[16:28:30] slot 4 weap 32
+[16:28:30] slot 5 weap 0
+[16:28:30] slot 6 weap 0
+[16:28:30] slot 7 weap 0
+[16:28:30] slot 8 weap 0
+[16:28:30] slot 9 weap 0
+[16:28:30] slot 10 weap 0
+[16:28:30] slot 11 weap 0
+[16:28:30] slot 12 weap 0
+[16:28:30] slot 0 weap 0
+[16:28:30] slot 1 weap 4
+[16:28:30] slot 2 weap 23
+[16:28:30] slot 3 weap 0
+[16:28:30] slot 4 weap 32
+[16:28:30] slot 5 weap 0
+[16:28:30] slot 6 weap 0
+[16:28:30] slot 7 weap 0
+[16:28:30] slot 8 weap 0
+[16:28:30] slot 9 weap 0
+[16:28:30] slot 10 weap 0
+[16:28:30] slot 11 weap 0
+[16:28:30] slot 12 weap 0
+[16:28:30] slot 0 weap 0
+[16:28:30] slot 1 weap 4
+[16:28:30] slot 2 weap 23
+[16:28:30] slot 3 weap 0
+[16:28:30] slot 4 weap 32
+[16:28:30] slot 5 weap 0
+[16:28:30] slot 6 weap 0
+[16:28:30] slot 7 weap 0
+[16:28:30] slot 8 weap 0
+[16:28:30] slot 9 weap 0
+[16:28:30] slot 10 weap 0
+[16:28:30] slot 11 weap 0
+[16:28:30] slot 12 weap 0
+[16:28:31] slot 0 weap 0
+[16:28:31] slot 1 weap 4
+[16:28:31] slot 2 weap 23
+[16:28:31] slot 3 weap 0
+[16:28:31] slot 4 weap 32
+[16:28:31] slot 5 weap 0
+[16:28:31] slot 6 weap 0
+[16:28:31] slot 7 weap 0
+[16:28:31] slot 8 weap 0
+[16:28:31] slot 9 weap 0
+[16:28:31] slot 10 weap 0
+[16:28:31] slot 11 weap 0
+[16:28:31] slot 12 weap 0
+[16:28:31] slot 0 weap 0
+[16:28:31] slot 1 weap 4
+[16:28:31] slot 2 weap 23
+[16:28:31] slot 3 weap 0
+[16:28:31] slot 4 weap 32
+[16:28:31] slot 5 weap 0
+[16:28:31] slot 6 weap 0
+[16:28:31] slot 7 weap 0
+[16:28:31] slot 8 weap 0
+[16:28:31] slot 9 weap 0
+[16:28:31] slot 10 weap 0
+[16:28:31] slot 11 weap 0
+[16:28:31] slot 12 weap 0
+[16:28:31] slot 0 weap 0
+[16:28:31] slot 1 weap 4
+[16:28:31] slot 2 weap 23
+[16:28:31] slot 3 weap 0
+[16:28:31] slot 4 weap 32
+[16:28:31] slot 5 weap 0
+[16:28:31] slot 6 weap 0
+[16:28:31] slot 7 weap 0
+[16:28:31] slot 8 weap 0
+[16:28:31] slot 9 weap 0
+[16:28:31] slot 10 weap 0
+[16:28:31] slot 11 weap 0
+[16:28:31] slot 12 weap 0
+[16:28:31] slot 0 weap 0
+[16:28:31] slot 1 weap 4
+[16:28:31] slot 2 weap 23
+[16:28:31] slot 3 weap 0
+[16:28:31] slot 4 weap 32
+[16:28:31] slot 5 weap 0
+[16:28:31] slot 6 weap 0
+[16:28:31] slot 7 weap 0
+[16:28:31] slot 8 weap 0
+[16:28:31] slot 9 weap 0
+[16:28:31] slot 10 weap 0
+[16:28:31] slot 11 weap 0
+[16:28:31] slot 12 weap 0
+[16:28:31] slot 0 weap 0
+[16:28:31] slot 1 weap 4
+[16:28:31] slot 2 weap 23
+[16:28:31] slot 3 weap 0
+[16:28:31] slot 4 weap 32
+[16:28:31] slot 5 weap 0
+[16:28:31] slot 6 weap 0
+[16:28:31] slot 7 weap 0
+[16:28:31] slot 8 weap 0
+[16:28:31] slot 9 weap 0
+[16:28:31] slot 10 weap 0
+[16:28:31] slot 11 weap 0
+[16:28:31] slot 12 weap 0
+[16:28:31] slot 0 weap 0
+[16:28:31] slot 1 weap 4
+[16:28:31] slot 2 weap 23
+[16:28:31] slot 3 weap 0
+[16:28:31] slot 4 weap 32
+[16:28:31] slot 5 weap 0
+[16:28:31] slot 6 weap 0
+[16:28:31] slot 7 weap 0
+[16:28:31] slot 8 weap 0
+[16:28:31] slot 9 weap 0
+[16:28:31] slot 10 weap 0
+[16:28:31] slot 11 weap 0
+[16:28:31] slot 12 weap 0
+[16:28:31] slot 0 weap 0
+[16:28:31] slot 1 weap 4
+[16:28:31] slot 2 weap 23
+[16:28:31] slot 3 weap 0
+[16:28:31] slot 4 weap 32
+[16:28:31] slot 5 weap 0
+[16:28:31] slot 6 weap 0
+[16:28:31] slot 7 weap 0
+[16:28:31] slot 8 weap 0
+[16:28:31] slot 9 weap 0
+[16:28:31] slot 10 weap 0
+[16:28:31] slot 11 weap 0
+[16:28:31] slot 12 weap 0
+[16:28:32] slot 0 weap 0
+[16:28:32] slot 1 weap 4
+[16:28:32] slot 2 weap 23
+[16:28:32] slot 3 weap 0
+[16:28:32] slot 4 weap 32
+[16:28:32] slot 5 weap 0
+[16:28:32] slot 6 weap 0
+[16:28:32] slot 7 weap 0
+[16:28:32] slot 8 weap 0
+[16:28:32] slot 9 weap 0
+[16:28:32] slot 10 weap 0
+[16:28:32] slot 11 weap 0
+[16:28:32] slot 12 weap 0
+[16:28:32] slot 0 weap 0
+[16:28:32] slot 1 weap 4
+[16:28:32] slot 2 weap 23
+[16:28:32] slot 3 weap 0
+[16:28:32] slot 4 weap 32
+[16:28:32] slot 5 weap 0
+[16:28:32] slot 6 weap 0
+[16:28:32] slot 7 weap 0
+[16:28:32] slot 8 weap 0
+[16:28:32] slot 9 weap 0
+[16:28:32] slot 10 weap 0
+[16:28:32] slot 11 weap 0
+[16:28:32] slot 12 weap 0
+[16:28:32] slot 0 weap 0
+[16:28:32] slot 1 weap 4
+[16:28:32] slot 2 weap 23
+[16:28:32] slot 3 weap 0
+[16:28:32] slot 4 weap 32
+[16:28:32] slot 5 weap 0
+[16:28:32] slot 6 weap 0
+[16:28:32] slot 7 weap 0
+[16:28:32] slot 8 weap 0
+[16:28:32] slot 9 weap 0
+[16:28:32] slot 10 weap 0
+[16:28:32] slot 11 weap 0
+[16:28:32] slot 12 weap 0
+[16:28:32] slot 0 weap 0
+[16:28:32] slot 1 weap 4
+[16:28:32] slot 2 weap 23
+[16:28:32] slot 3 weap 0
+[16:28:32] slot 4 weap 32
+[16:28:32] slot 5 weap 0
+[16:28:32] slot 6 weap 0
+[16:28:32] slot 7 weap 0
+[16:28:32] slot 8 weap 0
+[16:28:32] slot 9 weap 0
+[16:28:32] slot 10 weap 0
+[16:28:32] slot 11 weap 0
+[16:28:32] slot 12 weap 0
+[16:28:32] slot 0 weap 0
+[16:28:32] slot 1 weap 4
+[16:28:32] slot 2 weap 23
+[16:28:32] slot 3 weap 0
+[16:28:32] slot 4 weap 32
+[16:28:32] slot 5 weap 0
+[16:28:32] slot 6 weap 0
+[16:28:32] slot 7 weap 0
+[16:28:32] slot 8 weap 0
+[16:28:32] slot 9 weap 0
+[16:28:32] slot 10 weap 0
+[16:28:32] slot 11 weap 0
+[16:28:32] slot 12 weap 0
+[16:28:32] slot 0 weap 0
+[16:28:32] slot 1 weap 4
+[16:28:32] slot 2 weap 23
+[16:28:32] slot 3 weap 0
+[16:28:32] slot 4 weap 32
+[16:28:32] slot 5 weap 0
+[16:28:32] slot 6 weap 0
+[16:28:32] slot 7 weap 0
+[16:28:32] slot 8 weap 0
+[16:28:32] slot 9 weap 0
+[16:28:32] slot 10 weap 0
+[16:28:32] slot 11 weap 0
+[16:28:32] slot 12 weap 0
+[16:28:32] slot 0 weap 0
+[16:28:32] slot 1 weap 4
+[16:28:32] slot 2 weap 23
+[16:28:32] slot 3 weap 0
+[16:28:32] slot 4 weap 32
+[16:28:32] slot 5 weap 0
+[16:28:32] slot 6 weap 0
+[16:28:32] slot 7 weap 0
+[16:28:32] slot 8 weap 0
+[16:28:32] slot 9 weap 0
+[16:28:32] slot 10 weap 0
+[16:28:32] slot 11 weap 0
+[16:28:32] slot 12 weap 0
+[16:28:33] slot 0 weap 0
+[16:28:33] slot 1 weap 4
+[16:28:33] slot 2 weap 23
+[16:28:33] slot 3 weap 0
+[16:28:33] slot 4 weap 32
+[16:28:33] slot 5 weap 0
+[16:28:33] slot 6 weap 0
+[16:28:33] slot 7 weap 0
+[16:28:33] slot 8 weap 0
+[16:28:33] slot 9 weap 0
+[16:28:33] slot 10 weap 0
+[16:28:33] slot 11 weap 0
+[16:28:33] slot 12 weap 0
+[16:28:33] slot 0 weap 0
+[16:28:33] slot 1 weap 4
+[16:28:33] slot 2 weap 23
+[16:28:33] slot 3 weap 0
+[16:28:33] slot 4 weap 32
+[16:28:33] slot 5 weap 0
+[16:28:33] slot 6 weap 0
+[16:28:33] slot 7 weap 0
+[16:28:33] slot 8 weap 0
+[16:28:33] slot 9 weap 0
+[16:28:33] slot 10 weap 0
+[16:28:33] slot 11 weap 0
+[16:28:33] slot 12 weap 0
+[16:28:33] slot 0 weap 0
+[16:28:33] slot 1 weap 4
+[16:28:33] slot 2 weap 23
+[16:28:33] slot 3 weap 0
+[16:28:33] slot 4 weap 32
+[16:28:33] slot 5 weap 0
+[16:28:33] slot 6 weap 0
+[16:28:33] slot 7 weap 0
+[16:28:33] slot 8 weap 0
+[16:28:33] slot 9 weap 0
+[16:28:33] slot 10 weap 0
+[16:28:33] slot 11 weap 0
+[16:28:33] slot 12 weap 0
+[16:28:33] slot 0 weap 0
+[16:28:33] slot 1 weap 4
+[16:28:33] slot 2 weap 23
+[16:28:33] slot 3 weap 0
+[16:28:33] slot 4 weap 32
+[16:28:33] slot 5 weap 0
+[16:28:33] slot 6 weap 0
+[16:28:33] slot 7 weap 0
+[16:28:33] slot 8 weap 0
+[16:28:33] slot 9 weap 0
+[16:28:33] slot 10 weap 0
+[16:28:33] slot 11 weap 0
+[16:28:33] slot 12 weap 0
+[16:28:33] slot 0 weap 0
+[16:28:33] slot 1 weap 4
+[16:28:33] slot 2 weap 23
+[16:28:33] slot 3 weap 0
+[16:28:33] slot 4 weap 32
+[16:28:33] slot 5 weap 0
+[16:28:33] slot 6 weap 0
+[16:28:33] slot 7 weap 0
+[16:28:33] slot 8 weap 0
+[16:28:33] slot 9 weap 0
+[16:28:33] slot 10 weap 0
+[16:28:33] slot 11 weap 0
+[16:28:33] slot 12 weap 0
+[16:28:33] slot 0 weap 0
+[16:28:33] slot 1 weap 4
+[16:28:33] slot 2 weap 23
+[16:28:33] slot 3 weap 0
+[16:28:33] slot 4 weap 32
+[16:28:33] slot 5 weap 0
+[16:28:33] slot 6 weap 0
+[16:28:33] slot 7 weap 0
+[16:28:33] slot 8 weap 0
+[16:28:33] slot 9 weap 0
+[16:28:33] slot 10 weap 0
+[16:28:33] slot 11 weap 0
+[16:28:33] slot 12 weap 0
+[16:28:33] slot 0 weap 0
+[16:28:33] slot 1 weap 4
+[16:28:33] slot 2 weap 23
+[16:28:33] slot 3 weap 0
+[16:28:33] slot 4 weap 32
+[16:28:33] slot 5 weap 0
+[16:28:33] slot 6 weap 0
+[16:28:33] slot 7 weap 0
+[16:28:33] slot 8 weap 0
+[16:28:33] slot 9 weap 0
+[16:28:33] slot 10 weap 0
+[16:28:33] slot 11 weap 0
+[16:28:33] slot 12 weap 0
+[16:28:34] slot 0 weap 0
+[16:28:34] slot 1 weap 4
+[16:28:34] slot 2 weap 23
+[16:28:34] slot 3 weap 0
+[16:28:34] slot 4 weap 32
+[16:28:34] slot 5 weap 0
+[16:28:34] slot 6 weap 0
+[16:28:34] slot 7 weap 0
+[16:28:34] slot 8 weap 0
+[16:28:34] slot 9 weap 0
+[16:28:34] slot 10 weap 0
+[16:28:34] slot 11 weap 0
+[16:28:34] slot 12 weap 0
+[16:28:34] slot 0 weap 0
+[16:28:34] slot 1 weap 4
+[16:28:34] slot 2 weap 23
+[16:28:34] slot 3 weap 0
+[16:28:34] slot 4 weap 32
+[16:28:34] slot 5 weap 0
+[16:28:34] slot 6 weap 0
+[16:28:34] slot 7 weap 0
+[16:28:34] slot 8 weap 0
+[16:28:34] slot 9 weap 0
+[16:28:34] slot 10 weap 0
+[16:28:34] slot 11 weap 0
+[16:28:34] slot 12 weap 0
+[16:28:34] slot 0 weap 0
+[16:28:34] slot 1 weap 4
+[16:28:34] slot 2 weap 23
+[16:28:34] slot 3 weap 0
+[16:28:34] slot 4 weap 32
+[16:28:34] slot 5 weap 0
+[16:28:34] slot 6 weap 0
+[16:28:34] slot 7 weap 0
+[16:28:34] slot 8 weap 0
+[16:28:34] slot 9 weap 0
+[16:28:34] slot 10 weap 0
+[16:28:34] slot 11 weap 0
+[16:28:34] slot 12 weap 0
+[16:28:34] slot 0 weap 0
+[16:28:34] slot 1 weap 4
+[16:28:34] slot 2 weap 23
+[16:28:34] slot 3 weap 0
+[16:28:34] slot 4 weap 32
+[16:28:34] slot 5 weap 0
+[16:28:34] slot 6 weap 0
+[16:28:34] slot 7 weap 0
+[16:28:34] slot 8 weap 0
+[16:28:34] slot 9 weap 0
+[16:28:34] slot 10 weap 0
+[16:28:34] slot 11 weap 0
+[16:28:34] slot 12 weap 0
+[16:28:34] slot 0 weap 0
+[16:28:34] slot 1 weap 4
+[16:28:34] slot 2 weap 23
+[16:28:34] slot 3 weap 0
+[16:28:34] slot 4 weap 32
+[16:28:34] slot 5 weap 0
+[16:28:34] slot 6 weap 0
+[16:28:34] slot 7 weap 0
+[16:28:34] slot 8 weap 0
+[16:28:34] slot 9 weap 0
+[16:28:34] slot 10 weap 0
+[16:28:34] slot 11 weap 0
+[16:28:34] slot 12 weap 0
+[16:28:34] slot 0 weap 0
+[16:28:34] slot 1 weap 4
+[16:28:34] slot 2 weap 23
+[16:28:34] slot 3 weap 0
+[16:28:34] slot 4 weap 32
+[16:28:34] slot 5 weap 0
+[16:28:34] slot 6 weap 0
+[16:28:34] slot 7 weap 0
+[16:28:34] slot 8 weap 0
+[16:28:34] slot 9 weap 0
+[16:28:34] slot 10 weap 0
+[16:28:34] slot 11 weap 0
+[16:28:34] slot 12 weap 0
+[16:28:34] slot 0 weap 0
+[16:28:34] slot 1 weap 4
+[16:28:34] slot 2 weap 23
+[16:28:34] slot 3 weap 0
+[16:28:34] slot 4 weap 32
+[16:28:34] slot 5 weap 0
+[16:28:34] slot 6 weap 0
+[16:28:34] slot 7 weap 0
+[16:28:34] slot 8 weap 0
+[16:28:34] slot 9 weap 0
+[16:28:34] slot 10 weap 0
+[16:28:34] slot 11 weap 0
+[16:28:34] slot 12 weap 0
+[16:28:35] slot 0 weap 0
+[16:28:35] slot 1 weap 4
+[16:28:35] slot 2 weap 23
+[16:28:35] slot 3 weap 0
+[16:28:35] slot 4 weap 32
+[16:28:35] slot 5 weap 0
+[16:28:35] slot 6 weap 0
+[16:28:35] slot 7 weap 0
+[16:28:35] slot 8 weap 0
+[16:28:35] slot 9 weap 0
+[16:28:35] slot 10 weap 0
+[16:28:35] slot 11 weap 0
+[16:28:35] slot 12 weap 0
+[16:28:35] slot 0 weap 0
+[16:28:35] slot 1 weap 4
+[16:28:35] slot 2 weap 23
+[16:28:35] slot 3 weap 0
+[16:28:35] slot 4 weap 32
+[16:28:35] slot 5 weap 0
+[16:28:35] slot 6 weap 0
+[16:28:35] slot 7 weap 0
+[16:28:35] slot 8 weap 0
+[16:28:35] slot 9 weap 0
+[16:28:35] slot 10 weap 0
+[16:28:35] slot 11 weap 0
+[16:28:35] slot 12 weap 0
+[16:28:35] slot 0 weap 0
+[16:28:35] slot 1 weap 4
+[16:28:35] slot 2 weap 23
+[16:28:35] slot 3 weap 0
+[16:28:35] slot 4 weap 32
+[16:28:35] slot 5 weap 0
+[16:28:35] slot 6 weap 0
+[16:28:35] slot 7 weap 0
+[16:28:35] slot 8 weap 0
+[16:28:35] slot 9 weap 0
+[16:28:35] slot 10 weap 0
+[16:28:35] slot 11 weap 0
+[16:28:35] slot 12 weap 0
+[16:28:35] slot 0 weap 0
+[16:28:35] slot 1 weap 4
+[16:28:35] slot 2 weap 23
+[16:28:35] slot 3 weap 0
+[16:28:35] slot 4 weap 32
+[16:28:35] slot 5 weap 0
+[16:28:35] slot 6 weap 0
+[16:28:35] slot 7 weap 0
+[16:28:35] slot 8 weap 0
+[16:28:35] slot 9 weap 0
+[16:28:35] slot 10 weap 0
+[16:28:35] slot 11 weap 0
+[16:28:35] slot 12 weap 0
+[16:28:35] slot 0 weap 0
+[16:28:35] slot 1 weap 4
+[16:28:35] slot 2 weap 23
+[16:28:35] slot 3 weap 0
+[16:28:35] slot 4 weap 32
+[16:28:35] slot 5 weap 0
+[16:28:35] slot 6 weap 0
+[16:28:35] slot 7 weap 0
+[16:28:35] slot 8 weap 0
+[16:28:35] slot 9 weap 0
+[16:28:35] slot 10 weap 0
+[16:28:35] slot 11 weap 0
+[16:28:35] slot 12 weap 0
+[16:28:35] slot 0 weap 0
+[16:28:35] slot 1 weap 4
+[16:28:35] slot 2 weap 23
+[16:28:35] slot 3 weap 0
+[16:28:35] slot 4 weap 32
+[16:28:35] slot 5 weap 0
+[16:28:35] slot 6 weap 0
+[16:28:35] slot 7 weap 0
+[16:28:35] slot 8 weap 0
+[16:28:35] slot 9 weap 0
+[16:28:35] slot 10 weap 0
+[16:28:35] slot 11 weap 0
+[16:28:35] slot 12 weap 0
+[16:28:35] slot 0 weap 0
+[16:28:35] slot 1 weap 4
+[16:28:35] slot 2 weap 23
+[16:28:35] slot 3 weap 0
+[16:28:35] slot 4 weap 32
+[16:28:35] slot 5 weap 0
+[16:28:35] slot 6 weap 0
+[16:28:35] slot 7 weap 0
+[16:28:35] slot 8 weap 0
+[16:28:35] slot 9 weap 0
+[16:28:35] slot 10 weap 0
+[16:28:35] slot 11 weap 0
+[16:28:35] slot 12 weap 0
+[16:28:35] slot 0 weap 0
+[16:28:35] slot 1 weap 4
+[16:28:35] slot 2 weap 23
+[16:28:35] slot 3 weap 0
+[16:28:35] slot 4 weap 32
+[16:28:35] slot 5 weap 0
+[16:28:35] slot 6 weap 0
+[16:28:35] slot 7 weap 0
+[16:28:35] slot 8 weap 0
+[16:28:35] slot 9 weap 0
+[16:28:35] slot 10 weap 0
+[16:28:35] slot 11 weap 0
+[16:28:35] slot 12 weap 0
+[16:28:36] slot 0 weap 0
+[16:28:36] slot 1 weap 4
+[16:28:36] slot 2 weap 23
+[16:28:36] slot 3 weap 0
+[16:28:36] slot 4 weap 32
+[16:28:36] slot 5 weap 0
+[16:28:36] slot 6 weap 0
+[16:28:36] slot 7 weap 0
+[16:28:36] slot 8 weap 0
+[16:28:36] slot 9 weap 0
+[16:28:36] slot 10 weap 0
+[16:28:36] slot 11 weap 0
+[16:28:36] slot 12 weap 0
+[16:28:36] slot 0 weap 0
+[16:28:36] slot 1 weap 4
+[16:28:36] slot 2 weap 23
+[16:28:36] slot 3 weap 0
+[16:28:36] slot 4 weap 32
+[16:28:36] slot 5 weap 0
+[16:28:36] slot 6 weap 0
+[16:28:36] slot 7 weap 0
+[16:28:36] slot 8 weap 0
+[16:28:36] slot 9 weap 0
+[16:28:36] slot 10 weap 0
+[16:28:36] slot 11 weap 0
+[16:28:36] slot 12 weap 0
+[16:28:36] slot 0 weap 0
+[16:28:36] slot 1 weap 4
+[16:28:36] slot 2 weap 23
+[16:28:36] slot 3 weap 0
+[16:28:36] slot 4 weap 32
+[16:28:36] slot 5 weap 0
+[16:28:36] slot 6 weap 0
+[16:28:36] slot 7 weap 0
+[16:28:36] slot 8 weap 0
+[16:28:36] slot 9 weap 0
+[16:28:36] slot 10 weap 0
+[16:28:36] slot 11 weap 0
+[16:28:36] slot 12 weap 0
+[16:28:36] slot 0 weap 0
+[16:28:36] slot 1 weap 4
+[16:28:36] slot 2 weap 23
+[16:28:36] slot 3 weap 0
+[16:28:36] slot 4 weap 32
+[16:28:36] slot 5 weap 0
+[16:28:36] slot 6 weap 0
+[16:28:36] slot 7 weap 0
+[16:28:36] slot 8 weap 0
+[16:28:36] slot 9 weap 0
+[16:28:36] slot 10 weap 0
+[16:28:36] slot 11 weap 0
+[16:28:36] slot 12 weap 0
+[16:28:36] slot 0 weap 0
+[16:28:36] slot 1 weap 4
+[16:28:36] slot 2 weap 23
+[16:28:36] slot 3 weap 0
+[16:28:36] slot 4 weap 32
+[16:28:36] slot 5 weap 0
+[16:28:36] slot 6 weap 0
+[16:28:36] slot 7 weap 0
+[16:28:36] slot 8 weap 0
+[16:28:36] slot 9 weap 0
+[16:28:36] slot 10 weap 0
+[16:28:36] slot 11 weap 0
+[16:28:36] slot 12 weap 0
+[16:28:36] slot 0 weap 0
+[16:28:36] slot 1 weap 4
+[16:28:36] slot 2 weap 23
+[16:28:36] slot 3 weap 0
+[16:28:36] slot 4 weap 32
+[16:28:36] slot 5 weap 0
+[16:28:36] slot 6 weap 0
+[16:28:36] slot 7 weap 0
+[16:28:36] slot 8 weap 0
+[16:28:36] slot 9 weap 0
+[16:28:36] slot 10 weap 0
+[16:28:36] slot 11 weap 0
+[16:28:36] slot 12 weap 0
+[16:28:36] slot 0 weap 0
+[16:28:36] slot 1 weap 4
+[16:28:36] slot 2 weap 23
+[16:28:36] slot 3 weap 0
+[16:28:36] slot 4 weap 32
+[16:28:36] slot 5 weap 0
+[16:28:36] slot 6 weap 0
+[16:28:36] slot 7 weap 0
+[16:28:36] slot 8 weap 0
+[16:28:36] slot 9 weap 0
+[16:28:36] slot 10 weap 0
+[16:28:36] slot 11 weap 0
+[16:28:36] slot 12 weap 0
+[16:28:37] slot 0 weap 0
+[16:28:37] slot 1 weap 4
+[16:28:37] slot 2 weap 23
+[16:28:37] slot 3 weap 0
+[16:28:37] slot 4 weap 32
+[16:28:37] slot 5 weap 0
+[16:28:37] slot 6 weap 0
+[16:28:37] slot 7 weap 0
+[16:28:37] slot 8 weap 0
+[16:28:37] slot 9 weap 0
+[16:28:37] slot 10 weap 0
+[16:28:37] slot 11 weap 0
+[16:28:37] slot 12 weap 0
+[16:28:37] slot 0 weap 0
+[16:28:37] slot 1 weap 4
+[16:28:37] slot 2 weap 23
+[16:28:37] slot 3 weap 0
+[16:28:37] slot 4 weap 32
+[16:28:37] slot 5 weap 0
+[16:28:37] slot 6 weap 0
+[16:28:37] slot 7 weap 0
+[16:28:37] slot 8 weap 0
+[16:28:37] slot 9 weap 0
+[16:28:37] slot 10 weap 0
+[16:28:37] slot 11 weap 0
+[16:28:37] slot 12 weap 0
+[16:28:37] slot 0 weap 0
+[16:28:37] slot 1 weap 4
+[16:28:37] slot 2 weap 23
+[16:28:37] slot 3 weap 0
+[16:28:37] slot 4 weap 32
+[16:28:37] slot 5 weap 0
+[16:28:37] slot 6 weap 0
+[16:28:37] slot 7 weap 0
+[16:28:37] slot 8 weap 0
+[16:28:37] slot 9 weap 0
+[16:28:37] slot 10 weap 0
+[16:28:37] slot 11 weap 0
+[16:28:37] slot 12 weap 0
+[16:28:37] slot 0 weap 0
+[16:28:37] slot 1 weap 4
+[16:28:37] slot 2 weap 23
+[16:28:37] slot 3 weap 0
+[16:28:37] slot 4 weap 32
+[16:28:37] slot 5 weap 0
+[16:28:37] slot 6 weap 0
+[16:28:37] slot 7 weap 0
+[16:28:37] slot 8 weap 0
+[16:28:37] slot 9 weap 0
+[16:28:37] slot 10 weap 0
+[16:28:37] slot 11 weap 0
+[16:28:37] slot 12 weap 0
+[16:28:37] slot 0 weap 0
+[16:28:37] slot 1 weap 4
+[16:28:37] slot 2 weap 23
+[16:28:37] slot 3 weap 0
+[16:28:37] slot 4 weap 32
+[16:28:37] slot 5 weap 0
+[16:28:37] slot 6 weap 0
+[16:28:37] slot 7 weap 0
+[16:28:37] slot 8 weap 0
+[16:28:37] slot 9 weap 0
+[16:28:37] slot 10 weap 0
+[16:28:37] slot 11 weap 0
+[16:28:37] slot 12 weap 0
+[16:28:37] slot 0 weap 0
+[16:28:37] slot 1 weap 4
+[16:28:37] slot 2 weap 23
+[16:28:37] slot 3 weap 0
+[16:28:37] slot 4 weap 32
+[16:28:37] slot 5 weap 0
+[16:28:37] slot 6 weap 0
+[16:28:37] slot 7 weap 0
+[16:28:37] slot 8 weap 0
+[16:28:37] slot 9 weap 0
+[16:28:37] slot 10 weap 0
+[16:28:37] slot 11 weap 0
+[16:28:37] slot 12 weap 0
+[16:28:37] slot 0 weap 0
+[16:28:37] slot 1 weap 4
+[16:28:37] slot 2 weap 23
+[16:28:37] slot 3 weap 0
+[16:28:37] slot 4 weap 32
+[16:28:37] slot 5 weap 0
+[16:28:37] slot 6 weap 0
+[16:28:37] slot 7 weap 0
+[16:28:37] slot 8 weap 0
+[16:28:37] slot 9 weap 0
+[16:28:37] slot 10 weap 0
+[16:28:37] slot 11 weap 0
+[16:28:37] slot 12 weap 0
+[16:28:38] slot 0 weap 0
+[16:28:38] slot 1 weap 4
+[16:28:38] slot 2 weap 23
+[16:28:38] slot 3 weap 0
+[16:28:38] slot 4 weap 32
+[16:28:38] slot 5 weap 0
+[16:28:38] slot 6 weap 0
+[16:28:38] slot 7 weap 0
+[16:28:38] slot 8 weap 0
+[16:28:38] slot 9 weap 0
+[16:28:38] slot 10 weap 0
+[16:28:38] slot 11 weap 0
+[16:28:38] slot 12 weap 0
+[16:28:38] slot 0 weap 0
+[16:28:38] slot 1 weap 4
+[16:28:38] slot 2 weap 23
+[16:28:38] slot 3 weap 0
+[16:28:38] slot 4 weap 32
+[16:28:38] slot 5 weap 0
+[16:28:38] slot 6 weap 0
+[16:28:38] slot 7 weap 0
+[16:28:38] slot 8 weap 0
+[16:28:38] slot 9 weap 0
+[16:28:38] slot 10 weap 0
+[16:28:38] slot 11 weap 0
+[16:28:38] slot 12 weap 0
+[16:28:38] slot 0 weap 0
+[16:28:38] slot 1 weap 4
+[16:28:38] slot 2 weap 23
+[16:28:38] slot 3 weap 0
+[16:28:38] slot 4 weap 32
+[16:28:38] slot 5 weap 0
+[16:28:38] slot 6 weap 0
+[16:28:38] slot 7 weap 0
+[16:28:38] slot 8 weap 0
+[16:28:38] slot 9 weap 0
+[16:28:38] slot 10 weap 0
+[16:28:38] slot 11 weap 0
+[16:28:38] slot 12 weap 0
+[16:28:38] slot 0 weap 0
+[16:28:38] slot 1 weap 4
+[16:28:38] slot 2 weap 23
+[16:28:38] slot 3 weap 0
+[16:28:38] slot 4 weap 32
+[16:28:38] slot 5 weap 0
+[16:28:38] slot 6 weap 0
+[16:28:38] slot 7 weap 0
+[16:28:38] slot 8 weap 0
+[16:28:38] slot 9 weap 0
+[16:28:38] slot 10 weap 0
+[16:28:38] slot 11 weap 0
+[16:28:38] slot 12 weap 0
+[16:28:38] slot 0 weap 0
+[16:28:38] slot 1 weap 4
+[16:28:38] slot 2 weap 23
+[16:28:38] slot 3 weap 0
+[16:28:38] slot 4 weap 32
+[16:28:38] slot 5 weap 0
+[16:28:38] slot 6 weap 0
+[16:28:38] slot 7 weap 0
+[16:28:38] slot 8 weap 0
+[16:28:38] slot 9 weap 0
+[16:28:38] slot 10 weap 0
+[16:28:38] slot 11 weap 0
+[16:28:38] slot 12 weap 0
+[16:28:38] slot 0 weap 0
+[16:28:38] slot 1 weap 4
+[16:28:38] slot 2 weap 23
+[16:28:38] slot 3 weap 0
+[16:28:38] slot 4 weap 32
+[16:28:38] slot 5 weap 0
+[16:28:38] slot 6 weap 0
+[16:28:38] slot 7 weap 0
+[16:28:38] slot 8 weap 0
+[16:28:38] slot 9 weap 0
+[16:28:38] slot 10 weap 0
+[16:28:38] slot 11 weap 0
+[16:28:38] slot 12 weap 0
+[16:28:38] slot 0 weap 0
+[16:28:38] slot 1 weap 4
+[16:28:38] slot 2 weap 23
+[16:28:38] slot 3 weap 0
+[16:28:38] slot 4 weap 32
+[16:28:38] slot 5 weap 0
+[16:28:38] slot 6 weap 0
+[16:28:38] slot 7 weap 0
+[16:28:38] slot 8 weap 0
+[16:28:38] slot 9 weap 0
+[16:28:38] slot 10 weap 0
+[16:28:38] slot 11 weap 0
+[16:28:38] slot 12 weap 0
+[16:28:39] slot 0 weap 0
+[16:28:39] slot 1 weap 4
+[16:28:39] slot 2 weap 23
+[16:28:39] slot 3 weap 0
+[16:28:39] slot 4 weap 32
+[16:28:39] slot 5 weap 0
+[16:28:39] slot 6 weap 0
+[16:28:39] slot 7 weap 0
+[16:28:39] slot 8 weap 0
+[16:28:39] slot 9 weap 0
+[16:28:39] slot 10 weap 0
+[16:28:39] slot 11 weap 0
+[16:28:39] slot 12 weap 0
+[16:28:39] slot 0 weap 0
+[16:28:39] slot 1 weap 4
+[16:28:39] slot 2 weap 23
+[16:28:39] slot 3 weap 0
+[16:28:39] slot 4 weap 32
+[16:28:39] slot 5 weap 0
+[16:28:39] slot 6 weap 0
+[16:28:39] slot 7 weap 0
+[16:28:39] slot 8 weap 0
+[16:28:39] slot 9 weap 0
+[16:28:39] slot 10 weap 0
+[16:28:39] slot 11 weap 0
+[16:28:39] slot 12 weap 0
+[16:28:39] slot 0 weap 0
+[16:28:39] slot 1 weap 4
+[16:28:39] slot 2 weap 23
+[16:28:39] slot 3 weap 0
+[16:28:39] slot 4 weap 32
+[16:28:39] slot 5 weap 0
+[16:28:39] slot 6 weap 0
+[16:28:39] slot 7 weap 0
+[16:28:39] slot 8 weap 0
+[16:28:39] slot 9 weap 0
+[16:28:39] slot 10 weap 0
+[16:28:39] slot 11 weap 0
+[16:28:39] slot 12 weap 0
+[16:28:39] slot 0 weap 0
+[16:28:39] slot 1 weap 4
+[16:28:39] slot 2 weap 23
+[16:28:39] slot 3 weap 0
+[16:28:39] slot 4 weap 32
+[16:28:39] slot 5 weap 0
+[16:28:39] slot 6 weap 0
+[16:28:39] slot 7 weap 0
+[16:28:39] slot 8 weap 0
+[16:28:39] slot 9 weap 0
+[16:28:39] slot 10 weap 0
+[16:28:39] slot 11 weap 0
+[16:28:39] slot 12 weap 0
+[16:28:39] slot 0 weap 0
+[16:28:39] slot 1 weap 4
+[16:28:39] slot 2 weap 23
+[16:28:39] slot 3 weap 0
+[16:28:39] slot 4 weap 32
+[16:28:39] slot 5 weap 0
+[16:28:39] slot 6 weap 0
+[16:28:39] slot 7 weap 0
+[16:28:39] slot 8 weap 0
+[16:28:39] slot 9 weap 0
+[16:28:39] slot 10 weap 0
+[16:28:39] slot 11 weap 0
+[16:28:39] slot 12 weap 0
+[16:28:39] slot 0 weap 0
+[16:28:39] slot 1 weap 4
+[16:28:39] slot 2 weap 23
+[16:28:39] slot 3 weap 0
+[16:28:39] slot 4 weap 32
+[16:28:39] slot 5 weap 0
+[16:28:39] slot 6 weap 0
+[16:28:39] slot 7 weap 0
+[16:28:39] slot 8 weap 0
+[16:28:39] slot 9 weap 0
+[16:28:39] slot 10 weap 0
+[16:28:39] slot 11 weap 0
+[16:28:39] slot 12 weap 0
+[16:28:39] slot 0 weap 0
+[16:28:39] slot 1 weap 4
+[16:28:39] slot 2 weap 23
+[16:28:39] slot 3 weap 0
+[16:28:39] slot 4 weap 32
+[16:28:39] slot 5 weap 0
+[16:28:39] slot 6 weap 0
+[16:28:39] slot 7 weap 0
+[16:28:39] slot 8 weap 0
+[16:28:39] slot 9 weap 0
+[16:28:39] slot 10 weap 0
+[16:28:39] slot 11 weap 0
+[16:28:39] slot 12 weap 0
+[16:28:39] slot 0 weap 0
+[16:28:39] slot 1 weap 4
+[16:28:39] slot 2 weap 23
+[16:28:39] slot 3 weap 0
+[16:28:39] slot 4 weap 32
+[16:28:39] slot 5 weap 0
+[16:28:39] slot 6 weap 0
+[16:28:39] slot 7 weap 0
+[16:28:39] slot 8 weap 0
+[16:28:39] slot 9 weap 0
+[16:28:39] slot 10 weap 0
+[16:28:39] slot 11 weap 0
+[16:28:39] slot 12 weap 0
+[16:28:40] slot 0 weap 0
+[16:28:40] slot 1 weap 4
+[16:28:40] slot 2 weap 23
+[16:28:40] slot 3 weap 0
+[16:28:40] slot 4 weap 32
+[16:28:40] slot 5 weap 0
+[16:28:40] slot 6 weap 0
+[16:28:40] slot 7 weap 0
+[16:28:40] slot 8 weap 0
+[16:28:40] slot 9 weap 0
+[16:28:40] slot 10 weap 0
+[16:28:40] slot 11 weap 0
+[16:28:40] slot 12 weap 0
+[16:28:40] slot 0 weap 0
+[16:28:40] slot 1 weap 4
+[16:28:40] slot 2 weap 23
+[16:28:40] slot 3 weap 0
+[16:28:40] slot 4 weap 32
+[16:28:40] slot 5 weap 0
+[16:28:40] slot 6 weap 0
+[16:28:40] slot 7 weap 0
+[16:28:40] slot 8 weap 0
+[16:28:40] slot 9 weap 0
+[16:28:40] slot 10 weap 0
+[16:28:40] slot 11 weap 0
+[16:28:40] slot 12 weap 0
+[16:28:40] slot 0 weap 0
+[16:28:40] slot 1 weap 4
+[16:28:40] slot 2 weap 23
+[16:28:40] slot 3 weap 0
+[16:28:40] slot 4 weap 32
+[16:28:40] slot 5 weap 0
+[16:28:40] slot 6 weap 0
+[16:28:40] slot 7 weap 0
+[16:28:40] slot 8 weap 0
+[16:28:40] slot 9 weap 0
+[16:28:40] slot 10 weap 0
+[16:28:40] slot 11 weap 0
+[16:28:40] slot 12 weap 0
+[16:28:40] slot 0 weap 0
+[16:28:40] slot 1 weap 4
+[16:28:40] slot 2 weap 23
+[16:28:40] slot 3 weap 0
+[16:28:40] slot 4 weap 32
+[16:28:40] slot 5 weap 0
+[16:28:40] slot 6 weap 0
+[16:28:40] slot 7 weap 0
+[16:28:40] slot 8 weap 0
+[16:28:40] slot 9 weap 0
+[16:28:40] slot 10 weap 0
+[16:28:40] slot 11 weap 0
+[16:28:40] slot 12 weap 0
+[16:28:40] slot 0 weap 0
+[16:28:40] slot 1 weap 4
+[16:28:40] slot 2 weap 23
+[16:28:40] slot 3 weap 0
+[16:28:40] slot 4 weap 32
+[16:28:40] slot 5 weap 0
+[16:28:40] slot 6 weap 0
+[16:28:40] slot 7 weap 0
+[16:28:40] slot 8 weap 0
+[16:28:40] slot 9 weap 0
+[16:28:40] slot 10 weap 0
+[16:28:40] slot 11 weap 0
+[16:28:40] slot 12 weap 0
+[16:28:40] slot 0 weap 0
+[16:28:40] slot 1 weap 4
+[16:28:40] slot 2 weap 23
+[16:28:40] slot 3 weap 0
+[16:28:40] slot 4 weap 32
+[16:28:40] slot 5 weap 0
+[16:28:40] slot 6 weap 0
+[16:28:40] slot 7 weap 0
+[16:28:40] slot 8 weap 0
+[16:28:40] slot 9 weap 0
+[16:28:40] slot 10 weap 0
+[16:28:40] slot 11 weap 0
+[16:28:40] slot 12 weap 0
+[16:28:41] slot 0 weap 0
+[16:28:41] slot 1 weap 4
+[16:28:41] slot 2 weap 23
+[16:28:41] slot 3 weap 0
+[16:28:41] slot 4 weap 32
+[16:28:41] slot 5 weap 0
+[16:28:41] slot 6 weap 0
+[16:28:41] slot 7 weap 0
+[16:28:41] slot 8 weap 0
+[16:28:41] slot 9 weap 0
+[16:28:41] slot 10 weap 0
+[16:28:41] slot 11 weap 0
+[16:28:41] slot 12 weap 0
+[16:28:41] slot 0 weap 0
+[16:28:41] slot 1 weap 4
+[16:28:41] slot 2 weap 23
+[16:28:41] slot 3 weap 0
+[16:28:41] slot 4 weap 32
+[16:28:41] slot 5 weap 0
+[16:28:41] slot 6 weap 0
+[16:28:41] slot 7 weap 0
+[16:28:41] slot 8 weap 0
+[16:28:41] slot 9 weap 0
+[16:28:41] slot 10 weap 0
+[16:28:41] slot 11 weap 0
+[16:28:41] slot 12 weap 0
+[16:28:41] slot 0 weap 0
+[16:28:41] slot 1 weap 4
+[16:28:41] slot 2 weap 23
+[16:28:41] slot 3 weap 0
+[16:28:41] slot 4 weap 32
+[16:28:41] slot 5 weap 0
+[16:28:41] slot 6 weap 0
+[16:28:41] slot 7 weap 0
+[16:28:41] slot 8 weap 0
+[16:28:41] slot 9 weap 0
+[16:28:41] slot 10 weap 0
+[16:28:41] slot 11 weap 0
+[16:28:41] slot 12 weap 0
+[16:28:41] slot 0 weap 0
+[16:28:41] slot 1 weap 4
+[16:28:41] slot 2 weap 23
+[16:28:41] slot 3 weap 0
+[16:28:41] slot 4 weap 32
+[16:28:41] slot 5 weap 0
+[16:28:41] slot 6 weap 0
+[16:28:41] slot 7 weap 0
+[16:28:41] slot 8 weap 0
+[16:28:41] slot 9 weap 0
+[16:28:41] slot 10 weap 0
+[16:28:41] slot 11 weap 0
+[16:28:41] slot 12 weap 0
+[16:28:41] slot 0 weap 0
+[16:28:41] slot 1 weap 4
+[16:28:41] slot 2 weap 23
+[16:28:41] slot 3 weap 0
+[16:28:41] slot 4 weap 32
+[16:28:41] slot 5 weap 0
+[16:28:41] slot 6 weap 0
+[16:28:41] slot 7 weap 0
+[16:28:41] slot 8 weap 0
+[16:28:41] slot 9 weap 0
+[16:28:41] slot 10 weap 0
+[16:28:41] slot 11 weap 0
+[16:28:41] slot 12 weap 0
+[16:28:41] slot 0 weap 0
+[16:28:41] slot 1 weap 4
+[16:28:41] slot 2 weap 23
+[16:28:41] slot 3 weap 0
+[16:28:41] slot 4 weap 32
+[16:28:41] slot 5 weap 0
+[16:28:41] slot 6 weap 0
+[16:28:41] slot 7 weap 0
+[16:28:41] slot 8 weap 0
+[16:28:41] slot 9 weap 0
+[16:28:41] slot 10 weap 0
+[16:28:41] slot 11 weap 0
+[16:28:41] slot 12 weap 0
+[16:28:41] slot 0 weap 0
+[16:28:41] slot 1 weap 4
+[16:28:41] slot 2 weap 23
+[16:28:41] slot 3 weap 0
+[16:28:41] slot 4 weap 32
+[16:28:41] slot 5 weap 0
+[16:28:41] slot 6 weap 0
+[16:28:41] slot 7 weap 0
+[16:28:41] slot 8 weap 0
+[16:28:41] slot 9 weap 0
+[16:28:41] slot 10 weap 0
+[16:28:41] slot 11 weap 0
+[16:28:41] slot 12 weap 0
+[16:28:41] slot 0 weap 0
+[16:28:41] slot 1 weap 4
+[16:28:41] slot 2 weap 23
+[16:28:41] slot 3 weap 0
+[16:28:41] slot 4 weap 32
+[16:28:41] slot 5 weap 0
+[16:28:41] slot 6 weap 0
+[16:28:41] slot 7 weap 0
+[16:28:41] slot 8 weap 0
+[16:28:41] slot 9 weap 0
+[16:28:41] slot 10 weap 0
+[16:28:41] slot 11 weap 0
+[16:28:41] slot 12 weap 0
+[16:28:42] slot 0 weap 0
+[16:28:42] slot 1 weap 4
+[16:28:42] slot 2 weap 23
+[16:28:42] slot 3 weap 0
+[16:28:42] slot 4 weap 32
+[16:28:42] slot 5 weap 0
+[16:28:42] slot 6 weap 0
+[16:28:42] slot 7 weap 0
+[16:28:42] slot 8 weap 0
+[16:28:42] slot 9 weap 0
+[16:28:42] slot 10 weap 0
+[16:28:42] slot 11 weap 0
+[16:28:42] slot 12 weap 0
+[16:28:42] slot 0 weap 0
+[16:28:42] slot 1 weap 4
+[16:28:42] slot 2 weap 23
+[16:28:42] slot 3 weap 0
+[16:28:42] slot 4 weap 32
+[16:28:42] slot 5 weap 0
+[16:28:42] slot 6 weap 0
+[16:28:42] slot 7 weap 0
+[16:28:42] slot 8 weap 0
+[16:28:42] slot 9 weap 0
+[16:28:42] slot 10 weap 0
+[16:28:42] slot 11 weap 0
+[16:28:42] slot 12 weap 0
+[16:28:42] slot 0 weap 0
+[16:28:42] slot 1 weap 4
+[16:28:42] slot 2 weap 23
+[16:28:42] slot 3 weap 0
+[16:28:42] slot 4 weap 32
+[16:28:42] slot 5 weap 0
+[16:28:42] slot 6 weap 0
+[16:28:42] slot 7 weap 0
+[16:28:42] slot 8 weap 0
+[16:28:42] slot 9 weap 0
+[16:28:42] slot 10 weap 0
+[16:28:42] slot 11 weap 0
+[16:28:42] slot 12 weap 0
+[16:28:42] slot 0 weap 0
+[16:28:42] slot 1 weap 4
+[16:28:42] slot 2 weap 23
+[16:28:42] slot 3 weap 0
+[16:28:42] slot 4 weap 32
+[16:28:42] slot 5 weap 0
+[16:28:42] slot 6 weap 0
+[16:28:42] slot 7 weap 0
+[16:28:42] slot 8 weap 0
+[16:28:42] slot 9 weap 0
+[16:28:42] slot 10 weap 0
+[16:28:42] slot 11 weap 0
+[16:28:42] slot 12 weap 0
+[16:28:42] slot 0 weap 0
+[16:28:42] slot 1 weap 4
+[16:28:42] slot 2 weap 23
+[16:28:42] slot 3 weap 0
+[16:28:42] slot 4 weap 32
+[16:28:42] slot 5 weap 0
+[16:28:42] slot 6 weap 0
+[16:28:42] slot 7 weap 0
+[16:28:42] slot 8 weap 0
+[16:28:42] slot 9 weap 0
+[16:28:42] slot 10 weap 0
+[16:28:42] slot 11 weap 0
+[16:28:42] slot 12 weap 0
+[16:28:42] slot 0 weap 0
+[16:28:42] slot 1 weap 4
+[16:28:42] slot 2 weap 23
+[16:28:42] slot 3 weap 0
+[16:28:42] slot 4 weap 32
+[16:28:42] slot 5 weap 0
+[16:28:42] slot 6 weap 0
+[16:28:42] slot 7 weap 0
+[16:28:42] slot 8 weap 0
+[16:28:42] slot 9 weap 0
+[16:28:42] slot 10 weap 0
+[16:28:42] slot 11 weap 0
+[16:28:42] slot 12 weap 0
+[16:28:42] slot 0 weap 0
+[16:28:42] slot 1 weap 4
+[16:28:42] slot 2 weap 23
+[16:28:42] slot 3 weap 0
+[16:28:42] slot 4 weap 32
+[16:28:42] slot 5 weap 0
+[16:28:42] slot 6 weap 0
+[16:28:42] slot 7 weap 0
+[16:28:42] slot 8 weap 0
+[16:28:42] slot 9 weap 0
+[16:28:42] slot 10 weap 0
+[16:28:42] slot 11 weap 0
+[16:28:42] slot 12 weap 0
+[16:28:43] slot 0 weap 0
+[16:28:43] slot 1 weap 4
+[16:28:43] slot 2 weap 23
+[16:28:43] slot 3 weap 0
+[16:28:43] slot 4 weap 32
+[16:28:43] slot 5 weap 0
+[16:28:43] slot 6 weap 0
+[16:28:43] slot 7 weap 0
+[16:28:43] slot 8 weap 0
+[16:28:43] slot 9 weap 0
+[16:28:43] slot 10 weap 0
+[16:28:43] slot 11 weap 0
+[16:28:43] slot 12 weap 0
+[16:28:43] slot 0 weap 0
+[16:28:43] slot 1 weap 4
+[16:28:43] slot 2 weap 23
+[16:28:43] slot 3 weap 0
+[16:28:43] slot 4 weap 32
+[16:28:43] slot 5 weap 0
+[16:28:43] slot 6 weap 0
+[16:28:43] slot 7 weap 0
+[16:28:43] slot 8 weap 0
+[16:28:43] slot 9 weap 0
+[16:28:43] slot 10 weap 0
+[16:28:43] slot 11 weap 0
+[16:28:43] slot 12 weap 0
+[16:28:43] slot 0 weap 0
+[16:28:43] slot 1 weap 4
+[16:28:43] slot 2 weap 23
+[16:28:43] slot 3 weap 0
+[16:28:43] slot 4 weap 32
+[16:28:43] slot 5 weap 0
+[16:28:43] slot 6 weap 0
+[16:28:43] slot 7 weap 0
+[16:28:43] slot 8 weap 0
+[16:28:43] slot 9 weap 0
+[16:28:43] slot 10 weap 0
+[16:28:43] slot 11 weap 0
+[16:28:43] slot 12 weap 0
+[16:28:43] slot 0 weap 0
+[16:28:43] slot 1 weap 4
+[16:28:43] slot 2 weap 23
+[16:28:43] slot 3 weap 0
+[16:28:43] slot 4 weap 32
+[16:28:43] slot 5 weap 0
+[16:28:43] slot 6 weap 0
+[16:28:43] slot 7 weap 0
+[16:28:43] slot 8 weap 0
+[16:28:43] slot 9 weap 0
+[16:28:43] slot 10 weap 0
+[16:28:43] slot 11 weap 0
+[16:28:43] slot 12 weap 0
+[16:28:43] slot 0 weap 0
+[16:28:43] slot 1 weap 4
+[16:28:43] slot 2 weap 23
+[16:28:43] slot 3 weap 0
+[16:28:43] slot 4 weap 32
+[16:28:43] slot 5 weap 0
+[16:28:43] slot 6 weap 0
+[16:28:43] slot 7 weap 0
+[16:28:43] slot 8 weap 0
+[16:28:43] slot 9 weap 0
+[16:28:43] slot 10 weap 0
+[16:28:43] slot 11 weap 0
+[16:28:43] slot 12 weap 0
+[16:28:43] slot 0 weap 0
+[16:28:43] slot 1 weap 4
+[16:28:43] slot 2 weap 23
+[16:28:43] slot 3 weap 0
+[16:28:43] slot 4 weap 32
+[16:28:43] slot 5 weap 0
+[16:28:43] slot 6 weap 0
+[16:28:43] slot 7 weap 0
+[16:28:43] slot 8 weap 0
+[16:28:43] slot 9 weap 0
+[16:28:43] slot 10 weap 0
+[16:28:43] slot 11 weap 0
+[16:28:43] slot 12 weap 0
+[16:28:43] slot 0 weap 0
+[16:28:43] slot 1 weap 4
+[16:28:43] slot 2 weap 23
+[16:28:43] slot 3 weap 0
+[16:28:43] slot 4 weap 32
+[16:28:43] slot 5 weap 0
+[16:28:43] slot 6 weap 0
+[16:28:43] slot 7 weap 0
+[16:28:43] slot 8 weap 0
+[16:28:43] slot 9 weap 0
+[16:28:43] slot 10 weap 0
+[16:28:43] slot 11 weap 0
+[16:28:43] slot 12 weap 0
+[16:28:44] slot 0 weap 0
+[16:28:44] slot 1 weap 4
+[16:28:44] slot 2 weap 23
+[16:28:44] slot 3 weap 0
+[16:28:44] slot 4 weap 32
+[16:28:44] slot 5 weap 0
+[16:28:44] slot 6 weap 0
+[16:28:44] slot 7 weap 0
+[16:28:44] slot 8 weap 0
+[16:28:44] slot 9 weap 0
+[16:28:44] slot 10 weap 0
+[16:28:44] slot 11 weap 0
+[16:28:44] slot 12 weap 0
+[16:28:44] slot 0 weap 0
+[16:28:44] slot 1 weap 4
+[16:28:44] slot 2 weap 23
+[16:28:44] slot 3 weap 0
+[16:28:44] slot 4 weap 32
+[16:28:44] slot 5 weap 0
+[16:28:44] slot 6 weap 0
+[16:28:44] slot 7 weap 0
+[16:28:44] slot 8 weap 0
+[16:28:44] slot 9 weap 0
+[16:28:44] slot 10 weap 0
+[16:28:44] slot 11 weap 0
+[16:28:44] slot 12 weap 0
+[16:28:44] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[16:31:42] filterscripts = ""  (string)
+[16:31:42] 
+[16:31:42] Server Plugins
+[16:31:42] --------------
+[16:31:42]  Loading plugin: mysql
+[16:31:42]  >> plugin.mysql: R39-2 successfully loaded.
+[16:31:42]   Loaded.
+[16:31:42]  Loading plugin: sscanf
+[16:31:42] 
+
+[16:31:42]  ===============================
+
+[16:31:42]       sscanf plugin loaded.     
+
+[16:31:42]          Version:  2.8.1        
+
+[16:31:42]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:31:42]  ===============================
+
+[16:31:42]   Loaded.
+[16:31:42]  Loading plugin: streamer
+[16:31:42] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[16:31:42]   Loaded.
+[16:31:42]  Loaded 3 plugins.
+
+[16:31:42] 
+[16:31:42] Filterscripts
+[16:31:42] ---------------
+[16:31:42]   Loaded 0 filterscripts.
+
+[16:31:42] Number of vehicle models: 0
+[16:31:57] Incoming connection: 127.0.0.1:51957
+[16:31:57] [join] georJik has joined the server (0:127.0.0.1)
+[16:34:53] Number of vehicle models: 0
+[16:37:37] Number of vehicle models: 0
+[16:46:11] RCON (In-Game): Player #0 (georJik) failed login.
+[16:46:13] RCON (In-Game): Player #0 (georJik) has logged in.
+[16:46:19] RCON (In-Game): Player [georJik] sent command: loadfs TD
+[16:46:19] 
+--------------------------------------
+[16:46:19]  Text Draw Editor 1.0RC2 by Zamaroht for SA-MP 0.3 Loaded.
+[16:46:19] --------------------------------------
+
+[16:46:19]   Filterscript 'TD.amx' loaded.
+[17:23:51] Number of vehicle models: 0
+[17:36:10] Number of vehicle models: 0
+[17:37:03] [chat] [georJik]: k
+[17:39:45] Number of vehicle models: 0
+[18:05:15] Number of vehicle models: 0
