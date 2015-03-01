@@ -22,6 +22,13 @@
 #define	_ammo			Player[this][p_ammo]
 #define	_money			Player[this][Money]
 
+// Color list
+#define	c_negative	0xAC7575FF
+#define	c_good		0x03C03CFF
+#define	c_default	0xFFAF00FF
+#define	c_ct		0x009DFFFF
+#define	c_t			0xCA0000FF
+
 // Dialog name's
 #define WEAPON_LIST			1
 #define	WEAPON_LIST_BUY		2

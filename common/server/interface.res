@@ -31,7 +31,8 @@ new
 	// SGI
 	Text:s_300,
 	Text:s_buyzone,
-	Text:s_timer;
+	Text:s_timer,
+	Text:s_win;
 
 
 LoadGUI()
@@ -384,4 +385,14 @@ LoadGUI()
 	TextDrawSetOutline(s_timer, 1);
 	TextDrawSetProportional(s_timer, 0);
 	TextDrawSetSelectable(s_timer, 0);
+	
+	s_win = TextDrawCreate(325.000000, 200.000000, "Counter-Terrorist Win");
+	TextDrawAlignment(s_win, 2);
+	TextDrawBackgroundColor(s_win, 255);
+	TextDrawFont(s_win, 2);
+	TextDrawLetterSize(s_win, 0.180000, 0.799999);
+	TextDrawColor(s_win, -5308161);
+	TextDrawSetOutline(s_win, 1);
+	TextDrawSetProportional(s_win, 1);
+	TextDrawSetSelectable(s_win, 0);
 }

@@ -70,8 +70,11 @@ public OnPlayerSpawn(playerid)
 
 public OnPlayerDeath(playerid, killerid, reason)
 {
-	_money += 300;
-	TextDrawShowForPlayer(playerid, s_300), SetTimerEx("s_off", 3000, false, "i", playerid);
+	if(reason != 47 && reason != 53 && reason != 54)
+	{
+		_money += 300;
+		TextDrawShowForPlayer(killerid, s_300), SetTimerEx("s_off", 3000, false, "i", killerid);
+	}
 	return true;
 }
 
@@ -95,7 +98,7 @@ public OnPlayerKeyStateChange(playerid, newkeys, oldkeys)
 {
 	if(newkeys & KEY_YES)
 	{
-		if(m_t < 3 && s_s < 30) return SCM(playerid,0xAC7575FF,"Прошло более 20 секунд с момента старта раунда. Покупка невозможна.");
+		if(m_t < 3 && s_s < 30) return SCM(playerid,c_negative,"Прошло более 20 секунд с момента старта раунда. Покупка невозможна.");
 		if((IsPlayerInDynamicArea(this, buy_ct) && GetPlayerTeam(this) == CT) || (IsPlayerInDynamicArea(this, buy_t) && GetPlayerTeam(this) == T))
 		{
 			ShowPlayerDialog(playerid, WEAPON_LIST, DIALOG_STYLE_LIST, "{FFAF00}Покупка оружия","Пистолеты\nДробовики\nАвтоматы / Винтовки\nСнаряжение / Гранаты","Выбор","Отмена");
@@ -158,22 +161,22 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 						{
 							case 0: 
 							{
-								if(Player[this][Money] < 400) return SCM(playerid, 0xAC7575FF, "Для покупки этого оружия у вас недостаточно денег!");
+								if(Player[this][Money] < 400) return SCM(playerid, c_negative, "Для покупки этого оружия у вас недостаточно денег!");
 								Player[this][Money] -= 400, GiveWeapon(this, 22, 64, 2);
 							}
 							case 1: 
 							{
-								if(Player[this][Money] < 450) return SCM(playerid, 0xAC7575FF, "Для покупки этого оружия у вас недостаточно денег!");
+								if(Player[this][Money] < 450) return SCM(playerid, c_negative, "Для покупки этого оружия у вас недостаточно денег!");
 								Player[this][Money] -= 450, GiveWeapon(this, 23, 64, 2);
 							}
 							case 2: 
 							{
-								if(Player[this][Money] < 700) return SCM(playerid, 0xAC7575FF, "Для покупки этого оружия у вас недостаточно денег!");
+								if(Player[this][Money] < 700) return SCM(playerid, c_negative, "Для покупки этого оружия у вас недостаточно денег!");
 								Player[this][Money] -= 700, GiveWeapon(this, 24, 31, 2);
 							}
 							case 3: 
 							{
-								if(Player[this][Money] < 1100) return SCM(playerid, 0xAC7575FF, "Для покупки этого оружия у вас недостаточно денег!");
+								if(Player[this][Money] < 1100) return SCM(playerid, c_negative, "Для покупки этого оружия у вас недостаточно денег!");
 								Player[this][Money] -= 1100, GiveWeapon(this, 32, 42, 4);
 							}
 						}
@@ -184,17 +187,17 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 						{
 							case 0: 
 							{
-								if(Player[this][Money] < 1500) return SCM(playerid, 0xAC7575FF, "Для покупки этого оружия у вас недостаточно денег!");
+								if(Player[this][Money] < 1500) return SCM(playerid, c_negative, "Для покупки этого оружия у вас недостаточно денег!");
 								Player[this][Money] -= 1500, GiveWeapon(this, 25, 42, 3);
 							}
 							case 1: 
 							{
-								if(Player[this][Money] < 2400) return SCM(playerid, 0xAC7575FF, "Для покупки этого оружия у вас недостаточно денег!");
+								if(Player[this][Money] < 2400) return SCM(playerid, c_negative, "Для покупки этого оружия у вас недостаточно денег!");
 								Player[this][Money] -= 2400, GiveWeapon(this, 26, 36, 3);
 							}
 							case 2: 
 							{
-								if(Player[this][Money] < 2500) return SCM(playerid, 0xAC7575FF, "Для покупки этого оружия у вас недостаточно денег!");
+								if(Player[this][Money] < 2500) return SCM(playerid, c_negative, "Для покупки этого оружия у вас недостаточно денег!");
 								Player[this][Money] -= 2500, GiveWeapon(this, 27, 36, 3);
 							}
 						}
@@ -205,32 +208,32 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 						{
 							case 0: 
 							{
-								if(Player[this][Money] < 1800) return SCM(playerid, 0xAC7575FF, "Для покупки этого оружия у вас недостаточно денег!");
+								if(Player[this][Money] < 1800) return SCM(playerid, c_negative, "Для покупки этого оружия у вас недостаточно денег!");
 								Player[this][Money] -= 1800, GiveWeapon(this, 28, 90, 4);
 							}
 							case 1: 
 							{
-								if(Player[this][Money] < 2000) return SCM(playerid, 0xAC7575FF, "Для покупки этого оружия у вас недостаточно денег!");
+								if(Player[this][Money] < 2000) return SCM(playerid, c_negative, "Для покупки этого оружия у вас недостаточно денег!");
 								Player[this][Money] -= 2000, GiveWeapon(this, 29, 90, 4);
 							}
 							case 2: 
 							{
-								if(Player[this][Money] < 3300) return SCM(playerid, 0xAC7575FF, "Для покупки этого оружия у вас недостаточно денег!");
+								if(Player[this][Money] < 3300) return SCM(playerid, c_negative, "Для покупки этого оружия у вас недостаточно денег!");
 								Player[this][Money] -= 3300, GiveWeapon(this, 30, 120, 5);
 							}
 							case 3: 
 							{
-								if(Player[this][Money] < 3300) return SCM(playerid, 0xAC7575FF, "Для покупки этого оружия у вас недостаточно денег!");
+								if(Player[this][Money] < 3300) return SCM(playerid, c_negative, "Для покупки этого оружия у вас недостаточно денег!");
 								Player[this][Money] -= 3300, GiveWeapon(this, 31, 120, 5);
 							}
 							case 4: 
 							{
-								if(Player[this][Money] < 5000) return SCM(playerid, 0xAC7575FF, "Для покупки этого оружия у вас недостаточно денег!");
+								if(Player[this][Money] < 5000) return SCM(playerid, c_negative, "Для покупки этого оружия у вас недостаточно денег!");
 								Player[this][Money] -= 5000, GiveWeapon(this, 33, 37, 6);
 							}
 							case 5: 
 							{
-								if(Player[this][Money] < 6200) return SCM(playerid, 0xAC7575FF, "Для покупки этого оружия у вас недостаточно денег!");
+								if(Player[this][Money] < 6200) return SCM(playerid, c_negative, "Для покупки этого оружия у вас недостаточно денег!");
 								Player[this][Money] -= 6200, GiveWeapon(this, 34, 37, 6);
 							}
 						}
@@ -291,7 +294,7 @@ public OnPlayerEnterDynamicArea(playerid, areaid)
 {
 	if((areaid == buy_ct && GetPlayerTeam(this) == CT) || (areaid == buy_t && GetPlayerTeam(this) == T)) 
 	{
-		SendClientMessage(playerid,0x03c03cFF,"Вы находитесь в зоне покупки, для покупки оружия нажмите клавишу {ffffff}'Y'");
+		SendClientMessage(playerid,c_good,"Вы находитесь в зоне покупки, для покупки оружия нажмите клавишу {ffffff}'Y'");
 		TextDrawShowForPlayer(playerid, s_buyzone);
 	}
 	return true;
@@ -341,14 +344,16 @@ int update_server()
 {
 	if(_check[0] <= gettime() && _check[0] != 0)
 	{
-		if(r_timer <= gettime())
+		if(r_timer <= gettime()) // Конец раунда. Если произойдет сбой / лаг ( <= )
 		{
-			r_timer = gettime()+210;
-			cur_time = r_timer-gettime();
-			h_s = floatround(cur_time / 3600);
-			m_t = floatround((cur_time / 60) - (h_s * 60));
-			s_s = floatround(cur_time - ((h_s * 3600) + (m_t * 60)));
+			TextDrawSetString(s_win,"Counter-Terrorist Win"), TextDrawShowForAll(s_win);
+			SetTimerEx("s_off", 3000, false, "i", INVALID_PLAYER_ID);
+			r_timer = 0;
 		}
+		cur_time = r_timer-gettime();
+		h_s = floatround(cur_time / 3600);
+		m_t = floatround((cur_time / 60) - (h_s * 60));
+		s_s = floatround(cur_time - ((h_s * 3600) + (m_t * 60)));
 	}
 	return true;
 }
@@ -390,7 +395,12 @@ int GetWeaponSlot(weaponid)
 	return slot;
 }
 
-int s_off(playerid) return TextDrawHideForPlayer(playerid, s_300);
+int s_off(playerid)
+{
+	if(playerid != INVALID_PLAYER_ID) TextDrawHideForPlayer(playerid, s_300);
+	else TextDrawHideForAll(s_win);
+	return true;
+}
 
 GiveWeapon(playerid, weaponid, ammo, slot)
 {

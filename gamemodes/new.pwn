@@ -21,6 +21,8 @@
 	***
 	
 	Project in github: https://github.com/georJik/SEGMS
+	
+	c_type: ANSI
 	 
 */
 
