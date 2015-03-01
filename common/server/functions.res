@@ -15,6 +15,8 @@ public OnGameModeInit()
 	SetTimer("update_client", CLIENT_RATE, true);
 	_check[0] = gettime()+1; // useful check's
 	r_timer = gettime()+210;
+	buy_ct = CreateDynamicCircle(267.2624,1820.7147, 10.0);
+	buy_t = CreateDynamicCircle(114.6435,1920.2651, 10.0);
 	return true;
 }
 
@@ -93,7 +95,11 @@ public OnPlayerKeyStateChange(playerid, newkeys, oldkeys)
 {
 	if(newkeys & KEY_YES)
 	{
-		ShowPlayerDialog(playerid, WEAPON_LIST, DIALOG_STYLE_LIST, "{FFAF00}Покупка оружия","Пистолеты\nДробовики\nАвтоматы / Винтовки\nСнаряжение / Гранаты","Выбор","Отмена");
+		if(m_t < 3 && s_s < 30) return SCM(playerid,0xAC7575FF,"Прошло более 20 секунд с момента старта раунда. Покупка невозможна.");
+		if((IsPlayerInDynamicArea(this, buy_ct) && GetPlayerTeam(this) == CT) || (IsPlayerInDynamicArea(this, buy_t) && GetPlayerTeam(this) == T))
+		{
+			ShowPlayerDialog(playerid, WEAPON_LIST, DIALOG_STYLE_LIST, "{FFAF00}Покупка оружия","Пистолеты\nДробовики\nАвтоматы / Винтовки\nСнаряжение / Гранаты","Выбор","Отмена");
+		}
 	}
 	return true;
 }
@@ -281,6 +287,22 @@ public OnPlayerWeaponShot(playerid, weaponid, hittype, hitid, Float:fX, Float:fY
     return true;
 }
 
+public OnPlayerEnterDynamicArea(playerid, areaid)
+{
+	if((areaid == buy_ct && GetPlayerTeam(this) == CT) || (areaid == buy_t && GetPlayerTeam(this) == T)) 
+	{
+		SendClientMessage(playerid,0x03c03cFF,"Вы находитесь в зоне покупки, для покупки оружия нажмите клавишу {ffffff}'Y'");
+		TextDrawShowForPlayer(playerid, s_buyzone);
+	}
+	return true;
+}
+
+public OnPlayerLeaveDynamicArea(playerid, areaid)
+{
+	if((areaid == buy_ct && GetPlayerTeam(this) == CT) || (areaid == buy_t && GetPlayerTeam(this) == T)) TextDrawHideForPlayer(playerid, s_buyzone);
+	return true;
+}
+
 int LoadMaps()
 {
 	/* Default Map */
@@ -322,6 +344,10 @@ int update_server()
 		if(r_timer <= gettime())
 		{
 			r_timer = gettime()+210;
+			cur_time = r_timer-gettime();
+			h_s = floatround(cur_time / 3600);
+			m_t = floatround((cur_time / 60) - (h_s * 60));
+			s_s = floatround(cur_time - ((h_s * 3600) + (m_t * 60)));
 		}
 	}
 	return true;
@@ -343,10 +369,6 @@ int update_client()
 		}
 		if(Player[this][Money] != GetPlayerMoney(playerid)) ResetPlayerMoney(playerid), GivePlayerMoney(playerid,Player[this][Money]);
 		if(Player[this][Money] > 16000) Player[this][Money] = 16000;
-		cur_time = r_timer-gettime();
-		h_s = floatround(cur_time / 3600);
-		m_t = floatround((cur_time / 60) - (h_s * 60));
-		s_s = floatround(cur_time - ((h_s * 3600) + (m_t * 60)));
 		format(time_round, sizeof(time_round), "%i:%02i", m_t, s_s);
 		TextDrawSetString(s_timer, time_round);
 		TextDrawHideForPlayer(this, s_timer), TextDrawShowForPlayer(this, s_timer);

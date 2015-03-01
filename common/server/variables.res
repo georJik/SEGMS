@@ -13,4 +13,6 @@ new
 	_check[3], // Var's
 	r_timer,
 	time_round[10],
-	cur_time, h_s, m_t, s_s;
+	cur_time, h_s, m_t, s_s,
+	//areas
+	buy_ct, buy_t;
